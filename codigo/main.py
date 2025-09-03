@@ -2,9 +2,10 @@ import requests
 import csv
 from datetime import datetime, timezone
 import time
+import os
 
 # Configurações
-TOKEN = "[TOKEN]"  # TOKEN GITHUB
+TOKEN = os.getenv("GITHUB_TOKEN", "")  # TOKEN GITHUB
 URL = "https://api.github.com/graphql"
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 

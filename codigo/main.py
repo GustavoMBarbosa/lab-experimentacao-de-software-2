@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 import time
 
 # Configurações
-TOKEN = "[TOKEN]" # TOKEN GITHUB
+# TOKEN = "[TOKEN]" # TOKEN GITHUB
 URL = "https://api.github.com/graphql"
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 

@@ -2,10 +2,9 @@ import requests
 import csv
 from datetime import datetime, timezone
 import time
-import os
 
 # Configurações
-TOKEN = os.getenv("GITHUB_TOKEN", "")  # TOKEN GITHUB
+TOKEN = "[TOKEN]" # TOKEN GITHUB
 URL = "https://api.github.com/graphql"
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
 
@@ -126,6 +125,12 @@ def main():
     print(f"Coleta finalizada! Total de repositórios coletados: {len(repos)}")
 
     print("Salvando dados em CSV...")
+    save_to_csv(repos)
+    print("Arquivo 'repositorios_java.csv' salvo com sucesso.")
+
+if __name__ == "__main__":
+    main()
+
     save_to_csv(repos)
     print("Arquivo 'repositorios_java.csv' salvo com sucesso.")
 

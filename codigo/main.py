@@ -71,66 +71,44 @@ def fetch_repositories(max_repos=1000):
 
     return all_repos[:max_repos]
 
+import csv
+
 def save_to_csv(repos, filename="arquivos/repositorios_java.csv"):
     """
-    Salva os dados coletados em um arquivo CSV.
+    Salva os dados coletados em um arquivo CSV apenas com as métricas obrigatórias.
     """
+    from datetime import datetime, timezone
     now = datetime.now(timezone.utc)
 
     with open(filename, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow([
             "Owner", "Name", "Stars",
-            "IdadeMeses", "PRsMes", "ReleasesMes",
-            "DiasDesdeAtualizacao", "LinguagemPrincipal",
-            "TotalIssues", "ClosedIssues", "PercentualIssuesFechadas"
+            "IdadeAnos", "Releases",
+            "LOC", "Comentarios", "CBO", "DIT", "LCOM"  # métricas de qualidade (CK)
         ])
 
         for r in repos:
             created_at = datetime.fromisoformat(r["createdAt"].replace("Z", "+00:00"))
             idade_meses = (now.year - created_at.year) * 12 + (now.month - created_at.month)
-
-            total_prs = r["pullRequests"]["totalCount"]
-            prs_mes = total_prs / idade_meses if idade_meses > 0 else total_prs
-
-            total_releases = r["releases"]["totalCount"]
-            releases_mes = total_releases / idade_meses if idade_meses > 0 else total_releases
-
-            updated_at = datetime.fromisoformat(r["updatedAt"].replace("Z", "+00:00"))
-            delta_days = (now - updated_at).days
-
-            linguagem = r["primaryLanguage"]["name"] if r["primaryLanguage"] else "N/A"
-
-            total_issues = r["issues"]["totalCount"]
-            closed_issues = r["closedIssues"]["totalCount"]
-            pct_closed = (closed_issues / total_issues * 100) if total_issues > 0 else 0
+            idade_anos = idade_meses / 12
 
             writer.writerow([
                 r["owner"]["login"],
                 r["name"],
-                r["stargazerCount"],
-                idade_meses,
-                f"{prs_mes:.2f}",
-                f"{releases_mes:.2f}",
-                delta_days,
-                linguagem,
-                total_issues,
-                closed_issues,
-                f"{pct_closed:.2f}"
+                r["stargazerCount"],  # Popularidade (estrelas)
+                f"{idade_anos:.2f}",  # Maturidade (anos)
+                r["releases"]["totalCount"],  # Atividade (número de releases)
+                "", "", "", "", ""  # Preencher depois com dados do CK
             ])
+
 
 def main():
     print("Iniciando coleta dos 1000 repositórios Java mais populares no GitHub...")
-    repos = fetch_repositories(10)
+    repos = fetch_repositories(1000)
     print(f"Coleta finalizada! Total de repositórios coletados: {len(repos)}")
 
     print("Salvando dados em CSV...")
-    save_to_csv(repos)
-    print("Arquivo 'repositorios_java.csv' salvo com sucesso.")
-
-if __name__ == "__main__":
-    main()
-
     save_to_csv(repos)
     print("Arquivo 'repositorios_java.csv' salvo com sucesso.")
 

@@ -1,1001 +1,1001 @@
-Owner,Name,Stars,IdadeAnos,Releases,LOC,Comentarios,CBO,DIT,LCOM
-Snailclimb,JavaGuide,151691,7.33,0,CK_ERROR,CK_ERROR,CK_ERROR,CK_ERROR,CK_ERROR
-krahets,hello-algo,116484,2.83,9,,,,,
-GrowingGit,GitHub-Chinese-Top-Charts,102073,6.00,0,,,,,
-iluwatar,java-design-patterns,92643,11.08,0,,,,,
-macrozheng,mall,81562,7.42,3,,,,,
-spring-projects,spring-boot,78345,12.92,320,,,,,
-doocs,advanced-java,78224,6.92,1,,,,,
-MisterBooo,LeetCodeAnimation,76444,6.75,0,,,,,
-elastic,elasticsearch,73757,15.58,206,,,,,
-Stirling-Tools,Stirling-PDF,66922,2.67,138,,,,,
-kdn251,interviews,64458,8.58,0,,,,,
-TheAlgorithms,Java,63329,9.17,0,,,,,
-NationalSecurityAgency,ghidra,60260,6.50,46,,,,,
-spring-projects,spring-framework,58822,14.75,343,,,,,
-google,guava,51095,11.33,56,,,,,
-ReactiveX,RxJava,48311,12.67,241,,,,,
-skylot,jadx,45439,12.50,32,,,,,
-dbeaver,dbeaver,45341,9.92,231,,,,,
-termux,termux-app,44964,9.92,95,,,,,
-jeecgboot,JeecgBoot,43840,6.83,61,,,,,
-apache,dubbo,41327,13.25,111,,,,,
-PhilJay,MPAndroidChart,38108,11.42,44,,,,,
-eugenp,tutorials,37253,12.42,0,,,,,
-halo-dev,halo,36883,7.50,227,,,,,
-alibaba,arthas,36707,7.08,59,,,,,
-geekxh,hello-algorithm,35769,5.33,0,,,,,
-airbnb,lottie-android,35468,8.92,59,,,,,
-TeamNewPipe,NewPipe,35038,10.00,137,,,,,
-bumptech,glide,34946,12.17,53,,,,,
-doocs,leetcode,34927,7.00,21,,,,,
-netty,netty,34422,14.83,0,,,,,
-xkcoding,spring-boot-demo,33899,7.83,0,,,,,
-Blankj,AndroidUtilCode,33638,9.17,117,,,,,
-alibaba,easyexcel,33618,7.58,14,,,,,
-zxing,zxing,33581,13.92,31,,,,,
-YunaiV,ruoyi-vue-pro,33168,4.67,46,,,,,
-SeleniumHQ,selenium,33166,12.67,108,,,,,
-alibaba,nacos,32033,7.25,84,,,,,
-binarywang,WxJava,31885,9.67,30,,,,,
-apache,kafka,30875,14.08,0,,,,,
-ityouknow,spring-boot-examples,30598,8.83,0,,,,,
-chinabugotech,hutool,30063,11.42,153,,,,,
-apolloconfig,apollo,29654,9.50,41,,,,,
-keycloak,keycloak,29538,12.17,87,,,,,
-alibaba,canal,29364,12.67,32,,,,,
-xuxueli,xxl-job,29287,9.83,39,,,,,
-conductor-oss,conductor,29037,1.75,25,,,,,
-wuyouzhuguli,SpringAll,28956,7.33,0,,,,,
-alibaba,spring-cloud-alibaba,28749,7.75,48,,,,,
-alibaba,druid,28195,13.83,51,,,,,
-lenve,vhr,27939,7.67,0,,,,,
-DrKLO,Telegram,27516,11.92,95,,,,,
-crossoverJie,JCSprout,27074,7.75,0,,,,,
-qiurunze123,miaosha,26509,7.00,0,,,,,
-ashishps1,awesome-system-design-resources,25872,1.92,0,,,,,
-apache,incubator-seata,25796,6.75,44,,,,,
-alibaba,fastjson,25753,13.83,84,,,,,
-JakeWharton,butterknife,25485,12.50,0,,,,,
-hollischuang,toBeTopJavaer,25464,6.92,0,,,,,
-apache,flink,25249,11.25,0,,,,,
-scwang90,SmartRefreshLayout,25151,8.25,14,,,,,
-proxyee-down-org,proxyee-down,24868,7.92,49,,,,,
-OpenAPITools,openapi-generator,24800,7.33,73,,,,,
-Anuken,Mindustry,24796,8.42,168,,,,,
-greenrobot,EventBus,24764,13.17,7,,,,,
-bazelbuild,bazel,24543,11.25,212,,,,,
-apache,skywalking,24517,9.83,62,,,,,
-yuliskov,SmartTube,24415,5.17,913,,,,,
-jenkinsci,jenkins,24413,14.83,443,,,,,
-Netflix,Hystrix,24397,12.83,79,,,,,
-libgdx,libgdx,24335,13.08,14,,,,,
-CodePhiliaX,Chat2DB,24230,2.25,43,,,,,
-google,gson,24035,10.50,12,,,,,
-redisson,redisson,24026,11.67,173,,,,,
-doocs,source-code-hunter,22948,5.92,0,,,,,
-alibaba,Sentinel,22900,7.42,25,,,,,
-iBotPeaches,Apktool,22885,13.50,26,,,,,
-EnterpriseQualityCoding,FizzBuzzEnterpriseEdition,22771,12.83,0,,,,,
-apache,rocketmq,22091,8.83,22,,,,,
-google,ExoPlayer,21877,11.25,28,,,,,
-dataease,dataease,21822,4.58,97,,,,,
-elunez,eladmin,21780,6.75,1,,,,,
-openjdk,jdk,21680,7.00,0,,,,,
-LSPosed,LSPosed,21522,4.75,39,,,,,
-kestra-io,kestra,21117,6.08,307,,,,,
-oracle,graal,21080,9.67,32,,,,,
-CarGuo,GSYVideoPlayer,21078,8.83,53,,,,,
-brettwooldridge,HikariCP,20708,11.92,0,,,,,
-kunal-kushwaha,DSA-Bootcamp-Java,20619,4.17,0,,,,,
-apache,shardingsphere,20446,9.67,58,,,,,
-didi,DoKit,20389,7.08,14,,,,,
-mybatis,mybatis-3,20229,12.58,46,,,,,
-ReactiveX,RxAndroid,20061,11.08,20,,,,,
-linlinjava,litemall,19908,7.50,8,,,,,
-yudaocode,SpringBoot-Labs,19855,7.00,0,,,,,
-thingsboard,thingsboard,19682,8.75,70,,,,,
-xiaojieonly,Ehviewer_CN_SXJ,19628,4.83,106,,,,,
-dianping,cat,18935,12.75,3,,,,,
-Baseflow,PhotoView,18871,13.17,5,,,,,
-JetBrains,intellij-community,18772,14.00,4,,,,,
-antlr,antlr4,18322,15.58,31,,,,,
-williamfiset,Algorithms,18210,8.50,0,,,,,
-Tencent,APIJSON,18186,8.83,110,,,,,
-dromara,Sa-Token,18151,5.58,38,,,,,
-LMAX-Exchange,disruptor,17979,13.00,14,,,,,
-forezp,SpringCloudLearning,17972,8.42,0,,,,,
-ashishps1,awesome-low-level-design,17854,1.83,0,,,,,
-YunaiV,yudao-cloud,17839,6.33,32,,,,,
-Tencent,tinker,17539,9.00,60,,,,,
-openzipkin,zipkin,17299,13.25,97,,,,,
-infinilabs,analysis-ik,17207,13.75,1,,,,,
-justauth,JustAuth,17182,6.67,46,,,,,
-facebook,fresco,17139,10.50,55,,,,,
-baomidou,mybatis-plus,17101,9.08,38,,,,,
-ben-manes,caffeine,17025,10.75,71,,,,,
-material-components,material-components-android,16946,8.75,112,,,,,
-nostra13,Android-Universal-Image-Loader,16915,13.83,0,,,,,
-alibaba,DataX,16799,7.67,7,,,,,
-winterbe,java8-tutorial,16780,11.50,0,,,,,
-shuzheng,zheng,16731,8.92,0,,,,,
-Grasscutters,Grasscutter,16659,3.42,20,,,,,
-heibaiying,BigData-Notes,16643,6.50,0,,,,,
-JeffLi1993,springboot-learning-example,16556,8.58,0,,,,,
-gyoogle,tech-interview-for-developer,16503,6.25,0,,,,,
-prestodb,presto,16498,13.08,12,,,,,
-questdb,questdb,16080,11.42,93,,,,,
-android-hacker,VirtualXposed,15825,7.75,50,,,,,
-dyc87112,SpringBoot-Learning,15791,9.08,0,,,,,
-android10,Android-CleanArchitecture,15564,11.08,0,,,,,
-mockito,mockito,15273,12.92,222,,,,,
-apache,hadoop,15252,11.08,0,,,,,
-Konloch,bytecode-viewer,15208,10.92,61,,,,,
-neo4j,neo4j,15047,12.83,72,,,,,
-quarkusio,quarkus,14958,7.17,415,,,,,
-zhisheng17,flink-learning,14927,6.67,0,,,,,
-apache,pulsar,14840,9.25,112,,,,,
-java-decompiler,jd-gui,14733,10.50,18,,,,,
-elastic,logstash,14629,14.83,206,,,,,
-eclipse-vertx,vert.x,14566,14.25,0,,,,,
-hdodenhof,CircleImageView,14535,11.67,0,,,,,
-Tencent,QMUI_Android,14512,8.42,35,,,,,
-supertokens,supertokens-core,14498,5.67,91,,,,,
-alibaba,ARouter,14492,8.75,16,,,,,
-arduino,Arduino,14421,15.00,37,,,,,
-apache,doris,14254,8.08,74,,,,,
-theonedev,onedev,14247,6.83,430,,,,,
-deeplearning4j,deeplearning4j,14096,11.83,0,,,,,
-zaproxy,zaproxy,14081,10.25,20,,,,,
-GoogleContainerTools,jib,14013,7.67,168,,,,,
-orhanobut,logger,13889,10.50,16,,,,,
-Netflix,zuul,13886,12.50,28,,,,,
-apache,druid,13824,12.92,68,,,,,
-apache,dolphinscheduler,13818,6.50,53,,,,,
-seaswalker,spring-analysis,13728,9.00,0,,,,,
-pinpoint-apm,pinpoint,13711,10.92,61,,,,,
-JessYanCoding,AndroidAutoSize,13692,7.08,14,,,,,
-DuGuQiuBai,Java,13692,9.83,0,,,,,
-sqshq,piggymetrics,13690,10.50,2,,,,,
-Curzibn,Luban,13675,9.17,6,,,,,
-lgvalle,Material-Animations,13643,10.50,0,,,,,
-cryptomator,cryptomator,13594,11.58,193,,,,,
-janishar,mit-deep-learning-book-pdf,13583,8.42,3,,,,,
-languagetool-org,languagetool,13557,12.08,0,,,,,
-tink-crypto,tink,13556,11.25,21,,,,,
-LuckSiege,PictureSelector,13545,8.67,116,,,,,
-Bigkoo,Android-PickerView,13481,10.75,0,,,,,
-kekingcn,kkFileView,13306,7.75,16,,,,,
-projectlombok,lombok,13265,16.25,0,,,,,
-macrozheng,mall-learning,13249,6.42,0,,,,,
-youth5201314,banner,13037,9.42,0,,,,,
-ashishps1,awesome-leetcode-resources,12907,1.92,0,,,,,
-pxb1988,dex2jar,12899,10.50,8,,,,,
-Netflix,conductor,12776,8.75,319,,,,,
-facebook,stetho,12708,10.67,13,,,,,
-codecentric,spring-boot-admin,12684,11.17,136,,,,,
-google,guice,12672,11.33,19,,,,,
-alibaba,COLA,12648,7.58,11,,,,,
-greenrobot,greenDAO,12627,13.92,8,,,,,
-Netflix,eureka,12620,13.17,151,,,,,
-macrozheng,mall-swarm,12602,5.83,3,,,,,
-apache,zookeeper,12594,16.50,0,,,,,
-zhihu,Matisse,12567,8.42,15,,,,,
-daimajia,AndroidViewAnimations,12471,11.25,9,,,,,
-metersphere,metersphere,12454,5.58,179,,,,,
-daimajia,AndroidSwipeLayout,12409,11.08,18,,,,,
-pagehelper,Mybatis-PageHelper,12338,11.25,15,,,,,
-redis,jedis,12150,15.25,114,,,,,
-amitshekhariitbhu,android-interview-questions,12066,8.17,0,,,,,
-plantuml,plantuml,12052,14.83,60,,,,,
-Yalantis,uCrop,12039,9.67,20,,,,,
-Tencent,matrix,11900,6.75,16,,,,,
-Tencent,VasSonic,11869,8.08,10,,,,,
-trinodb,trino,11857,6.67,0,,,,,
-grpc,grpc-java,11837,10.75,180,,,,,
-Team-xManager,xManager,11832,4.58,51,,,,,
-debezium,debezium,11822,9.67,0,,,,,
-frank-lam,fullstack-tutorial,11681,7.42,0,,,,,
-code4craft,webmagic,11625,12.42,33,,,,,
-xpipe-io,xpipe,11580,2.67,121,,,,,
-opensearch-project,OpenSearch,11524,4.67,59,,,,,
-OpenRefine,OpenRefine,11505,12.92,72,,,,,
-realm,realm-java,11483,13.42,0,,,,,
-careercup,CtCI-6th-Edition,11458,10.17,0,,,,,
-gyf-dev,ImmersionBar,11452,8.42,0,,,,,
-PaperMC,Paper,11399,9.67,0,,,,,
-newbee-ltd,newbee-mall,11391,6.00,0,,,,,
-provectus,kafka-ui,11271,5.83,25,,,,,
-jhy,jsoup,11242,15.75,20,,,,,
-permissions-dispatcher,PermissionsDispatcher,11231,10.08,40,,,,,
-mission-peace,interview,11210,11.17,0,,,,,
-apereo,cas,11192,14.00,303,,,,,
-H07000223,FlycoTabLayout,11123,9.83,4,,,,,
-daniulive,SmarterStreaming,11114,9.50,0,,,,,
-lingochamp,FileDownloader,11111,9.75,65,,,,,
-beemdevelopment,Aegis,11099,9.08,72,,,,,
-LawnchairLauncher,lawnchair,11050,8.50,30,,,,,
-jfeinstein10,SlidingMenu,11047,13.25,0,,,,,
-androidannotations,androidannotations,11039,13.67,0,,,,,
-datahub-project,datahub,11022,9.83,104,,,,,
-doocs,jvm,10967,7.25,0,,,,,
-ssssssss-team,spider-flow,10894,5.50,2,,,,,
-microg,GmsCore,10873,11.42,41,,,,,
-square,javapoet,10870,12.58,0,,,,,
-apple,pkl,10848,1.67,16,,,,,
-jwtk,jjwt,10844,11.00,9,,,,,
-alibaba,vlayout,10772,8.58,34,,,,,
-aosp-mirror,platform_frameworks_base,10763,16.92,0,,,,,
-asLody,VirtualApp,10748,9.17,0,,,,,
-TooTallNate,Java-WebSocket,10734,15.67,19,,,,,
-clojure,clojure,10714,15.25,0,,,,,
-StarRocks,starrocks,10643,4.00,154,,,,,
-android-async-http,android-async-http,10633,14.58,3,,,,,
-jeasonlzy,okhttp-OkGo,10603,9.67,14,,,,,
-google,auto,10520,12.33,66,,,,,
-lipangit,JiaoZiVideoPlayer,10493,9.58,78,,,,,
-tbruyelle,RxPermissions,10482,10.00,11,,,,,
-Activiti,Activiti,10424,13.00,1000,,,,,
-zfile-dev,zfile,10379,6.08,67,,,,,
-resilience4j,resilience4j,10360,10.25,35,,,,,
-JessYanCoding,MVPArms,10291,9.08,25,,,,,
-awsdocs,aws-doc-sdk-examples,10196,9.08,0,,,,,
-JakeWharton,ViewPagerIndicator,10107,14.08,0,,,,,
-signalapp,Signal-Server,10060,11.75,0,,,,,
-stanfordnlp,CoreNLP,9966,12.25,19,,,,,
-wasabeef,glide-transformations,9926,10.67,0,,,,,
-googlesamples,easypermissions,9917,9.75,12,,,,,
-paascloud,paascloud-master,9894,7.50,0,,,,,
-uknownothingsnow,JsBridge,9889,10.58,0,,,,,
-SonarSource,sonarqube,9869,14.67,65,,,,,
-hackware1993,MagicIndicator,9804,9.25,12,,,,,
-HarlonWang,AVLoadingIndicatorView,9771,9.92,1,,,,,
-OpenFeign,feign,9734,12.25,39,,,,,
-YoKeyword,Fragmentation,9724,9.58,30,,,,,
-xuchengsheng,spring-reading,9699,2.00,0,,,,,
-lihengming,spring-boot-api-project-seed,9685,8.25,4,,,,,
-perwendel,spark,9660,14.33,0,,,,,
-ksoichiro,Android-ObservableScrollView,9651,10.83,0,,,,,
-react-native-camera,react-native-camera,9646,10.42,144,,,,,
-koral--,android-gif-drawable,9630,12.67,61,,,,,
-bilibili,DanmakuFlameMaster,9600,12.08,5,,,,,
-spinnaker,spinnaker,9580,11.17,15,,,,,
-liaohuqiu,android-Ultra-Pull-To-Refresh,9564,10.83,8,,,,,
-MyCATApache,Mycat-Server,9555,10.75,7,,,,,
-umano,AndroidSlidingUpPanel,9500,12.33,8,,,,,
-crossoverJie,cim,9442,7.33,9,,,,,
-pockethub,PocketHub,9381,14.00,1,,,,,
-apache,cassandra,9358,16.33,0,,,,,
-Justson,AgentWeb,9351,8.33,21,,,,,
-seven332,EhViewer,9322,11.33,97,,,,,
-huanghaibin-dev,CalendarView,9310,8.50,1,,,,,
-spring-projects,spring-security,9291,13.67,227,,,,,
-GcsSloop,AndroidNote,9291,9.67,0,,,,,
-json-path,JsonPath,9289,14.67,10,,,,,
-android,testing-samples,9275,10.92,0,,,,,
-cats-oss,android-gpuimage,9127,12.92,0,,,,,
-flyway,flyway,9083,12.75,266,,,,,
-didi,VirtualAPK,9041,8.25,4,,,,,
-apache,jmeter,8991,15.33,10,,,,,
-navasmdc,MaterialDesignLibrary,8972,11.00,3,,,,,
-langchain4j,langchain4j,8965,2.25,51,,,,,
-KunMinX,Jetpack-MVVM-Best-Practice,8951,5.92,0,,,,,
-Freelander,Android_Data,8844,10.42,0,,,,,
-nathanmarz,storm,8811,14.00,0,,,,,
-laobie,StatusBarUtil,8800,9.58,0,,,,,
-java-native-access,jna,8800,14.42,0,,,,,
-apache,seatunnel,8778,8.08,51,,,,,
-Blankj,awesome-java-leetcode,8716,8.42,0,,,,,
-flowable,flowable-engine,8708,8.92,28,,,,,
-chrisbanes,Android-PullToRefresh,8689,13.83,0,,,,,
-checkstyle,checkstyle,8672,12.08,169,,,,,
-ybq,Android-SpinKit,8666,9.50,0,,,,,
-karatelabs,karate,8659,8.58,54,,,,,
-apache,shenyu,8658,7.17,13,,,,,
-shwenzhang,AndResGuard,8623,9.92,4,,,,,
-react-native-image-picker,react-native-image-picker,8589,10.25,142,,,,,
-chrisjenx,Calligraphy,8570,11.75,4,,,,,
-amitshekhariitbhu,Android-Debug-Database,8559,8.83,14,,,,,
-airbnb,epoxy,8559,9.08,76,,,,,
-facebook,buck,8556,12.42,57,,,,,
-dropwizard,dropwizard,8553,14.67,188,,,,,
-junit-team,junit4,8536,16.67,13,,,,,
-frohoff,ysoserial,8504,10.67,1,,,,,
-google,tsunami-security-scanner,8464,5.25,27,,,,,
-ZCShou,GoGoGo,8430,3.75,8,,,,,
-roughike,BottomBar,8391,9.50,4,,,,,
-hs-web,hsweb-framework,8383,9.67,30,,,,,
-LSPosed,LSPatch,8378,4.50,9,,,,,
-PojavLauncherTeam,PojavLauncher,8375,5.50,126,,,,,
-DImuthuUpe,AndroidPdfViewer,8358,9.25,0,,,,,
-testcontainers,testcontainers-java,8317,10.42,85,,,,,
-wildfirechat,im-server,8298,6.67,108,,,,,
-apache,beam,8291,9.58,52,,,,,
-apache,shardingsphere-elasticjob,8208,10.00,30,,,,,
-pentaho,pentaho-kettle,8168,11.92,1,,,,,
-alibaba,atlas,8150,8.58,7,,,,,
-cabaletta,baritone,8132,7.08,85,,,,,
-alibaba,transmittable-thread-local,8128,11.92,58,,,,,
-alibaba,otter,8124,12.08,10,,,,,
-florent37,MaterialViewPager,8114,10.42,11,,,,,
-bytedeco,javacv,8112,11.42,13,,,,,
-HMCL-dev,HMCL,8105,10.25,258,,,,,
-guolindev,LitePal,8103,12.58,0,,,,,
-aeron-io,aeron,8094,11.58,126,,,,,
-aritraroy,UltimateAndroidReference,8088,8.42,0,,,,,
-davemorrissey,subsampling-scale-image-view,7986,12.08,21,,,,,
-Netflix,SimianArmy,7985,13.17,4,,,,,
-junixapp,XPopup,7965,6.75,221,,,,,
-apache,iceberg,7948,6.83,31,,,,,
-apache,tomcat,7947,13.92,0,,,,,
-JakeWharton,hugo,7930,11.83,0,,,,,
-dropwizard,metrics,7851,15.58,138,,,,,
-HannahMitt,HomeMirror,7846,10.08,0,,,,,
-software-mansion,react-native-svg,7825,9.67,124,,,,,
-ChrisRM,material-theme-jetbrains,7796,10.00,17,,,,,
-Graylog2,graylog2-server,7791,15.33,0,,,,,
-trello-archive,RxLifecycle,7692,10.17,22,,,,,
-goldze,MVVMHabit,7682,8.17,3,,,,,
-vipshop,vjtools,7672,7.33,9,,,,,
-krahets,LeetCode-Book,7661,3.75,0,,,,,
-lecho,hellocharts-android,7642,10.92,14,,,,,
-Tencent,Shadow,7639,6.25,5,,,,,
-gedoor,MyBookshelf,7621,7.25,165,,,,,
-google,android-classyshark,7588,9.92,17,,,,,
-PowerJob,PowerJob,7584,5.50,51,,,,,
-google,closure-compiler,7569,11.42,0,,,,,
-koush,AndroidAsync,7546,13.08,0,,,,,
-kaushikgopal,RxJava-Android-Samples,7528,11.17,0,,,,,
-jeecgboot,jimureport,7511,5.75,29,,,,,
-kevin-wayne,algs4,7503,10.08,0,,,,,
-mapstruct,mapstruct,7497,13.33,35,,,,,
-yuanguangxin,LeetCode,7469,5.67,0,,,,,
-swagger-api,swagger-core,7454,14.17,120,,,,,
-enso-org,enso,7436,8.75,477,,,,,
-lenve,VBlog,7420,7.75,0,,,,,
-dyc87112,SpringCloud-Learning,7404,9.08,0,,,,,
-gunnarmorling,1brc,7397,1.75,0,,,,,
-abel533,Mapper,7371,10.83,8,,,,,
-leolin310148,ShortcutBadger,7355,11.83,0,,,,,
-Qihoo360,RePlugin,7338,8.25,19,,,,,
-MinecraftForge,MinecraftForge,7301,13.67,0,,,,,
-square,dagger,7300,13.08,0,,,,,
-gocd,gocd,7290,11.75,86,,,,,
-Bearded-Hen,Android-Bootstrap,7271,11.83,5,,,,,
-pedant,sweet-alert-dialog,7252,10.92,2,,,,,
-crazycodeboy,TakePhoto,7243,10.08,15,,,,,
-AntennaPod,AntennaPod,7234,13.17,62,,,,,
-Exrick,xmall,7230,8.17,0,,,,,
-geeeeeeeeek,WeChatLuckyMoney,7222,10.00,20,,,,,
-cymcsg,UltimateRecyclerView,7203,10.67,9,,,,,
-dependency-check,DependencyCheck,7180,13.00,85,,,,,
-google,agera,7167,9.75,16,,,,,
-NanoHttpd,nanohttpd,7163,13.08,3,,,,,
-didi,KnowStreaming,7144,5.50,23,,,,,
-ogaclejapan,SmartTabLayout,7098,10.58,0,,,,,
-Genymobile,gnirehtet,7080,8.58,12,,,,,
-JakeWharton,ActionBarSherlock,7076,14.50,32,,,,,
-Alluxio,alluxio,7068,12.75,61,,,,,
-naman14,Timber,7058,10.25,5,,,,,
-AutoMQ,automq,7046,2.08,70,,,,,
-google,error-prone,7038,11.08,57,,,,,
-NLPchina,elasticsearch-sql,7034,11.08,272,,,,,
-h2pl,JavaTutorial,7026,7.33,1,,,,,
-rest-assured,rest-assured,7023,14.92,0,,,,,
-mrniko,netty-socketio,6995,13.67,19,,,,,
-wiremock,wiremock,6977,13.92,51,,,,,
-DroidPluginTeam,DroidPlugin,6962,10.08,2,,,,,
-alibaba,jvm-sandbox,6920,8.08,13,,,,,
-exadel-inc,CompreFace,6871,5.17,11,,,,,
-hongyangAndroid,okhttputils,6862,10.08,0,,,,,
-Meituan-Dianping,walle,6847,8.67,1,,,,,
-macrozheng,springcloud-learning,6830,6.00,0,,,,,
-rabbitmq,rabbitmq-tutorials,6804,15.00,0,,,,,
-zo0r,react-native-push-notification,6788,9.75,35,,,,,
-junit-team,junit-framework,6785,10.67,96,,,,,
-smuyyh,BookReader,6781,9.08,0,,,,,
-Angel-ML,angel,6776,8.42,19,,,,,
-CoderLeixiaoshuai,java-eight-part,6776,4.92,0,,,,,
-guardianproject,haven,6725,8.50,37,,,,,
-markzhai,AndroidPerformanceMonitor,6724,9.67,0,,,,,
-getActivity,AndroidProject,6715,6.92,17,,,,,
-gzu-liyujiang,AndroidPicker,6714,9.92,57,,,,,
-fuzhengwei,itstack-demo-design,6710,5.33,0,,,,,
-zouzg,mybatis-generator-gui,6706,9.33,16,,,,,
-527515025,springBoot,6698,8.83,0,,,,,
-spring-projects,spring-ai,6691,2.25,2,,,,,
-hongyangAndroid,AndroidAutoLayout,6673,9.83,0,,,,,
-Meituan-Dianping,Leaf,6667,6.75,0,,,,,
-apache,storm,6651,11.83,5,,,,,
-yanzhenjie,AndPermission,6646,9.00,0,,,,,
-Col-E,Recaf,6643,8.17,170,,,,,
-raphw,byte-buddy,6609,11.83,304,,,,,
-quartz-scheduler,quartz,6604,9.50,5,,,,,
-apache,hertzbeat,6602,3.58,6,,,,,
-GrenderG,Toasty,6600,8.67,19,,,,,
-apache,zeppelin,6557,10.50,0,,,,,
-JesusFreke,smali,6536,13.00,0,,,,,
-NLPchina,ansj_seg,6529,13.00,3,,,,,
-jOOQ,jOOQ,6519,14.42,105,,,,,
-processing,processing,6505,12.67,48,,,,,
-ximsfei,Android-skin-support,6504,8.67,0,,,,,
-MuntashirAkon,AppManager,6503,5.33,76,,,,,
-FongMi,TV,6487,3.25,0,,,,,
-getActivity,XXPermissions,6465,7.25,72,,,,,
-traccar,traccar,6442,13.42,63,,,,,
-wxiaoqi,Spring-Cloud-Platform,6433,8.33,3,,,,,
-ArthurHub,Android-Image-Cropper,6424,10.67,32,,,,,
-vinc3m1,RoundedImageView,6424,12.58,19,,,,,
-pig-mesh,pig,6416,6.08,19,,,,,
-hazelcast,hazelcast,6391,13.50,200,,,,,
-AsyncHttpClient,async-http-client,6390,14.50,7,,,,,
-aa112901,remusic,6359,9.50,0,,,,,
-vespa-engine,vespa,6346,9.25,239,,,,,
-sshahine,JFoenix,6345,10.00,0,,,,,
-joelittlejohn,jsonschema2pojo,6332,12.25,63,,,,,
-wasabeef,richeditor-android,6331,10.50,0,,,,,
-micronaut-projects,micronaut-core,6296,7.50,311,,,,,
-amitshekhariitbhu,from-java-to-kotlin,6292,8.33,0,,,,,
-koush,ion,6275,12.33,0,,,,,
-648540858,wvp-GB28181-pro,6260,4.83,1,,,,,
-lightbend,config,6259,13.75,3,,,,,
-haifengl,smile,6255,10.83,34,,,,,
-hibernate,hibernate-orm,6234,14.92,108,,,,,
-ityouknow,spring-cloud-examples,6226,8.42,0,,,,,
-apache,flink-cdc,6219,5.17,22,,,,,
-gephi,gephi,6206,13.92,19,,,,,
-graphql-java,graphql-java,6196,10.17,93,,,,,
-DerekYRC,mini-spring,6186,4.83,0,,,,,
-Javen205,IJPay,6163,8.33,24,,,,,
-logisim-evolution,logisim-evolution,6159,11.00,31,,,,,
-jetlinks,jetlinks-community,6149,5.67,20,,,,,
-google,grafika,6131,11.75,1,,,,,
-auth0,java-jwt,6125,11.50,45,,,,,
-ikew0ng,SwipeBackLayout,6124,12.08,0,,,,,
-apache,incubator-kie-drools,6117,14.58,6,,,,,
-nayuki,QR-Code-generator,6109,9.42,5,,,,,
-daimajia,NumberProgressBar,6103,11.33,3,,,,,
-rengwuxian,MaterialEditText,6101,10.92,19,,,,,
-Vedenin,useful-java-links,6061,9.58,0,,,,,
-alipay,SoloPi,6035,6.50,8,,,,,
-google,j2objc,6030,11.67,1,,,,,
-LandGrey,SpringBootVulExploit,6030,5.33,0,,,,,
-singwhatiwanna,dynamic-load-apk,6030,11.50,0,,,,,
-pedrovgs,EffectiveAndroidUI,6015,11.17,0,,,,,
-graphhopper,graphhopper,5999,13.58,45,,,,,
-rey5137,material,5989,10.75,10,,,,,
-google,physical-web,5983,11.00,17,,,,,
-jd-opensource,joyagent-jdgenie,5979,0.17,0,,,,,
-vavr-io,vavr,5971,11.67,19,,,,,
-wyouflf,xUtils3,5968,9.92,9,,,,,
-robolectric,robolectric,5967,15.08,110,,,,,
-obsidiandynamics,kafdrop,5963,6.33,50,,,,,
-liyifeng1994,ssm,5958,9.25,0,,,,,
-btraceio,btrace,5954,11.08,33,,,,,
-apache,camel,5948,16.33,0,,,,,
-javaparser,javaparser,5941,13.92,55,,,,,
-springfox,springfox,5941,13.33,12,,,,,
-apache,hudi,5932,8.75,31,,,,,
-prolificinteractive,material-calendarview,5926,10.58,22,,,,,
-antoniolg,androidmvp,5924,11.42,0,,,,,
-google,google-java-format,5919,10.33,35,,,,,
-weibocom,motan,5897,9.42,27,,,,,
-apache,pinot,5894,11.33,20,,,,,
-journeyapps,zxing-android-embedded,5893,12.83,9,,,,,
-ZhongFuCheng3y,austin,5887,3.83,0,,,,,
-WeiYe-Jing,datax-web,5887,5.83,5,,,,,
-apache,iotdb,5883,6.83,47,,,,,
-lets-blade,blade,5878,10.25,9,,,,,
-opengoofy,hippo4j,5878,4.25,18,,,,,
-LaurieWired,GhidraMCP,5862,0.50,5,,,,,
-CeuiLiSA,Pixiv-Shaft,5846,6.42,110,,,,,
-amitshekhariitbhu,Fast-Android-Networking,5842,9.50,10,,,,,
-ffay,lanproxy,5805,8.83,1,,,,,
-JSQLParser,JSqlParser,5805,14.25,37,,,,,
-Nightonke,BoomMenu,5805,9.50,0,,,,,
-youtube,api-samples,5800,11.75,0,,,,,
-changmingxie,tcc-transaction,5797,9.75,8,,,,,
-yarolegovich,DiscreteScrollView,5788,8.50,2,,,,,
-apache,hive,5785,16.33,0,,,,,
-JakeWharton,DiskLruCache,5774,13.67,0,,,,,
-dmytrodanylyk,circular-progress-button,5773,11.25,3,,,,,
-alibaba,spring-ai-alibaba,5773,1.00,10,,,,,
-TeamAmaze,AmazeFileManager,5756,11.17,66,,,,,
-Nepxion,Discovery,5745,7.25,132,,,,,
-k0shk0sh,FastHub,5730,8.58,63,,,,,
-Devlight,InfiniteCycleViewPager,5725,9.08,2,,,,,
-jeequan,jeepay,5723,8.08,0,,,,,
-jpush,aurora-imui,5715,8.75,42,,,,,
-yanzhenjie,SwipeRecyclerView,5706,9.08,0,,,,,
-dromara,lamp-cloud,5686,7.67,0,,,,,
-springside,springside4,5685,13.58,3,,,,,
-jagrosh,MusicBot,5663,9.08,38,,,,,
-apache,nifi,5662,10.75,0,,,,,
-wasabeef,Blurry,5661,10.17,0,,,,,
-JakeWharton,u2020,5660,11.83,0,,,,,
-crazycodeboy,react-native-splash-screen,5660,9.00,12,,,,,
-hanks-zyh,HTextView,5649,9.75,0,,,,,
-redis,lettuce,5633,11.33,135,,,,,
-ZHENFENG13,spring-boot-projects,5631,8.42,0,,,,,
-daimajia,AndroidImageSlider,5617,11.25,5,,,,,
-JanusGraph,janusgraph,5610,8.75,28,,,,,
-ElderDrivers,EdXposed,5606,6.67,27,,,,,
-meefik,linuxdeploy,5604,13.08,37,,,,,
-TommyLemon,Android-ZBLibrary,5599,10.08,25,,,,,
-hongyangAndroid,FlowLayout,5597,10.08,0,,,,,
-Suwayomi,Suwayomi-Server,5594,4.75,58,,,,,
-amlcurran,ShowcaseView,5582,13.08,13,,,,,
-baidu,uid-generator,5561,8.50,0,,,,,
-knightliao,disconf,5554,11.33,12,,,,,
-nhaarman,ListViewAnimations,5551,12.50,14,,,,,
-danikula,AndroidVideoCache,5496,10.42,20,,,,,
-emilsjolander,StickyListHeaders,5496,13.50,16,,,,,
-wuhaoyu1990,MagicCamera,5493,9.67,0,,,,,
-00-Evan,shattered-pixel-dungeon,5492,11.17,52,,,,,
-sockeqwe,mosby,5476,10.50,15,,,,,
-alibaba,jetcache,5474,8.42,67,,,,,
-scribejava,scribejava,5466,15.00,9,,,,,
-alibaba,freeline,5460,9.08,22,,,,,
-KeepSafe,TapTargetView,5455,9.00,24,,,,,
-dm77,barcodescanner,5449,11.58,6,,,,,
-201206030,novel,5449,5.83,12,,,,,
-Jasonchenlijian,FastBle,5443,9.08,9,,,,,
-motianhuo,wechat,5438,10.33,0,,,,,
-ddd-by-examples,library,5428,6.67,0,,,,,
-facebookarchive,rebound,5418,11.92,10,,,,,
-apache,dubbo-spring-boot-project,5405,7.67,13,,,,,
-socketio,socket.io-client-java,5404,12.42,7,,,,,
-apache,hbase,5386,11.33,47,,,,,
-houbb,sensitive-word,5373,5.67,2,,,,,
-mik3y,usb-serial-for-android,5372,12.25,33,,,,,
-microsoft,typespec,5372,4.25,285,,,,,
-Evernote,android-job,5371,10.08,31,,,,,
-strimzi,strimzi-kafka-operator,5367,9.33,155,,,,,
-facebookarchive,shimmer-android,5365,10.58,5,,,,,
-apache,groovy,5360,10.42,0,,,,,
-jgilfelt,SystemBarTint,5356,11.83,3,,,,,
-spring-projects,spring-data-examples,5354,11.67,0,,,,,
-commonsguy,cw-omnibus,5351,13.50,36,,,,,
-ikarus23,MifareClassicTool,5342,12.58,8,,,,,
-h6ah4i,android-advancedrecyclerview,5336,10.67,1,,,,,
-coobird,thumbnailator,5328,10.17,0,,,,,
-XRecyclerView,XRecyclerView,5319,9.83,0,,,,,
-mybatis,generator,5311,12.58,11,,,,,
-google,google-authenticator,5306,10.92,0,,,,,
-LFDT-web3j,web3j,5299,9.00,119,,,,,
-osmandapp,OsmAnd,5298,14.67,1,,,,,
-evant,gradle-retrolambda,5291,12.08,37,,,,,
-xxv,android-lifecycle,5274,11.42,0,,,,,
-yixia,VitamioBundle,5269,12.92,0,,,,,
-CaffeineMC,sodium,5258,5.58,40,,,,,
-CodingDocs,springboot-guide,5253,6.83,0,,,,,
-lingochamp,okdownload,5246,7.75,8,,,,,
-thinkaurelius,titan,5242,13.58,0,,,,,
-Yalantis,Side-Menu.Android,5240,10.67,2,,,,,
-zfdang,Android-Touch-Helper,5239,4.92,112,,,,,
-alibaba,QLExpress,5235,8.50,17,,,,,
-razerdp,BasePopup,5233,9.67,15,,,,,
-cinit,QAuxiliary,5230,3.67,48,,,,,
-Doikki,DKVideoPlayer,5228,8.42,32,,,,,
-lucasr,twoway-view,5225,12.67,0,,,,,
-rubenlagus,TelegramBots,5224,9.67,108,,,,,
-huangyanbin,smartTable,5221,7.83,44,,,,,
-Karumi,Dexter,5216,9.83,33,,,,,
-liquibase,liquibase,5214,14.17,103,,,,,
-GeyserMC,Geyser,5213,6.17,0,,,,,
-Clans,FloatingActionButton,5205,10.50,14,,,,,
-pmd,pmd,5205,13.17,107,,,,,
-dunwu,db-tutorial,5199,8.08,0,,,,,
-citerus,dddsample-core,5197,10.67,0,,,,,
-remkop,picocli,5191,8.58,86,,,,,
-hustcc,JS-Sorting-Algorithm,5185,8.67,0,,,,,
-tonikelope,megabasterd,5182,9.00,208,,,,,
-android,views-widgets-samples,5155,6.00,0,,,,,
-j-easy,easy-rules,5154,12.50,10,,,,,
-careercup,ctci,5147,12.50,0,,,,,
-square,otto,5147,13.25,0,,,,,
-novicezk,midjourney-proxy,5145,2.42,0,,,,,
-Fuzion24,JustTrustMe,5143,11.17,1,,,,,
-reactor,reactor-core,5139,9.83,212,,,,,
-brianfrankcooper,YCSB,5132,15.42,55,,,,,
-bitcoinj,bitcoinj,5132,11.83,14,,,,,
-LWJGL,lwjgl3,5124,12.75,21,,,,,
-runelite,runelite,5110,9.42,0,,,,,
-zhanglei-workspace,shopping-management-system,5094,9.83,0,,,,,
-CellularPrivacy,Android-IMSI-Catcher-Detector,5094,11.83,48,,,,,
-hneemann,Digital,5093,9.25,35,,,,,
-fast-excel,fastexcel,5090,0.92,5,,,,,
-natario1,CameraView,5084,8.17,42,,,,,
-deathmarine,Luyten,5084,12.17,17,,,,,
-jindrapetrik,jpexs-decompiler,5080,11.33,172,,,,,
-diffplug,spotless,5075,10.42,35,,,,,
-oshi,oshi,5071,13.58,165,,,,,
-sofastack,sofa-boot,5063,7.42,82,,,,,
-OpenTSDB,opentsdb,5061,15.08,27,,,,,
-wequick,Small,5050,9.83,25,,,,,
-baomidou,dynamic-datasource,5045,7.42,18,,,,,
-spring-projects,spring-authorization-server,5042,5.50,80,,,,,
-xuexiangjys,XUI,5038,6.67,23,,,,,
-Exrick,xpay,5035,7.75,0,,,,,
-killbill,killbill,5026,12.92,150,,,,,
-youlookwhat,DesignPattern,5018,8.92,0,,,,,
-yipianfengye,android-zxingLibrary,5015,9.17,0,,,,,
-jankotek,mapdb,5014,13.08,0,,,,,
-Trinea,android-common,5013,13.25,1,,,,,
-tianshiyeben,wgcloud,5010,6.67,29,,,,,
-rubensousa,GravitySnapHelper,5003,9.08,14,,,,,
-2227324689,gpmall,4999,6.17,0,,,,,
-line,armeria,4998,9.83,260,,,,,
-youlookwhat,CloudReader,4996,8.83,26,,,,,
-DingMouRen,LayoutManagerGroup,4992,7.42,0,,,,,
-orhanobut,dialogplus,4988,10.75,9,,,,,
-spring-attic,spring-mvc-showcase,4987,14.25,0,,,,,
-apache,ignite,4983,10.58,0,,,,,
-JodaOrg,joda-time,4978,14.33,50,,,,,
-alibaba,UltraViewPager,4977,8.50,10,,,,,
-killme2008,aviatorscript,4974,14.50,52,,,,,
-frogermcs,InstaMaterial,4969,10.83,1,,,,,
-Devlight,NavigationTabBar,4949,9.50,13,,,,,
-bisq-network,bisq,4947,11.50,142,,,,,
-amitshekhariitbhu,RxJava2-Android-Samples,4942,9.08,0,,,,,
-react-native-linear-gradient,react-native-linear-gradient,4940,10.50,18,,,,,
-apache,calcite,4935,11.25,0,,,,,
-spring-cloud,spring-cloud-netflix,4933,11.17,24,,,,,
-roncoo,roncoo-pay,4921,9.17,0,,,,,
-lugg,react-native-config,4920,9.58,30,,,,,
-traex,RippleEffect,4916,10.92,0,,,,,
-PBH-BTN,PeerBanHelper,4908,1.58,143,,,,,
-querydsl,querydsl,4907,14.08,35,,,,,
-javastacks,spring-boot-best-practice,4906,6.83,0,,,,,
-Ramotion,folding-cell-android,4901,9.42,0,,,,,
-Docile-Alligator,Infinity-For-Reddit,4901,7.17,182,,,,,
-DiUS,java-faker,4896,14.25,0,,,,,
-cglib,cglib,4876,11.50,15,,,,,
-orientechnologies,orientdb,4872,12.75,225,,,,,
-rstudio,rstudio,4864,14.75,0,,,,,
-react-native-webrtc,react-native-webrtc,4859,10.00,81,,,,,
-reactive-streams,reactive-streams-jvm,4859,11.58,0,,,,,
-Sayi,poi-tl,4852,10.50,14,,,,,
-fuzhengwei,small-spring,4849,4.33,0,,,,,
-allure-framework,allure2,4848,9.33,80,,,,,
-nextcloud,android,4839,9.25,261,,,,,
-mcxiaoke,packer-ng-plugin,4825,9.83,1,,,,,
-andkulikov,Transitions-Everywhere,4806,10.92,23,,,,,
-claritylab,lucida,4800,11.33,0,,,,,
-mock-server,mockserver,4793,12.58,0,,,,,
-TheoKanning,openai-java,4788,5.00,22,,,,,
-saiwu-bigkoo,Android-ConvenientBanner,4771,10.75,0,,,,,
-ronmamo,reflections,4768,12.42,3,,,,,
-tuguangquan,mybatis,4765,10.83,0,,,,,
-apache,maven,4764,16.33,26,,,,,
-etsy,AndroidStaggeredGrid,4752,11.75,7,,,,,
-nisrulz,android-tips-tricks,4747,9.08,0,,,,,
-kyleduo,SwitchButton,4745,11.00,0,,,,,
-spring-cloud,spring-cloud-gateway,4739,8.83,36,,,,,
-firebase,FirebaseUI-Android,4733,10.17,66,,,,,
-hongyangAndroid,baseAdapter,4722,10.08,0,,,,,
-google,cameraview,4719,9.08,0,,,,,
-zq2599,blog_demos,4715,8.42,0,,,,,
-hansonwang99,Spring-Boot-In-Action,4714,6.67,0,,,,,
-micrometer-metrics,micrometer,4706,8.42,273,,,,,
-spring-attic,spring-security-oauth,4702,14.17,0,,,,,
-zlt2000,microservices-platform,4701,6.50,30,,,,,
-jgilfelt,chuck,4700,8.58,5,,,,,
-pardom-zz,ActiveAndroid,4680,12.83,0,,,,,
-SPLWare,esProc,4670,3.83,0,,,,,
-saysky,ForestBlog,4667,7.92,0,,,,,
-wdullaer,MaterialDateTimePicker,4661,10.67,54,,,,,
-cjlin1,libsvm,4659,12.00,0,,,,,
-stleary,JSON-java,4659,14.75,24,,,,,
-gsantner,markor,4657,8.08,76,,,,,
-Heeexy,SpringBoot-Shiro-Vue,4646,7.83,0,,,,,
-gabrielemariotti,cardslib,4646,12.00,27,,,,,
-romandanylyk,PageIndicatorView,4639,9.08,14,,,,,
-deepjavalibrary,djl,4638,5.92,35,,,,,
-bytedeco,javacpp,4637,11.42,13,,,,,
-TGX-Android,Telegram-X,4635,4.08,5,,,,,
-oracle,opengrok,4631,12.67,293,,,,,
-bepass-org,oblivion,4618,1.58,12,,,,,
-Netflix,ribbon,4618,12.67,41,,,,,
-981011512,--,4612,5.25,0,,,,,
-apache,rocketmq-externals,4607,8.50,0,,,,,
-SplashCodes,JAViewer,4606,9.33,10,,,,,
-yasserg,crawler4j,4604,13.75,3,,,,,
-SuperMonster003,AutoJs6,4588,3.75,20,,,,,
-chewiebug,GCViewer,4585,13.92,5,,,,,
-CalebFenton,simplify,4584,11.67,9,,,,,
-RedSpider1,concurrent,4583,6.83,0,,,,,
-angryip,ipscan,4579,14.25,31,,,,,
-puniverse,quasar,4577,12.50,18,,,,,
-rememberber,WePush,4572,8.25,58,,,,,
-dromara,dynamic-tp,4569,3.67,19,,,,,
-chentao0707,SimplifyReader,4567,10.08,0,,,,,
-javagrowing,JGrowing,4566,6.58,0,,,,,
-zhanghai,Douya,4562,9.58,11,,,,,
-objectbox,objectbox-java,4555,8.67,48,,,,,
-discord-jda,JDA,4553,9.75,110,,,,,
-charles2gan,GDA-android-reversing-Tool,4550,7.92,40,,,,,
-go-lang-plugin-org,go-lang-idea-plugin,4550,15.08,21,,,,,
-square,sqlbrite,4545,10.58,9,,,,,
-danielzeller,Depth-LIB-Android-,4543,9.42,0,,,,,
-jdamcd,android-crop,4536,11.50,6,,,,,
-JZ-Darkal,AndroidHttpCapture,4531,8.92,1,,,,,
-alibaba,dexposed,4530,10.25,0,,,,,
-hussien89aa,AndroidTutorialForBeginners,4530,9.00,0,,,,,
-zhkl0228,unidbg,4526,6.58,15,,,,,
-castorflex,SmoothProgressBar,4520,11.83,9,,,,,
-ant-media,Ant-Media-Server,4516,8.50,64,,,,,
-azkaban,azkaban,4515,12.92,48,,,,,
-Flipboard,bottomsheet,4515,10.42,10,,,,,
-tiann,epic,4515,8.33,5,,,,,
-phishman3579,java-algorithms-implementation,4510,11.83,0,,,,,
-HotBitmapGG,bilibili-android-client,4493,9.25,1,,,,,
-zongzibinbin,MallChat,4486,2.50,0,,,,,
-JakeWharton,NineOldAndroids,4478,13.75,0,,,,,
-Meituan-Dianping,Robust,4457,8.50,13,,,,,
-booklore-app,booklore,4455,0.75,88,,,,,
-janishar,android-mvp-architecture,4446,8.67,0,,,,,
-linhaojun857,aurora,4445,3.08,0,,,,,
-h2database,h2database,4444,10.42,23,,,,,
-square,android-times-square,4439,12.67,0,,,,,
-dreamhead,moco,4428,12.92,1,,,,,
-water8394,flink-recommandSystem-demo,4421,6.33,0,,,,,
-Tencent,GT,4414,9.67,3,,,,,
-airbnb,DeepLinkDispatch,4405,10.25,24,,,,,
-jacoco,jacoco,4404,13.17,49,,,,,
-IoT-Technology,IoT-Technical-Guide,4402,6.42,0,,,,,
-apache,shiro,4402,16.08,14,,,,,
-Freeyourgadget,Gadgetbridge,4398,10.67,0,,,,,
-robinhood,ticker,4389,9.17,9,,,,,
-flutter-webrtc,flutter-webrtc,4372,7.50,132,,,,,
-Ashok-Varma,BottomNavigation,4364,9.50,16,,,,,
-awangdev,leet-code,4357,10.42,0,,,,,
-pytorch,serve,4348,5.92,24,,,,,
-eirslett,frontend-maven-plugin,4323,12.08,0,,,,,
-jeasonlzy,ImagePicker,4312,9.67,5,,,,,
-mywalkb,LSPosed_mod,4310,3.50,10,,,,,
-bingoogolapple,BGARefreshLayout-Android,4309,10.33,4,,,,,
-kermitt2,grobid,4308,13.00,22,,,,,
-crate,crate,4295,12.42,139,,,,,
-dragonwell-project,dragonwell8,4287,6.50,41,,,,,
-ThirtyDegreesRay,OpenHub,4283,8.17,31,,,,,
-Snailclimb,guide-rpc-framework,4282,5.33,0,,,,,
-mcxiaoke,android-volley,4279,12.33,0,,,,,
-brianway,java-learning,4273,9.58,0,,,,,
-failsafe-lib,failsafe,4273,10.25,0,,,,,
-bjmashibing,InternetArchitect,4273,5.92,0,,,,,
-ongakuer,CircleIndicator,4270,11.17,7,,,,,
-aporter,coursera-android,4264,11.67,0,,,,,
-grantland,android-autofittextview,4261,14.58,1,,,,,
-jitsi,jitsi,4256,12.42,7,,,,,
-201206030,novel-plus,4254,5.33,34,,,,,
-google,open-location-code,4248,11.00,5,,,,,
-camunda,camunda-bpm-platform,4240,12.67,0,,,,,
-jlegewie,zotfile,4234,13.75,33,,,,,
-s4kibs4mi,java-developer-roadmap,4225,6.42,0,,,,,
-mybatis,spring-boot-starter,4218,10.00,32,,,,,
-jboss-javassist,javassist,4216,12.33,24,,,,,
-ChadCSong,ShineButton,4216,9.17,2,,,,,
-nining377,dolby_beta,4209,5.33,37,,,,,
-microsoft,malmo,4201,9.33,21,,,,,
-apache,streampark,4199,6.33,15,,,,,
-hugeterry,CoordinatorTabLayout,4199,8.67,0,,,,,
-codingapi,tx-lcn,4198,7.83,14,,,,,
-yhaolpz,FloatWindow,4197,7.83,9,,,,,
-powermock,powermock,4191,11.33,16,,,,,
-Jacksgong,JKeyboardPanelSwitch,4190,10.17,14,,,,,
-ReVanced,revanced-patches,4185,1.75,648,,,,,
-zendesk,maxwell,4184,10.58,214,,,,,
-aws,aws-sdk-java,4178,15.50,0,,,,,
-bingoogolapple,BGABanner-Android,4178,10.92,0,,,,,
-tencentmusic,supersonic,4167,2.25,15,,,,,
-oddfar,campus-imaotai,4162,2.17,11,,,,,
-pedrovgs,AndroidWiFiADB,4148,9.92,8,,,,,
-alibaba,fastjson2,4147,3.42,58,,,,,
-dromara,hmily,4143,8.00,0,,,,,
-geoserver,geoserver,4135,13.83,62,,,,,
-karma9874,AndroRAT,4119,5.50,0,,,,,
-dinuscxj,LoadingDrawable,4115,9.42,0,,,,,
-alibaba,Tangram-Android,4108,8.50,38,,,,,
-pqpo,SmartCropper,4092,8.08,13,,,,,
-Manabu-GT,ExpandableTextView,4086,11.33,4,,,,,
-code4craft,tiny-spring,4082,11.67,0,,,,,
-DTStack,chunjun,4082,7.42,30,,,,,
-qunarcorp,bistoury,4080,6.08,8,,,,,
-rubensousa,ViewPagerCards,4074,9.08,0,,,,,
-oblac,jodd,4072,13.00,37,,,,,
-luckybilly,CC,4046,7.83,0,,,,,
-freeok,so-novel,4036,3.33,45,,,,,
-oldmanpushcart,greys-anatomy,4025,12.83,0,,,,,
-jMonkeyEngine,jmonkeyengine,4020,11.50,76,,,,,
-xcltapestry,XCL-Charts,4020,11.25,0,,,,,
-JabRef,jabref,4013,11.50,45,,,,,
-BoltsFramework,Bolts-Android,4011,11.67,11,,,,,
-lcodecorex,TwinklingRefreshLayout,4006,9.50,0,,,,,
-knowm,XChange,3999,13.58,0,,,,,
-Yalantis,Phoenix,3999,10.67,1,,,,,
-LibrePDF,OpenPDF,3998,9.17,83,,,,,
-jetty,jetty.project,3998,14.17,132,,,,,
-jbloch,effective-java-3e-source-code,3996,7.08,0,,,,,
-makovkastar,FloatingActionButton,3994,11.17,0,,,,,
-Piasy,BigImageViewer,3987,8.83,0,,,,,
-orhanobut,hawk,3982,10.58,22,,,,,
-bitcoin-wallet,bitcoin-wallet,3982,13.50,0,,,,,
-qstumn,BadgeView,3981,8.58,5,,,,,
-mercyblitz,tech-weekly,3980,6.75,0,,,,,
-torakiki,pdfsam,3968,12.00,66,,,,,
-JeremyLiao,LiveEventBus,3966,7.17,0,,,,,
-lukas-krecan,ShedLock,3966,8.75,0,,,,,
-lilishop,lilishop,3962,4.33,3,,,,,
-zzhoujay,RichText,3959,10.17,0,,,,,
-syncthing,syncthing-android,3959,11.58,332,,,,,
-awaitility,awaitility,3958,15.67,0,,,,,
-RipMeApp,ripme,3958,8.67,143,,,,,
-NotFound9,interviewGuide,3958,9.42,0,,,,,
-rovo89,XposedInstaller,3957,13.42,0,,,,,
-fishercoder1534,Leetcode,3956,9.17,0,,,,,
-binIoter,GuideView,3953,9.25,0,,,,,
-googlesamples,mlkit,3947,5.33,1,,,,,
-tronprotocol,java-tron,3945,7.75,80,,,,,
-JoanZapata,android-iconify,3943,12.25,0,,,,,
-Querz,mcaselector,3935,7.42,72,,,,,
-linyiqun,DataMiningAlgorithm,3928,10.67,0,,,,,
-rengwuxian,RxJavaSamples,3927,9.50,3,,,,,
-pingfangushi,screw,3922,5.25,0,,,,,
-promeG,TinyPinyin,3916,10.00,2,,,,,
-iterate-ch,cyberduck,3910,8.67,0,,,,,
-JFormDesigner,FlatLaf,3909,6.08,87,,,,,
-bluelinelabs,Conductor,3908,9.50,36,,,,,
-shuzijun,leetcode-editor,3897,6.50,55,,,,,
-sofastack,sofa-rpc,3895,7.42,63,,,,,
-databricks,learning-spark,3893,11.25,0,,,,,
-alibaba,jstorm,3892,12.00,22,,,,,
-JavaNoober,BackgroundLibrary,3892,7.00,13,,,,,
-ReChronoRain,HyperCeiler,3891,1.92,7,,,,,
-Exrick,xboot,3887,7.42,6,,,,,
-amirzaidi,Launcher3,3886,8.33,22,,,,,
-VaughnVernon,IDDD_Samples,3885,12.42,0,,,,,
-vipulasri,Timeline-View,3885,9.75,15,,,,,
-M66B,FairEmail,3865,7.08,1000,,,,,
-wendux,DSBridge-Android,3856,8.67,2,,,,,
-uber,NullAway,3845,8.00,30,,,,,
-kubernetes-client,java,3833,8.33,55,,,,,
-aurelhubert,ahbottomnavigation,3829,9.50,14,,,,,
-MiguelCatalan,MaterialSearchView,3825,10.00,6,,,,,
-google,bundletool,3823,7.33,63,,,,,
-react-native-share,react-native-share,3820,10.00,139,,,,,
-yanzhenjie,AndServer,3818,9.25,1,,,,,
-uknownothingsnow,CircleProgress,3814,10.92,0,,,,,
-ZHENFENG13,My-Blog,3813,6.50,0,,,,,
-jishenghua,jshERP,3804,9.00,6,,,,,
-camunda,camunda,3795,9.50,468,,,,,
-shopizer-ecommerce,shopizer,3794,12.83,18,,,,,
-gh0stkey,HaE,3793,5.50,77,,,,,
-Helium314,HeliBoard,3793,3.50,50,,,,,
-sunfusheng,MarqueeView,3792,9.25,0,,,,,
-Dimezis,BlurView,3792,9.42,31,,,,,
-fesh0r,fernflower,3783,10.92,0,,,,,
-mpusher,mpush,3780,9.42,9,,,,,
-watabou,pixel-dungeon,3776,11.17,0,,,,,
-mcxtzhang,SwipeDelMenuLayout,3774,9.08,2,,,,,
-lygttpod,SuperTextView,3773,8.92,39,,,,,
-CameraKit,blurkit-android,3767,8.83,3,,,,,
-ageerle,ruoyi-ai,3765,1.67,6,,,,,
-MovingBlocks,Terasology,3756,14.50,70,,,,,
-Ereza,CustomActivityOnCrash,3754,11.17,12,,,,,
-roboguice,roboguice,3752,13.08,0,,,,,
-apache,kylin,3749,10.67,2,,,,,
-timehop,sticky-headers-recyclerview,3748,10.92,0,,,,,
-zhpanvip,BannerViewPager,3748,8.50,59,,,,,
-sofastack,sofa-jraft,3743,6.50,32,,,,,
-andOTP,andOTP,3742,8.17,38,,,,,
-AsamK,signal-cli,3741,10.33,102,,,,,
-RoaringBitmap,RoaringBitmap,3736,12.25,39,,,,,
-spotbugs,spotbugs,3733,8.83,69,,,,,
-JCTools,JCTools,3728,11.83,18,,,,,
-ethanhua,Skeleton,3725,8.17,0,,,,,
-Atmosphere,atmosphere,3720,15.25,0,,,,,
-willowtreeapps,spruce-android,3718,8.58,3,,,,,
-ByteLegend,ByteLegend,3717,4.58,0,,,,,
-stfalcon-studio,ChatKit,3715,8.58,1,,,,,
-ryanhoo,StylishMusicPlayer,3707,9.00,0,,,,,
-liuyubobobo,Play-with-Algorithms,3707,9.17,0,,,,,
-yanzhenjie,NoHttp,3703,10.17,0,,,,,
-rbmonster,learning-note,3701,5.25,0,,,,,
-undertow-io,undertow,3694,13.17,9,,,,,
-nICEnnnnnnnLee,BilibiliDown,3691,6.67,80,,,,,
-jtablesaw,tablesaw,3689,9.67,79,,,,,
-javahuang,SurveyKing,3688,4.00,3,,,,,
-Creators-of-Create,Create,3681,6.17,0,,,,,
-lihangleo2,ShadowLayout,3677,6.17,28,,,,,
-helidon-io,helidon,3677,7.08,131,,,,,
-yangfuhai,ASimpleCache,3676,12.17,0,,,,,
-networknt,light-4j,3672,9.00,192,,,,,
-lisawray,groupie,3672,9.00,28,,,,,
-dingjikerbo,Android-BluetoothKit,3671,9.92,0,,,,,
-grpc-ecosystem,grpc-spring,3670,8.75,34,,,,,
-google,rejoiner,3670,7.75,3,,,,,
-yacy,yacy_search_server,3668,10.50,0,,,,,
-KunMinX,Linkage-RecyclerView,3667,6.42,0,,,,,
-linkedin,databus,3667,12.75,0,,,,,
-coderbruis,JavaSourceCodeLearning,3664,5.25,0,,,,,
-tchiotludo,akhq,3648,7.00,42,,,,,
-PlexPt,chatgpt-java,3647,2.75,24,,,,,
-litesuits,android-common,3642,11.33,0,,,,,
-microservices-patterns,ftgo-application,3626,7.92,0,,,,,
-huburt-Hu,NewbieGuide,3622,8.17,20,,,,,
-apache,incubator-heron,3621,10.00,56,,,,,
-FasterXML,jackson-databind,3620,13.75,0,,,,,
-blossom-editor,blossom,3613,2.08,19,,,,,
-rockerhieu,emojicon,3613,11.67,2,,,,,
-alibaba,Alink,3609,7.00,22,,,,,
-spockframework,spock,3608,14.75,26,,,,,
-uncle-novel,uncle-novel,3606,6.75,1,,,,,
-Mojang,brigadier,3600,11.00,3,,,,,
-spring-io,initializr,3596,12.25,17,,,,,
-tyrantgit,ExplosionField,3595,10.00,0,,,,,
-mbechler,marshalsec,3592,8.33,0,,,,,
-kikoso,android-stackblur,3592,12.08,0,,,,,
-dtinit,data-transfer-project,3590,7.67,61,,,,,
-dongjunkun,DropDownMenu,3585,10.25,2,,,,,
-vert-x3,vertx-examples,3582,10.58,0,,,,,
-hmkcode,Android,3580,12.00,0,,,,,
-WVector,AppUpdate,3578,8.25,3,,,,,
-googlemaps,android-maps-utils,3575,12.33,55,,,,,
-OpenHFT,Chronicle-Queue,3572,12.25,534,,,,,
-JakeWharton,ThreeTenABP,3571,10.17,0,,,,,
-davideas,FlexibleAdapter,3569,10.33,30,,,,,
-IrisShaders,Iris,3568,4.92,140,,,,,
-fabric8io,kubernetes-client,3564,10.17,124,,,,,
-code4craft,netty-learning,3559,12.00,0,,,,,
-dropbox,hackpad,3556,10.08,0,,,,,
-bilibili,MagicaSakura,3555,9.25,3,,,,,
-DataLinkDC,dinky,3553,4.25,31,,,,,
-johncarl81,parceler,3544,12.17,0,,,,,
-springdoc,springdoc-openapi,3536,6.17,96,,,,,
-arimorty,floatingsearchview,3535,9.83,0,,,,,
-LinShunKang,MyPerf4J,3534,7.50,23,,,,,
-anggrayudi,android-hidden-api,3533,10.00,2,,,,,
-fyhertz,libstreaming,3533,12.67,0,,,,,
-HelloWorld521,Java,3531,8.75,0,,,,,
-luontola,retrolambda,3530,12.17,0,,,,,
-andremion,Music-Player,3523,9.33,2,,,,,
-apache,logging-log4j2,3522,12.25,15,,,,,
-spring-cloud,spring-cloud-kubernetes,3521,8.75,32,,,,,
-dariuszseweryn,RxAndroidBle,3517,9.58,60,,,,,
-lsjwzh,RecyclerViewPager,3516,10.67,10,,,,,
-immutables,immutables,3516,12.17,15,,,,,
-Netflix,maestro,3515,1.42,0,,,,,
-nytimes,Store,3511,8.83,0,,,,,
-1024-lab,smart-admin,3510,5.83,22,,,,,
-codeestX,GeekNews,3506,9.08,0,,,,,
-cSploit,android,3504,10.92,33,,,,,
-baoyongzhang,SwipeMenuListView,3504,11.08,2,,,,,
-lenve,JavaEETest,3497,8.75,0,,,,,
-dromara,liteflow,3494,5.50,0,,,,,
-KingJA,LoadSir,3492,8.00,6,,,,,
-TNG,ArchUnit,3489,8.42,43,,,,,
-AxonFramework,AxonFramework,3487,13.75,136,,,,,
-ittianyu,BottomNavigationViewEx,3476,8.83,19,,,,,
-phodal,migration,3464,5.67,0,,,,,
-rubensousa,PreviewSeekBar,3461,8.67,10,,,,,
-ferredoxin,QNotified,3459,6.50,28,,,,,
-eclipse-openj9,openj9,3459,8.08,53,,,,,
-Grt1228,chatgpt-java,3458,2.58,10,,,,,
-Netflix,concurrency-limits,3456,7.75,102,,,,,
-alamkanak,Android-Week-View,3449,11.00,4,,,,,
-RikkaApps,Sui,3449,4.67,21,,,,,
-freeplane,freeplane,3442,13.00,11,,,,,
-crossoverJie,SSM,3441,9.25,10,,,,,
-rom1v,sndcpy,3436,5.25,2,,,,,
-apache,fory,3435,2.42,49,,,,,
-sherxon,AlgoDS,3433,8.75,0,,,,,
-guolindev,giffun,3432,6.67,0,,,,,
-xcc3641,SeeWeather,3426,9.58,2,,,,,
-WinterChenS,my-site,3425,7.33,0,,,,,
-GitLqr,LQRWeChat,3421,8.58,0,,,,,
-woxingxiao,BubbleSeekBar,3418,8.83,12,,,,,
-getActivity,Toaster,3415,7.00,36,,,,,
-google,volley,3414,8.67,9,,,,,
-openhab,openhab1-addons,3413,12.00,14,,,,,
-apache,incubator-kie-optaplanner,3412,14.58,6,,,,,
+Owner                       , Name                           , Stars , IdadeAnos, Releases, LOC        , Comentarios, CBO        , DIT        , LCOM
+Snailclimb                  , JavaGuide                      , 151699,      7.33,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+krahets                     , hello-algo                     , 116518,      2.83,        9, 35.85      , 0.00       , 1.87       , 1.00       , 4.71
+GrowingGit                  , GitHub-Chinese-Top-Charts      , 102100,      6.00,        0, 5.00       , 0.00       , 0.00       , 1.00       , 0.00
+iluwatar                    , java-design-patterns           ,  92645,     11.08,        0, 18.73      , 0.00       , 3.36       , 1.20       , 1.84
+macrozheng                  , mall                           ,  81558,      7.42,        3, 132.77     , 0.00       , 3.93       , 1.24       , 1110.80
+spring-projects             , spring-boot                    ,  78359,     12.92,      320, 48.67      , 0.00       , 5.89       , 1.40       , 24.07
+doocs                       , advanced-java                  ,  78223,      6.92,        1, 5.00       , 0.00       , 0.00       , 1.00       , 0.00
+MisterBooo                  , LeetCodeAnimation              ,  76442,      6.75,        0, 19.50      , 0.00       , 1.00       , 1.00       , 0.00
+elastic                     , elasticsearch                  ,  73764,     15.58,      206, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+Stirling-Tools              , Stirling-PDF                   ,  67019,      2.67,      138, 60.42      , 0.00       , 8.18       , 1.23       , 16.50
+kdn251                      , interviews                     ,  64459,      8.58,        0, 21.87      , 0.00       , 1.19       , 1.00       , 0.29
+TheAlgorithms               , Java                           ,  63341,      9.17,        0, 38.31      , 0.00       , 2.06       , 1.04       , 7.96
+NationalSecurityAgency      , ghidra                         ,  60364,      6.50,       46, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+spring-projects             , spring-framework               ,  58829,     14.75,      343, 41.23      , 0.00       , 5.23       , 1.48       , 29.74
+google                      , guava                          ,  51095,     11.33,       56, 39.52      , 0.00       , 4.04       , 1.80       , 48.01
+ReactiveX                   , RxJava                         ,  48314,     12.67,      241, 31.22      , 0.00       , 2.52       , 1.32       , 47.46
+skylot                      , jadx                           ,  45453,     12.50,       32, 44.49      , 0.00       , 4.46       , 1.67       , 32.20
+dbeaver                     , dbeaver                        ,  45355,      9.92,      231, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+termux                      , termux-app                     ,  44978,      9.92,       95, 76.52      , 0.00       , 5.91       , 1.43       , 60.83
+jeecgboot                   , JeecgBoot                      ,  43843,      6.83,       61, 60.90      , 0.00       , 7.65       , 1.20       , 60.24
+apache                      , dubbo                          ,  41333,     13.25,      111, 51.91      , 0.00       , 5.39       , 1.30       , 47.35
+PhilJay                     , MPAndroidChart                 ,  38107,     11.42,       44, 68.99      , 0.00       , 8.84       , 1.98       , 91.03
+eugenp                      , tutorials                      ,  37253,     12.42,        0, 24.26      , 0.00       , 3.83       , 1.11       , 6.72
+halo-dev                    , halo                           ,  36890,      7.50,      227, 32.86      , 0.00       , 7.53       , 1.26       , 6.81
+alibaba                     , arthas                         ,  36709,      7.08,       59, 50.43      , 0.00       , 4.75       , 1.36       , 36.86
+geekxh                      , hello-algorithm                ,  35769,      5.33,        0, 20.33      , 0.00       , 1.00       , 1.00       , 0.00
+airbnb                      , lottie-android                 ,  35467,      8.92,       59, 61.03      , 0.00       , 6.90       , 1.29       , 33.41
+TeamNewPipe                 , NewPipe                        ,  35039,     10.00,      137, 70.88      , 0.00       , 8.29       , 1.65       , 43.23
+bumptech                    , glide                          ,  34944,     12.17,       53, 40.21      , 0.00       , 6.00       , 1.24       , 19.99
+doocs                       , leetcode                       ,  34931,      7.00,       21, 26.88      , 0.00       , 2.55       , 1.01       , 0.34
+netty                       , netty                          ,  34424,     14.83,        0, 48.24      , 0.00       , 4.42       , 1.51       , 66.93
+xkcoding                    , spring-boot-demo               ,  33903,      7.83,        0, 14.86      , 0.00       , 5.05       , 1.13       , 2.32
+Blankj                      , AndroidUtilCode                ,  33640,      9.17,      117, 59.69      , 0.00       , 4.17       , 1.36       , 144.95
+alibaba                     , easyexcel                      ,  33616,      7.58,       14, 36.69      , 0.00       , 6.63       , 1.38       , 32.02
+zxing                       , zxing                          ,  33581,     13.92,       31, 67.28      , 0.00       , 4.98       , 1.66       , 22.97
+YunaiV                      , ruoyi-vue-pro                  ,  33184,      4.67,       46, 25.27      , 0.00       , 8.01       , 1.22       , 16.94
+SeleniumHQ                  , selenium                       ,  33172,     12.67,      108, 47.34      , 0.00       , 5.96       , 1.38       , 32.73
+alibaba                     , nacos                          ,  32034,      7.25,       84, 46.18      , 0.00       , 5.71       , 1.29       , 22.93
+binarywang                  , WxJava                         ,  31888,      9.67,       30, 22.17      , 0.00       , 5.45       , 1.21       , 20.51
+apache                      , kafka                          ,  30878,     14.08,        0, 79.62      , 0.00       , 7.79       , 1.44       , 63.06
+ityouknow                   , spring-boot-examples           ,  30598,      8.83,        0, 14.53      , 0.00       , 4.73       , 1.03       , 5.03
+chinabugotech               , hutool                         ,  30068,     11.42,      153, 49.62      , 0.00       , 3.53       , 1.28       , 102.20
+apolloconfig                , apollo                         ,  29652,      9.50,       41, 45.45      , 0.00       , 7.27       , 1.26       , 14.99
+keycloak                    , keycloak                       ,  29549,     12.17,       88, 48.99      , 0.00       , 4.23       , 1.29       , 102.42
+alibaba                     , canal                          ,  29363,     12.67,       32, 107.33     , 0.00       , 5.81       , 1.38       , 77.36
+xuxueli                     , xxl-job                        ,  29289,      9.83,       39, 51.78      , 0.00       , 4.78       , 1.13       , 20.43
+conductor-oss               , conductor                      ,  28980,      1.75,       25, 76.13      , 0.00       , 7.79       , 1.27       , 90.39
+wuyouzhuguli                , SpringAll                      ,  28958,      7.33,        0, 15.97      , 0.00       , 5.24       , 1.11       , 3.75
+alibaba                     , spring-cloud-alibaba           ,  28749,      7.75,       48, 16.60      , 0.00       , 2.60       , 1.20       , 7.60
+alibaba                     , druid                          ,  28193,     13.83,       51, 58.44      , 0.00       , 5.09       , 1.94       , 231.22
+lenve                       , vhr                            ,  27940,      7.67,        0, 31.61      , 0.00       , 4.44       , 1.02       , 48.33
+DrKLO                       , Telegram                       ,  27522,     11.92,       95, 120.03     , 0.00       , 6.84       , 1.66       , 65.09
+crossoverJie                , JCSprout                       ,  27072,      7.75,        0, 27.15      , 0.00       , 1.96       , 1.09       , 1.77
+qiurunze123                 , miaosha                        ,  26508,      7.00,        0, 30.00      , 0.00       , 4.15       , 1.13       , 14.30
+ashishps1                   , awesome-system-design-resources,  25894,      1.92,        0, 30.55      , 0.00       , 0.82       , 1.00       , 0.00
+apache                      , incubator-seata                ,  25794,      6.75,       44, 47.57      , 0.00       , 4.84       , 1.38       , 43.63
+alibaba                     , fastjson                       ,  25752,     13.83,       84, 32.64      , 0.00       , 1.85       , 1.50       , 126.12
+JakeWharton                 , butterknife                    ,  25484,     12.50,        0, 28.35      , 0.00       , 3.96       , 1.24       , 10.48
+hollischuang                , toBeTopJavaer                  ,  25464,      6.92,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+apache                      , flink                          ,  25253,     11.25,        0, 46.58      , 0.00       , 7.23       , 1.62       , 38.00
+scwang90                    , SmartRefreshLayout             ,  25151,      8.25,       14, 53.21      , 0.00       , 6.65       , 1.51       , 30.32
+proxyee-down-org            , proxyee-down                   ,  24868,      7.92,       49, 56.53      , 0.00       , 5.52       , 1.47       , 19.52
+OpenAPITools                , openapi-generator              ,  24812,      7.33,       73, 158.84     , 0.00       , 8.30       , 1.79       , 324.39
+Anuken                      , Mindustry                      ,  24798,      8.42,      168, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+greenrobot                  , EventBus                       ,  24762,     13.17,        7, 28.79      , 0.00       , 3.43       , 1.84       , 9.05
+bazelbuild                  , bazel                          ,  24546,     11.25,      212, 44.78      , 0.00       , 5.96       , 1.38       , 20.60
+apache                      , skywalking                     ,  24517,      9.83,       62, 30.77      , 0.00       , 5.79       , 1.37       , 5.48
+jenkinsci                   , jenkins                        ,  24423,     14.83,      443, 45.40      , 0.00       , 6.24       , 1.90       , 46.25
+yuliskov                    , SmartTube                      ,  24423,      5.17,      913, 74.48      , 0.00       , 6.68       , 1.56       , 66.25
+Netflix                     , Hystrix                        ,  24397,     12.83,       79, 32.18      , 0.00       , 3.46       , 1.61       , 21.61
+libgdx                      , libgdx                         ,  24335,     13.08,       14, 71.47      , 0.00       , 5.13       , 1.80       , 3447.19
+CodePhiliaX                 , Chat2DB                        ,  24236,      2.25,       43, 34.27      , 0.00       , 6.07       , 1.26       , 17.24
+google                      , gson                           ,  24038,     10.50,       12, 32.02      , 0.00       , 3.02       , 1.28       , 20.60
+redisson                    , redisson                       ,  24024,     11.67,      173, 59.21      , 0.00       , 5.96       , 1.34       , 180.67
+doocs                       , source-code-hunter             ,  22949,      5.92,        0, 5.00       , 0.00       , 0.00       , 1.00       , 0.00
+alibaba                     , Sentinel                       ,  22901,      7.42,       25, 29.95      , 0.00       , 5.02       , 1.12       , 7.06
+iBotPeaches                 , Apktool                        ,  22889,     13.50,       26, 66.24      , 0.00       , 6.54       , 1.84       , 50.71
+EnterpriseQualityCoding     , FizzBuzzEnterpriseEdition      ,  22774,     12.83,        0, 9.59       , 0.00       , 2.89       , 1.00       , 0.22
+apache                      , rocketmq                       ,  22091,      8.83,       22, 75.16      , 0.00       , 6.88       , 1.33       , 121.70
+google                      , ExoPlayer                      ,  21877,     11.25,       28, 79.96      , 0.00       , 7.59       , 1.30       , 52.22
+dataease                    , dataease                       ,  21832,      4.58,       98, 38.77      , 0.00       , 4.95       , 1.21       , 27.77
+elunez                      , eladmin                        ,  21782,      6.75,        1, 28.59      , 0.00       , 8.01       , 1.16       , 6.20
+openjdk                     , jdk                            ,  21685,      7.00,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+LSPosed                     , LSPosed                        ,  21524,      4.75,       39, 53.75      , 0.00       , 5.52       , 1.65       , 48.11
+kestra-io                   , kestra                         ,  21135,      6.08,      307, 34.50      , 0.00       , 8.21       , 1.46       , 14.83
+oracle                      , graal                          ,  21083,      9.67,       32, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+CarGuo                      , GSYVideoPlayer                 ,  21078,      8.83,       53, 50.20      , 0.00       , 5.49       , 1.58       , 55.36
+brettwooldridge             , HikariCP                       ,  20710,     11.92,        0, 61.97      , 0.00       , 4.38       , 1.29       , 172.67
+kunal-kushwaha              , DSA-Bootcamp-Java              ,  20625,      4.17,        0, 26.14      , 0.00       , 1.27       , 1.08       , 3.50
+apache                      , shardingsphere                 ,  20445,      9.67,       58, 18.29      , 0.00       , 4.54       , 1.28       , 4.15
+didi                        , DoKit                          ,  20387,      7.08,       14, 51.29      , 0.00       , 4.51       , 1.32       , 71.77
+mybatis                     , mybatis-3                      ,  20229,     12.58,       46, 34.65      , 0.00       , 3.54       , 1.24       , 20.95
+ReactiveX                   , RxAndroid                      ,  20063,     11.08,       20, 26.40      , 0.00       , 2.27       , 1.13       , 3.09
+linlinjava                  , litemall                       ,  19908,      7.50,        8, 147.30     , 0.00       , 4.62       , 1.13       , 1532.88
+yudaocode                   , SpringBoot-Labs                ,  19856,      7.00,        0, 10.90      , 0.00       , 4.26       , 1.04       , 0.42
+thingsboard                 , thingsboard                    ,  19682,      8.75,       70, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+xiaojieonly                 , Ehviewer_CN_SXJ                ,  19640,      4.83,      106, 82.01      , 0.00       , 6.88       , 1.72       , 68.48
+dianping                    , cat                            ,  18931,     12.75,        3, 51.80      , 0.00       , 5.53       , 1.43       , 23.04
+Baseflow                    , PhotoView                      ,  18871,     13.17,        5, 39.82      , 0.00       , 4.73       , 1.36       , 24.60
+JetBrains                   , intellij-community             ,  18773,     14.00,        4, 60.52      , 0.00       , 9.56       , 1.86       , 45.34
+antlr                       , antlr4                         ,  18327,     15.58,       31, 61.97      , 0.00       , 5.77       , 1.84       , 48.30
+williamfiset                , Algorithms                     ,  18212,      8.50,        0, 70.18      , 0.00       , 2.61       , 1.05       , 16.20
+Tencent                     , APIJSON                        ,  18186,      8.83,      110, 197.77     , 0.00       , 5.89       , 1.24       , 1165.57
+dromara                     , Sa-Token                       ,  18153,      5.58,       38, 36.02      , 0.00       , 4.51       , 1.22       , 61.15
+lionsoul2014                , ip2region                      ,  18140,      9.83,        1, 45.92      , 0.00       , 3.47       , 1.21       , 4.76
+LMAX-Exchange               , disruptor                      ,  17980,     13.00,       14, 32.11      , 0.00       , 4.48       , 1.29       , 25.88
+forezp                      , SpringCloudLearning            ,  17973,      8.42,        0, 7.85       , 0.00       , 4.55       , 1.05       , 0.55
+ashishps1                   , awesome-low-level-design       ,  17875,      1.83,        0, 18.42      , 0.00       , 2.63       , 1.14       , 3.05
+YunaiV                      , yudao-cloud                    ,  17844,      6.33,       32, 25.35      , 0.00       , 8.13       , 1.20       , 17.67
+Tencent                     , tinker                         ,  17538,      9.00,       60, 77.78      , 0.00       , 4.79       , 1.60       , 28.47
+openzipkin                  , zipkin                         ,  17300,     13.25,       97, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+infinilabs                  , analysis-ik                    ,  17210,     13.75,        1, 67.66      , 0.00       , 4.82       , 1.37       , 15.42
+justauth                    , JustAuth                       ,  17184,      6.67,       46, 30.58      , 0.00       , 5.51       , 1.34       , 12.98
+facebook                    , fresco                         ,  17139,     10.50,       55, 47.79      , 0.00       , 6.64       , 1.42       , 28.76
+baomidou                    , mybatis-plus                   ,  17100,      9.08,       38, 34.56      , 0.00       , 5.76       , 1.34       , 25.01
+ben-manes                   , caffeine                       ,  17025,     10.75,       71, 63.69      , 0.00       , 4.90       , 1.59       , 163.17
+material-components         , material-components-android    ,  16948,      8.75,      112, 55.59      , 0.00       , 7.13       , 1.54       , 91.92
+nostra13                    , Android-Universal-Image-Loader ,  16919,     13.83,        0, 53.10      , 0.00       , 4.86       , 1.59       , 28.84
+alibaba                     , DataX                          ,  16798,      7.67,        7, 66.44      , 0.00       , 4.50       , 1.72       , 22.65
+winterbe                    , java8-tutorial                 ,  16780,     11.50,        0, 23.65      , 0.00       , 1.03       , 1.00       , 3.91
+shuzheng                    , zheng                          ,  16730,      8.92,        0, 82.01      , 0.00       , 4.53       , 1.41       , 340.86
+Grasscutters                , Grasscutter                    ,  16661,      3.42,       20, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+heibaiying                  , BigData-Notes                  ,  16644,      6.50,        0, 27.58      , 0.00       , 5.71       , 1.22       , 0.82
+JeffLi1993                  , springboot-learning-example    ,  16555,      8.58,        0, 14.39      , 0.00       , 4.61       , 1.04       , 2.85
+gyoogle                     , tech-interview-for-developer   ,  16507,      6.25,        0, 48.92      , 0.00       , 1.31       , 1.00       , 0.92
+prestodb                    , presto                         ,  16498,     13.08,       12, 56.98      , 0.00       , 7.38       , 1.53       , 43.71
+questdb                     , questdb                        ,  16083,     11.42,       93, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+android-hacker              , VirtualXposed                  ,  15823,      7.75,       50, 32.85      , 0.00       , 3.95       , 2.79       , 14.70
+dyc87112                    , SpringBoot-Learning            ,  15791,      9.08,        0, 10.37      , 0.00       , 4.45       , 1.03       , 1.45
+android10                   , Android-CleanArchitecture      ,  15562,     11.08,        0, 21.52      , 0.00       , 5.14       , 1.43       , 6.72
+mockito                     , mockito                        ,  15272,     12.92,      222, 24.85      , 0.00       , 3.47       , 1.40       , 18.33
+apache                      , hadoop                         ,  15252,     11.08,        0, 79.65      , 0.00       , 6.77       , 1.58       , 63.33
+Konloch                     , bytecode-viewer                ,  15210,     10.92,       61, 52.56      , 0.00       , 4.74       , 2.05       , 13.69
+neo4j                       , neo4j                          ,  15052,     12.83,       72, 61.56      , 0.00       , 6.61       , 1.90       , 78.78
+quarkusio                   , quarkus                        ,  14959,      7.17,      415, 46.17      , 0.00       , 4.59       , 1.52       , 18.89
+zhisheng17                  , flink-learning                 ,  14927,      6.67,        0, 14.38      , 0.00       , 3.16       , 1.09       , 0.09
+apache                      , pulsar                         ,  14842,      9.25,      112, 70.33      , 0.00       , 6.87       , 1.71       , 85.27
+java-decompiler             , jd-gui                         ,  14731,     10.50,       18, 47.44      , 0.00       , 4.54       , 2.42       , 11.12
+elastic                     , logstash                       ,  14629,     14.83,      206, 47.03      , 0.00       , 5.42       , 1.64       , 21.13
+eclipse-vertx               , vert.x                         ,  14566,     14.25,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+hdodenhof                   , CircleImageView                ,  14534,     11.67,        0, 120.00     , 0.00       , 11.00      , 2.33       , 178.67
+Tencent                     , QMUI_Android                   ,  14513,      8.42,       35, 54.70      , 0.00       , 5.47       , 1.63       , 35.34
+supertokens                 , supertokens-core               ,  14504,      5.67,       91, 110.34     , 0.00       , 11.00      , 1.60       , 71.14
+alibaba                     , ARouter                        ,  14491,      8.75,       16, 32.30      , 0.00       , 3.69       , 1.41       , 17.45
+arduino                     , Arduino                        ,  14422,     15.00,       37, 57.32      , 0.00       , 4.13       , 1.77       , 32.72
+apache                      , doris                          ,  14259,      8.08,       74, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+theonedev                   , onedev                         ,  14247,      6.83,      430, 40.15      , 0.00       , 5.83       , 1.41       , 26.14
+deeplearning4j              , deeplearning4j                 ,  14096,     11.83,        0, 55.26      , 0.00       , 6.78       , 1.43       , 36.69
+zaproxy                     , zaproxy                        ,  14082,     10.25,       20, 72.57      , 0.00       , 4.74       , 1.91       , 69.65
+GoogleContainerTools        , jib                            ,  14014,      7.67,      168, 50.10      , 0.00       , 7.06       , 1.22       , 17.07
+orhanobut                   , logger                         ,  13888,     10.50,       16, 45.94      , 0.00       , 5.83       , 1.17       , 14.94
+Netflix                     , zuul                           ,  13886,     12.50,       28, 43.10      , 0.00       , 6.51       , 1.61       , 24.89
+apache                      , dolphinscheduler               ,  13825,      6.50,       53, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+apache                      , druid                          ,  13824,     12.92,       68, 58.44      , 0.00       , 5.09       , 1.94       , 231.22
+seaswalker                  , spring-analysis                ,  13728,      9.00,        0, 11.45      , 0.00       , 2.42       , 1.24       , 1.79
+pinpoint-apm                , pinpoint                       ,  13712,     10.92,       61, 31.49      , 0.00       , 5.18       , 1.14       , 11.38
+DuGuQiuBai                  , Java                           ,  13695,      9.83,        0, 38.31      , 0.00       , 2.06       , 1.04       , 7.96
+sqshq                       , piggymetrics                   ,  13695,     10.50,        2, 19.00      , 0.00       , 6.04       , 1.06       , 3.83
+JessYanCoding               , AndroidAutoSize                ,  13690,      7.08,       14, 35.10      , 0.00       , 5.41       , 1.41       , 31.29
+Curzibn                     , Luban                          ,  13674,      9.17,        6, 37.52      , 0.00       , 2.97       , 1.17       , 10.86
+lgvalle                     , Material-Animations            ,  13645,     10.50,        0, 22.44      , 0.00       , 4.40       , 1.47       , 4.76
+cryptomator                 , cryptomator                    ,  13602,     11.58,      193, 39.03      , 0.00       , 8.32       , 1.43       , 18.51
+janishar                    , mit-deep-learning-book-pdf     ,  13583,      8.42,        3, 2.00       , 0.00       , 0.00       , 1.00       , 0.00
+languagetool-org            , languagetool                   ,  13560,     12.08,        0, 104.70     , 0.00       , 5.65       , 1.49       , 81.90
+tink-crypto                 , tink                           ,  13555,     11.25,       21, 56.08      , 0.00       , 7.67       , 1.29       , 30.08
+LuckSiege                   , PictureSelector                ,  13544,      8.67,      116, 53.06      , 0.00       , 5.16       , 1.24       , 49.45
+Bigkoo                      , Android-PickerView             ,  13480,     10.75,        0, 48.58      , 0.00       , 3.73       , 1.15       , 15.49
+kekingcn                    , kkFileView                     ,  13306,      7.75,       16, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+projectlombok               , lombok                         ,  13266,     16.25,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+macrozheng                  , mall-learning                  ,  13249,      6.42,        0, 57.77      , 0.00       , 4.97       , 1.10       , 229.51
+youth5201314                , banner                         ,  13037,      9.42,        0, 37.32      , 0.00       , 6.08       , 1.84       , 47.68
+ashishps1                   , awesome-leetcode-resources     ,  12923,      1.92,        0, 32.73      , 0.00       , 1.18       , 1.00       , 4.73
+pxb1988                     , dex2jar                        ,  12899,     10.50,        8, 73.06      , 0.00       , 5.43       , 1.57       , 21.13
+Netflix                     , conductor                      ,  12775,      8.75,      319, 76.13      , 0.00       , 7.79       , 1.27       , 90.39
+facebook                    , stetho                         ,  12708,     10.67,       13, 32.72      , 0.00       , 4.38       , 1.42       , 7.50
+codecentric                 , spring-boot-admin              ,  12685,     11.17,      137, 29.83      , 0.00       , 7.79       , 1.26       , 7.28
+google                      , guice                          ,  12673,     11.33,       19, 21.82      , 0.00       , 3.80       , 1.30       , 8.45
+alibaba                     , COLA                           ,  12650,      7.58,       11, 17.32      , 0.00       , 4.35       , 1.33       , 5.02
+greenrobot                  , greenDAO                       ,  12627,     13.92,        8, 50.95      , 0.00       , 5.02       , 2.10       , 47.45
+Netflix                     , eureka                         ,  12621,     13.17,      151, 44.31      , 0.00       , 5.88       , 1.27       , 18.57
+macrozheng                  , mall-swarm                     ,  12601,      5.83,        3, 132.99     , 0.00       , 3.79       , 1.23       , 1106.23
+apache                      , zookeeper                      ,  12595,     16.50,        0, 69.86      , 0.00       , 5.67       , 2.01       , 36.86
+zhihu                       , Matisse                        ,  12566,      8.42,       15, 44.97      , 0.00       , 6.66       , 1.39       , 8.08
+daimajia                    , AndroidViewAnimations          ,  12471,     11.25,        9, 11.77      , 0.00       , 3.38       , 1.80       , 2.29
+metersphere                 , metersphere                    ,  12458,      5.58,      179, 86.94      , 0.00       , 6.68       , 1.30       , 445.99
+daimajia                    , AndroidSwipeLayout             ,  12408,     11.08,       18, 37.43      , 0.00       , 3.72       , 1.32       , 58.91
+pagehelper                  , Mybatis-PageHelper             ,  12339,     11.25,       15, 40.83      , 0.00       , 5.81       , 1.44       , 29.64
+redis                       , jedis                          ,  12150,     15.25,      114, 89.86      , 0.00       , 5.54       , 1.42       , 530.81
+amitshekhariitbhu           , android-interview-questions    ,  12068,      8.17,        0, 5.00       , 0.00       , 0.00       , 1.00       , 0.00
+plantuml                    , plantuml                       ,  12058,     14.83,       60, 47.50      , 0.00       , 7.13       , 1.54       , 36.51
+Yalantis                    , uCrop                          ,  12040,      9.67,       20, 61.13      , 0.00       , 6.34       , 1.36       , 28.91
+Tencent                     , matrix                         ,  11901,      6.75,       16, 56.86      , 0.00       , 5.67       , 1.34       , 12.98
+Tencent                     , VasSonic                       ,  11870,      8.08,       10, 66.86      , 0.00       , 4.20       , 1.28       , 21.61
+trinodb                     , trino                          ,  11861,      6.67,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+Team-xManager               , xManager                       ,  11838,      4.58,       51, 41.65      , 0.00       , 2.02       , 1.02       , 4.73
+grpc                        , grpc-java                      ,  11837,     10.75,      180, 46.93      , 0.00       , 5.60       , 1.40       , 13.46
+debezium                    , debezium                       ,  11825,      9.67,        0, 62.37      , 0.00       , 6.82       , 1.58       , 55.86
+frank-lam                   , fullstack-tutorial             ,  11678,      7.42,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+code4craft                  , webmagic                       ,  11626,     12.42,       33, 25.56      , 0.00       , 4.53       , 1.18       , 11.47
+xpipe-io                    , xpipe                          ,  11586,      2.67,      121, 41.50      , 0.00       , 6.95       , 1.57       , 18.73
+opensearch-project          , OpenSearch                     ,  11534,      4.67,       59, 57.63      , 0.00       , 6.48       , 1.76       , 35.46
+OpenRefine                  , OpenRefine                     ,  11506,     12.92,       72, 52.15      , 0.00       , 6.67       , 1.69       , 12.78
+realm                       , realm-java                     ,  11483,     13.42,        0, 57.62      , 0.00       , 4.29       , 1.21       , 51.75
+careercup                   , CtCI-6th-Edition               ,  11458,     10.17,        0, 34.64      , 0.00       , 2.13       , 1.07       , 4.48
+gyf-dev                     , ImmersionBar                   ,  11451,      8.42,        0, 50.96      , 0.00       , 6.35       , 2.11       , 159.25
+PaperMC                     , Paper                          ,  11401,      9.67,        0, 38.56      , 0.00       , 6.90       , 1.69       , 111.82
+newbee-ltd                  , newbee-mall                    ,  11391,      6.00,        0, 44.21      , 0.00       , 5.03       , 1.07       , 34.91
+provectus                   , kafka-ui                       ,  11277,      5.83,       25, 35.36      , 0.00       , 7.24       , 1.51       , 17.13
+jhy                         , jsoup                          ,  11242,     15.75,       20, 93.16      , 0.00       , 6.30       , 1.81       , 240.07
+permissions-dispatcher      , PermissionsDispatcher          ,  11231,     10.08,       40, 26.76      , 0.00       , 1.62       , 1.23       , 34.38
+mission-peace               , interview                      ,  11210,     11.17,        0, 40.87      , 0.00       , 2.01       , 1.04       , 3.41
+apereo                      , cas                            ,  11193,     14.00,      303, 25.50      , 0.00       , 9.28       , 1.48       , 7.92
+H07000223                   , FlycoTabLayout                 ,  11121,      9.83,        4, 82.73      , 0.00       , 6.45       , 1.55       , 223.09
+daniulive                   , SmarterStreaming               ,  11112,      9.50,        0, 62.50      , 0.00       , 3.85       , 1.05       , 71.55
+lingochamp                  , FileDownloader                 ,  11111,      9.75,       65, 53.48      , 0.00       , 4.53       , 1.69       , 42.01
+beemdevelopment             , Aegis                          ,  11105,      9.08,       72, 52.91      , 0.00       , 7.45       , 1.71       , 22.87
+LawnchairLauncher           , lawnchair                      ,  11055,      8.50,       30, 76.47      , 0.00       , 10.32      , 1.58       , 97.10
+jfeinstein10                , SlidingMenu                    ,  11046,     13.25,        0, 41.69      , 0.00       , 5.12       , 1.96       , 47.45
+androidannotations          , androidannotations             ,  11039,     13.67,        0, 31.49      , 0.00       , 5.73       , 1.59       , 28.90
+datahub-project             , datahub                        ,  11022,      9.83,      104, 50.74      , 0.00       , 13.48      , 1.05       , 10.12
+doocs                       , jvm                            ,  10968,      7.25,        0, 5.00       , 0.00       , 0.00       , 1.00       , 0.00
+ssssssss-team               , spider-flow                    ,  10899,      5.50,        2, 54.34      , 0.00       , 5.39       , 1.73       , 20.33
+microg                      , GmsCore                        ,  10883,     11.42,       41, 30.23      , 0.00       , 5.73       , 1.71       , 14.23
+square                      , javapoet                       ,  10869,     12.58,        0, 76.19      , 0.00       , 4.52       , 1.15       , 129.29
+apple                       , pkl                            ,  10850,      1.67,       16, 37.83      , 0.00       , 6.30       , 4.39       , 28.38
+jwtk                        , jjwt                           ,  10842,     11.00,        9, 28.92      , 0.00       , 5.62       , 1.99       , 25.83
+alibaba                     , vlayout                        ,  10771,      8.58,       34, 88.31      , 0.00       , 5.31       , 1.86       , 72.54
+aosp-mirror                 , platform_frameworks_base       ,  10767,     16.92,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+asLody                      , VirtualApp                     ,  10749,      9.17,        0, 32.83      , 0.00       , 3.94       , 2.59       , 15.61
+TooTallNate                 , Java-WebSocket                 ,  10733,     15.67,       19, 49.06      , 0.00       , 3.56       , 1.82       , 36.62
+clojure                     , clojure                        ,  10715,     15.25,        0, 51.12      , 0.00       , 3.60       , 1.50       , 130.39
+StarRocks                   , starrocks                      ,  10650,      4.00,      154, 77.59      , 0.00       , 7.35       , 1.49       , 136.60
+android-async-http          , android-async-http             ,  10632,     14.58,        3, 49.48      , 0.00       , 5.66       , 1.79       , 45.88
+jeasonlzy                   , okhttp-OkGo                    ,  10604,      9.67,       14, 37.17      , 0.00       , 5.65       , 1.62       , 19.45
+google                      , auto                           ,  10520,     12.33,       66, 28.04      , 0.00       , 4.11       , 1.71       , 25.59
+lipangit                    , JiaoZiVideoPlayer              ,  10492,      9.58,       78, 65.38      , 0.00       , 7.28       , 2.12       , 56.64
+tbruyelle                   , RxPermissions                  ,  10481,     10.00,       11, 43.80      , 0.00       , 4.65       , 1.10       , 10.10
+Activiti                    , Activiti                       ,  10423,     13.00,     1000, 46.21      , 0.00       , 5.82       , 1.58       , 91.96
+zfile-dev                   , zfile                          ,  10378,      6.08,       67, 29.92      , 0.00       , 7.01       , 1.50       , 9.45
+resilience4j                , resilience4j                   ,  10361,     10.25,       35, 38.94      , 0.00       , 7.00       , 1.46       , 19.20
+JessYanCoding               , MVPArms                        ,  10289,      9.08,       25, 40.17      , 0.00       , 6.64       , 1.28       , 32.10
+awsdocs                     , aws-doc-sdk-examples           ,  10196,      9.08,        0, 48.92      , 0.00       , 7.04       , 1.04       , 6.19
+JakeWharton                 , ViewPagerIndicator             ,  10106,     14.08,        0, 44.65      , 0.00       , 6.02       , 2.71       , 29.27
+signalapp                   , Signal-Server                  ,  10061,     11.75,        0, 46.96      , 0.00       , 9.12       , 1.48       , 13.66
+stanfordnlp                 , CoreNLP                        ,   9966,     12.25,       19, 129.52     , 0.00       , 5.92       , 1.65       , 148.58
+wasabeef                    , glide-transformations          ,   9926,     10.67,        0, 36.70      , 0.00       , 5.56       , 2.15       , 2.78
+googlesamples               , easypermissions                ,   9916,      9.75,       12, 51.67      , 0.00       , 8.94       , 1.48       , 12.21
+paascloud                   , paascloud-master               ,   9894,      7.50,        0, 22.14      , 0.00       , 6.10       , 1.32       , 5.46
+uknownothingsnow            , JsBridge                       ,   9888,     10.58,        0, 36.25      , 0.00       , 3.50       , 1.16       , 17.09
+SonarSource                 , sonarqube                      ,   9874,     14.67,       65, 48.80      , 0.00       , 7.38       , 1.17       , 25.78
+hackware1993                , MagicIndicator                 ,   9803,      9.25,       12, 44.01      , 0.00       , 5.00       , 1.34       , 26.94
+HarlonWang                  , AVLoadingIndicatorView         ,   9771,      9.92,        1, 23.49      , 0.00       , 3.57       , 1.78       , 6.75
+OpenFeign                   , feign                          ,   9735,     12.25,       39, 30.03      , 0.00       , 5.14       , 1.68       , 13.27
+YoKeyword                   , Fragmentation                  ,   9723,      9.58,       30, 31.62      , 0.00       , 5.23       , 1.71       , 15.12
+xuchengsheng                , spring-reading                 ,   9700,      2.00,        0, 10.62      , 0.00       , 2.82       , 1.03       , 0.55
+lihengming                  , spring-boot-api-project-seed   ,   9685,      8.25,        4, 32.27      , 0.00       , 5.00       , 1.27       , 9.73
+perwendel                   , spark                          ,   9661,     14.33,        0, 43.38      , 0.00       , 4.54       , 1.30       , 47.12
+ksoichiro                   , Android-ObservableScrollView   ,   9650,     10.83,        0, 37.67      , 0.00       , 5.01       , 1.97       , 7.57
+react-native-camera         , react-native-camera            ,   9645,     10.42,      144, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+koral--                     , android-gif-drawable           ,   9630,     12.67,       61, 45.62      , 0.00       , 6.16       , 1.66       , 59.73
+bilibili                    , DanmakuFlameMaster             ,   9599,     12.08,        5, 74.88      , 0.00       , 5.16       , 1.61       , 47.51
+spinnaker                   , spinnaker                      ,   9579,     11.17,       15, 29.01      , 0.00       , 6.60       , 1.53       , 14.59
+liaohuqiu                   , android-Ultra-Pull-To-Refresh  ,   9564,     10.83,        8, 34.01      , 0.00       , 4.06       , 1.42       , 19.14
+MyCATApache                 , Mycat-Server                   ,   9554,     10.75,        7, 71.99      , 0.00       , 4.90       , 1.29       , 78.49
+umano                       , AndroidSlidingUpPanel          ,   9498,     12.33,        8, 118.29     , 0.00       , 4.94       , 1.35       , 132.00
+crossoverJie                , cim                            ,   9442,      7.33,        9, 27.83      , 0.00       , 4.88       , 1.28       , 5.74
+pockethub                   , PocketHub                      ,   9381,     14.00,        1, 32.92      , 0.00       , 6.58       , 1.48       , 9.04
+apache                      , cassandra                      ,   9359,     16.33,        0, 58.82      , 0.00       , 6.83       , 1.77       , 59.17
+Justson                     , AgentWeb                       ,   9351,      8.33,       21, 44.22      , 0.00       , 5.40       , 1.49       , 18.79
+seven332                    , EhViewer                       ,   9324,     11.33,       97, 73.83      , 0.00       , 7.14       , 1.82       , 45.26
+huanghaibin-dev             , CalendarView                   ,   9310,      8.50,        1, 65.66      , 0.00       , 6.57       , 2.16       , 53.18
+spring-projects             , spring-security                ,   9293,     13.67,      227, 38.09      , 0.00       , 7.37       , 1.24       , 10.11
+json-path                   , JsonPath                       ,   9291,     14.67,       10, 44.75      , 0.00       , 4.56       , 1.49       , 29.29
+GcsSloop                    , AndroidNote                    ,   9290,      9.67,        0, 50.25      , 0.00       , 4.88       , 1.38       , 8.12
+android                     , testing-samples                ,   9275,     10.92,        0, 20.83      , 0.00       , 5.42       , 1.37       , 2.46
+cats-oss                    , android-gpuimage               ,   9128,     12.92,        0, 41.44      , 0.00       , 2.96       , 2.16       , 11.30
+flyway                      , flyway                         ,   9088,     12.75,      266, 42.84      , 0.00       , 5.93       , 1.51       , 52.28
+didi                        , VirtualAPK                     ,   9041,      8.25,        4, 48.96      , 0.00       , 4.90       , 1.61       , 17.58
+apache                      , jmeter                         ,   8991,     15.33,       10, 74.09      , 0.00       , 5.49       , 2.00       , 62.12
+langchain4j                 , langchain4j                    ,   8977,      2.25,       51, 42.55      , 0.00       , 5.39       , 1.04       , 5.04
+navasmdc                    , MaterialDesignLibrary          ,   8972,     11.00,        3, 35.70      , 0.00       , 4.54       , 1.82       , 6.76
+KunMinX                     , Jetpack-MVVM-Best-Practice     ,   8951,      5.92,        0, 31.02      , 0.00       , 4.84       , 1.62       , 12.00
+Freelander                  , Android_Data                   ,   8844,     10.42,        0, 58.00      , 0.00       , 2.00       , 1.00       , 3.00
+nathanmarz                  , storm                          ,   8811,     14.00,        0, 71.15      , 0.00       , 4.43       , 1.29       , 33.07
+laobie                      , StatusBarUtil                  ,   8799,      9.58,        0, 31.39      , 0.00       , 4.15       , 1.55       , 22.55
+java-native-access          , jna                            ,   8799,     14.42,        0, 45.16      , 0.00       , 4.87       , 2.53       , 44.94
+apache                      , seatunnel                      ,   8775,      8.08,       52, 41.36      , 0.00       , 4.83       , 1.27       , 27.00
+Blankj                      , awesome-java-leetcode          ,   8715,      8.42,        0, 24.61      , 0.00       , 1.68       , 1.00       , 1.17
+flowable                    , flowable-engine                ,   8713,      8.92,       28, 60.80      , 0.00       , 6.71       , 1.63       , 162.77
+chrisbanes                  , Android-PullToRefresh          ,   8688,     13.83,        0, 43.50      , 0.00       , 6.02       , 2.11       , 55.84
+checkstyle                  , checkstyle                     ,   8673,     12.08,      169, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+ybq                         , Android-SpinKit                ,   8665,      9.50,        0, 25.52      , 0.00       , 4.82       , 3.17       , 21.52
+karatelabs                  , karate                         ,   8658,      8.58,       54, 68.64      , 0.00       , 6.63       , 1.21       , 115.28
+apache                      , shenyu                         ,   8658,      7.17,       13, 44.03      , 0.00       , 5.47       , 1.25       , 24.17
+shwenzhang                  , AndResGuard                    ,   8624,      9.92,        4, 98.58      , 0.00       , 3.53       , 1.50       , 22.38
+react-native-image-picker   , react-native-image-picker      ,   8588,     10.25,      142, 73.73      , 0.00       , 6.18       , 1.55       , 66.18
+chrisjenx                   , Calligraphy                    ,   8570,     11.75,        4, 38.72      , 0.00       , 5.72       , 1.44       , 11.36
+amitshekhariitbhu           , Android-Debug-Database         ,   8560,      8.83,       14, 39.23      , 0.00       , 4.15       , 1.28       , 8.80
+airbnb                      , epoxy                          ,   8559,      9.08,       76, 70.96      , 0.00       , 7.20       , 1.81       , 138.77
+facebook                    , buck                           ,   8556,     12.42,       57, 45.36      , 0.00       , 8.05       , 1.38       , 28.99
+dropwizard                  , dropwizard                     ,   8553,     14.67,      188, 29.00      , 0.00       , 5.95       , 1.51       , 19.18
+junit-team                  , junit4                         ,   8535,     16.67,       13, 22.40      , 0.00       , 3.87       , 1.46       , 12.96
+frohoff                     , ysoserial                      ,   8506,     10.67,        1, 32.09      , 0.00       , 5.46       , 1.34       , 8.89
+google                      , tsunami-security-scanner       ,   8464,      5.25,       27, 29.74      , 0.00       , 6.26       , 1.54       , 14.75
+ZCShou                      , GoGoGo                         ,   8437,      3.75,        8, 79.44      , 0.00       , 7.71       , 1.46       , 12.88
+roughike                    , BottomBar                      ,   8390,      9.50,        4, 42.94      , 0.00       , 4.91       , 1.29       , 61.67
+hs-web                      , hsweb-framework                ,   8381,      9.67,       30, 30.56      , 0.00       , 5.81       , 1.36       , 12.17
+LSPosed                     , LSPatch                        ,   8378,      4.50,        9, 48.00      , 0.00       , 4.34       , 1.35       , 23.88
+PojavLauncherTeam           , PojavLauncher                  ,   8376,      5.50,      126, 67.53      , 0.00       , 6.23       , 1.41       , 124.73
+DImuthuUpe                  , AndroidPdfViewer               ,   8359,      9.25,        0, 58.39      , 0.00       , 4.95       , 1.25       , 76.79
+testcontainers              , testcontainers-java            ,   8319,     10.42,       85, 34.56      , 0.00       , 5.35       , 1.49       , 21.91
+wildfirechat                , im-server                      ,   8298,      6.67,      108, 156.37     , 0.00       , 6.41       , 1.54       , 111.72
+apache                      , beam                           ,   8294,      9.58,       52, 32.32      , 0.00       , 6.21       , 1.62       , 7.84
+apache                      , shardingsphere-elasticjob      ,   8209,     10.00,       30, 17.37      , 0.00       , 3.37       , 1.05       , 4.97
+pentaho                     , pentaho-kettle                 ,   8168,     11.92,        1, 69.78      , 0.00       , 6.00       , 1.28       , 82.50
+alibaba                     , atlas                          ,   8150,      8.58,        7, 71.79      , 0.00       , 5.64       , 1.44       , 29.88
+cabaletta                   , baritone                       ,   8133,      7.08,       85, 47.20      , 0.00       , 6.70       , 1.39       , 22.11
+alibaba                     , transmittable-thread-local     ,   8127,     11.92,       58, 43.94      , 0.00       , 5.78       , 1.48       , 13.12
+alibaba                     , otter                          ,   8125,     12.08,       10, 52.59      , 0.00       , 4.61       , 1.37       , 32.45
+florent37                   , MaterialViewPager              ,   8114,     10.42,       11, 36.73      , 0.00       , 4.55       , 1.30       , 9.39
+bytedeco                    , javacv                         ,   8113,     11.42,       13, 120.91     , 0.00       , 6.13       , 2.13       , 133.99
+HMCL-dev                    , HMCL                           ,   8111,     10.25,      258, 60.11      , 0.00       , 6.79       , 1.69       , 35.32
+guolindev                   , LitePal                        ,   8102,     12.58,        0, 58.86      , 0.00       , 5.01       , 1.65       , 49.45
+aeron-io                    , aeron                          ,   8096,     11.58,      126, 93.34      , 0.00       , 7.82       , 1.30       , 113.72
+aritraroy                   , UltimateAndroidReference       ,   8089,      8.42,        0, 22.00      , 0.00       , 1.00       , 1.00       , 0.00
+davemorrissey               , subsampling-scale-image-view   ,   7986,     12.08,       21, 59.19      , 0.00       , 5.62       , 1.58       , 79.72
+Netflix                     , SimianArmy                     ,   7985,     13.17,        4, 52.64      , 0.00       , 5.85       , 1.42       , 25.16
+junixapp                    , XPopup                         ,   7963,      6.75,      221, 40.49      , 0.00       , 4.70       , 1.58       , 22.90
+apache                      , iceberg                        ,   7953,      6.83,       31, 68.96      , 0.00       , 8.59       , 1.68       , 36.30
+apache                      , tomcat                         ,   7948,     13.92,        0, 76.24      , 0.00       , 4.52       , 1.81       , 179.91
+JakeWharton                 , hugo                           ,   7930,     11.83,        0, 54.86      , 0.00       , 5.71       , 1.14       , 27.71
+dropwizard                  , metrics                        ,   7851,     15.58,      138, 41.43      , 0.00       , 5.48       , 1.35       , 9.54
+HannahMitt                  , HomeMirror                     ,   7846,     10.08,        0, 26.05      , 0.00       , 2.73       , 1.08       , 5.35
+software-mansion            , react-native-svg               ,   7826,      9.67,      124, 59.94      , 0.00       , 6.55       , 2.65       , 87.94
+Graylog2                    , graylog2-server                ,   7795,     15.33,        0, 34.09      , 0.00       , 8.08       , 1.33       , 18.87
+ChrisRM                     , material-theme-jetbrains       ,   7794,     10.00,       17, 40.66      , 0.00       , 4.33       , 2.25       , 84.42
+trello-archive              , RxLifecycle                    ,   7692,     10.17,       22, 29.23      , 0.00       , 6.43       , 1.65       , 1.41
+goldze                      , MVVMHabit                      ,   7682,      8.17,        3, 28.56      , 0.00       , 3.58       , 1.27       , 15.76
+vipshop                     , vjtools                        ,   7671,      7.33,        9, 48.50      , 0.00       , 3.13       , 1.28       , 26.30
+krahets                     , LeetCode-Book                  ,   7662,      3.75,        0, 12.16      , 0.00       , 1.33       , 1.00       , 0.09
+lecho                       , hellocharts-android            ,   7644,     10.92,       14, 71.86      , 0.00       , 6.31       , 1.52       , 40.29
+Tencent                     , Shadow                         ,   7639,      6.25,        5, 34.02      , 0.00       , 4.12       , 1.73       , 19.98
+gedoor                      , MyBookshelf                    ,   7620,      7.25,      165, 72.31      , 0.00       , 6.34       , 1.47       , 58.66
+google                      , android-classyshark            ,   7588,      9.92,       17, 41.10      , 0.00       , 3.17       , 1.28       , 10.25
+PowerJob                    , PowerJob                       ,   7586,      5.50,       51, 32.69      , 0.00       , 5.75       , 1.18       , 5.14
+google                      , closure-compiler               ,   7569,     11.42,        0, 114.76     , 0.00       , 6.85       , 1.51       , 1272.10
+koush                       , AndroidAsync                   ,   7546,     13.08,        0, 33.31      , 0.00       , 3.61       , 1.53       , 19.44
+kaushikgopal                , RxJava-Android-Samples         ,   7526,     11.17,        0, 30.62      , 0.00       , 6.63       , 1.83       , 9.20
+jeecgboot                   , jimureport                     ,   7520,      5.75,       29, 25.00      , 0.00       , 6.75       , 1.08       , 2.33
+kevin-wayne                 , algs4                          ,   7503,     10.08,        0, 80.72      , 0.00       , 4.00       , 1.02       , 47.47
+mapstruct                   , mapstruct                      ,   7496,     13.33,       35, 15.42      , 0.00       , 2.34       , 1.00       , 8.89
+yuanguangxin                , LeetCode                       ,   7469,      5.67,        0, 26.88      , 0.00       , 2.55       , 1.01       , 0.34
+swagger-api                 , swagger-core                   ,   7452,     14.17,      120, 28.76      , 0.00       , 4.83       , 1.23       , 49.70
+enso-org                    , enso                           ,   7436,      8.75,      477, 29.28      , 0.00       , 2.40       , 1.37       , 9.42
+lenve                       , VBlog                          ,   7420,      7.75,        0, 26.93      , 0.00       , 4.55       , 1.03       , 29.07
+gunnarmorling               , 1brc                           ,   7405,      1.75,        0, 89.05      , 0.00       , 3.17       , 1.09       , 7.58
+dyc87112                    , SpringCloud-Learning           ,   7402,      9.08,        0, 43.12      , 0.00       , 5.91       , 1.05       , 28.91
+abel533                     , Mapper                         ,   7370,     10.83,        8, 41.71      , 0.00       , 5.06       , 1.24       , 36.18
+leolin310148                , ShortcutBadger                 ,   7353,     11.83,        0, 28.55      , 0.00       , 5.29       , 1.16       , 3.48
+Qihoo360                    , RePlugin                       ,   7338,      8.25,       19, 66.39      , 0.00       , 5.20       , 1.42       , 32.02
+MinecraftForge              , MinecraftForge                 ,   7300,     13.67,        0, 37.77      , 0.00       , 7.13       , 2.17       , 37.91
+square                      , dagger                         ,   7300,     13.08,        0, 19.81      , 0.00       , 3.17       , 1.23       , 5.99
+gocd                        , gocd                           ,   7290,     11.75,       86, 49.60      , 0.00       , 7.46       , 1.28       , 37.52
+Bearded-Hen                 , Android-Bootstrap              ,   7270,     11.83,        5, 131.51     , 0.00       , 6.96       , 1.67       , 31.39
+pedant                      , sweet-alert-dialog             ,   7251,     10.92,        2, 58.94      , 0.00       , 4.38       , 1.25       , 31.06
+crazycodeboy                , TakePhoto                      ,   7243,     10.08,       15, 43.69      , 0.00       , 5.05       , 1.25       , 10.89
+AntennaPod                  , AntennaPod                     ,   7237,     13.17,       62, 63.40      , 0.00       , 7.43       , 1.49       , 21.49
+Exrick                      , xmall                          ,   7230,      8.17,        0, 143.33     , 0.00       , 4.31       , 1.16       , 632.83
+geeeeeeeeek                 , WeChatLuckyMoney               ,   7223,     10.00,       20, 44.33      , 0.00       , 5.38       , 1.38       , 8.81
+cymcsg                      , UltimateRecyclerView           ,   7203,     10.67,        9, 43.69      , 0.00       , 5.29       , 1.72       , 45.40
+dependency-check            , DependencyCheck                ,   7184,     13.00,       85, 83.81      , 0.00       , 7.06       , 1.87       , 60.09
+google                      , agera                          ,   7166,      9.75,       16, 37.58      , 0.00       , 6.33       , 1.24       , 14.84
+NanoHttpd                   , nanohttpd                      ,   7163,     13.08,        3, 49.35      , 0.00       , 4.34       , 1.79       , 22.16
+didi                        , KnowStreaming                  ,   7144,      5.50,       23, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+ogaclejapan                 , SmartTabLayout                 ,   7097,     10.58,        0, 42.49      , 0.00       , 6.36       , 1.64       , 9.71
+Genymobile                  , gnirehtet                      ,   7080,      8.58,       12, 53.46      , 0.00       , 3.77       , 1.19       , 14.30
+JakeWharton                 , ActionBarSherlock              ,   7075,     14.50,       32, 61.97      , 0.00       , 6.28       , 1.95       , 63.40
+Alluxio                     , alluxio                        ,   7068,     12.75,       61, 62.69      , 0.00       , 6.91       , 1.48       , 30.66
+naman14                     , Timber                         ,   7057,     10.25,        5, 48.25      , 0.00       , 5.40       , 1.46       , 19.75
+AutoMQ                      , automq                         ,   7044,      2.08,       70, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+google                      , error-prone                    ,   7038,     11.08,       57, 34.41      , 0.00       , 7.85       , 1.53       , 25.52
+NLPchina                    , elasticsearch-sql              ,   7034,     11.08,      272, 119.18     , 0.00       , 9.60       , 2.08       , 190.20
+h2pl                        , JavaTutorial                   ,   7027,      7.33,        1, 4.67       , 0.00       , 0.33       , 1.00       , 0.33
+rest-assured                , rest-assured                   ,   7023,     14.92,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+mrniko                      , netty-socketio                 ,   6995,     13.67,       19, 36.88      , 0.00       , 4.96       , 1.27       , 33.02
+wiremock                    , wiremock                       ,   6978,     13.92,       51, 40.52      , 0.00       , 5.75       , 1.37       , 74.05
+DroidPluginTeam             , DroidPlugin                    ,   6962,     10.08,        2, 28.37      , 0.00       , 3.30       , 4.39       , 3.70
+alibaba                     , jvm-sandbox                    ,   6920,      8.08,       13, 33.12      , 0.00       , 3.48       , 1.33       , 12.36
+exadel-inc                  , CompreFace                     ,   6874,      5.17,       11, 23.32      , 0.00       , 7.85       , 1.66       , 3.89
+hongyangAndroid             , okhttputils                    ,   6861,     10.08,        0, 28.01      , 0.00       , 3.73       , 1.46       , 6.20
+Meituan-Dianping            , walle                          ,   6847,      8.67,        1, 49.29      , 0.00       , 3.15       , 1.19       , 8.69
+macrozheng                  , springcloud-learning           ,   6832,      6.00,        0, 43.12      , 0.00       , 5.91       , 1.05       , 28.91
+rabbitmq                    , rabbitmq-tutorials             ,   6805,     15.00,        0, 29.02      , 0.00       , 4.59       , 1.00       , 2.29
+zo0r                        , react-native-push-notification ,   6788,      9.75,       35, 64.97      , 0.00       , 6.31       , 1.24       , 15.48
+junit-team                  , junit-framework                ,   6785,     10.67,       96, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+smuyyh                      , BookReader                     ,   6780,      9.08,        0, 44.23      , 0.00       , 4.80       , 1.44       , 25.32
+CoderLeixiaoshuai           , java-eight-part                ,   6780,      4.92,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+Angel-ML                    , angel                          ,   6775,      8.42,       19, 107.82     , 0.00       , 7.42       , 1.74       , 63.42
+guardianproject             , haven                          ,   6725,      8.50,       37, 57.73      , 0.00       , 6.82       , 1.39       , 11.77
+markzhai                    , AndroidPerformanceMonitor      ,   6724,      9.67,        0, 41.37      , 0.00       , 4.07       , 1.28       , 14.07
+getActivity                 , AndroidProject                 ,   6714,      6.92,       17, 57.17      , 0.00       , 7.22       , 2.14       , 19.18
+gzu-liyujiang               , AndroidPicker                  ,   6713,      9.92,       57, 56.66      , 0.00       , 5.44       , 1.64       , 51.72
+fuzhengwei                  , itstack-demo-design            ,   6712,      5.33,        0, 18.57      , 0.00       , 2.17       , 1.11       , 5.33
+zouzg                       , mybatis-generator-gui          ,   6708,      9.33,       16, 78.13      , 0.00       , 7.18       , 1.49       , 69.95
+527515025                   , springBoot                     ,   6700,      8.83,        0, 23.67      , 0.00       , 5.09       , 1.15       , 15.50
+spring-projects             , spring-ai                      ,   6698,      2.25,        2, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+hongyangAndroid             , AndroidAutoLayout              ,   6673,      9.83,        0, 30.38      , 0.00       , 5.83       , 2.00       , 8.81
+Meituan-Dianping            , Leaf                           ,   6667,      6.75,        0, 32.62      , 0.00       , 3.48       , 1.43       , 11.25
+apache                      , storm                          ,   6651,     11.83,        5, 71.15      , 0.00       , 4.43       , 1.29       , 33.07
+yanzhenjie                  , AndPermission                  ,   6645,      9.00,        0, 26.70      , 0.00       , 3.99       , 1.17       , 7.49
+Col-E                       , Recaf                          ,   6645,      8.17,      170, 46.93      , 0.00       , 8.50       , 1.60       , 26.95
+raphw                       , byte-buddy                     ,   6608,     11.83,      304, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+quartz-scheduler            , quartz                         ,   6604,      9.50,        5, 69.01      , 0.00       , 5.58       , 1.44       , 119.37
+apache                      , hertzbeat                      ,   6604,      3.58,        6, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+GrenderG                    , Toasty                         ,   6599,      8.67,       19, 30.44      , 0.00       , 4.06       , 1.06       , 56.62
+apache                      , zeppelin                       ,   6558,     10.50,        0, 90.44      , 0.00       , 5.74       , 1.26       , 43.08
+JesusFreke                  , smali                          ,   6536,     13.00,        0, 40.59      , 0.00       , 6.02       , 1.67       , 15.02
+NLPchina                    , ansj_seg                       ,   6530,     13.00,        3, 55.64      , 0.00       , 6.32       , 1.19       , 9.58
+jOOQ                        , jOOQ                           ,   6518,     14.42,      105, 67.25      , 0.00       , 9.79       , 1.84       , 1675.26
+processing                  , processing                     ,   6504,     12.67,       48, 119.31     , 0.00       , 3.73       , 1.64       , 507.76
+MuntashirAkon               , AppManager                     ,   6503,      5.33,       76, 80.99      , 0.00       , 7.92       , 1.49       , 74.32
+ximsfei                     , Android-skin-support           ,   6502,      8.67,        0, 47.84      , 0.00       , 6.08       , 1.39       , 17.67
+FongMi                      , TV                             ,   6491,      3.25,        0, 47.17      , 0.00       , 6.56       , 1.40       , 102.07
+getActivity                 , XXPermissions                  ,   6468,      7.25,       72, 46.14      , 0.00       , 6.65       , 1.55       , 86.44
+traccar                     , traccar                        ,   6445,     13.42,       63, 37.48      , 0.00       , 5.57       , 1.92       , 5.93
+wxiaoqi                     , Spring-Cloud-Platform          ,   6434,      8.33,        3, 33.98      , 0.00       , 4.89       , 1.41       , 57.65
+ArthurHub                   , Android-Image-Cropper          ,   6424,     10.67,       32, 116.38     , 0.00       , 7.72       , 1.38       , 70.38
+vinc3m1                     , RoundedImageView               ,   6423,     12.58,       19, 84.33      , 0.00       , 8.40       , 1.80       , 107.47
+pig-mesh                    , pig                            ,   6416,      6.08,       19, 19.85      , 0.00       , 6.91       , 1.31       , 5.33
+hazelcast                   , hazelcast                      ,   6392,     13.50,      200, 65.71      , 0.00       , 7.93       , 1.76       , 44.83
+AsyncHttpClient             , async-http-client              ,   6390,     14.50,        7, 50.84      , 0.00       , 5.78       , 1.57       , 41.61
+aa112901                    , remusic                        ,   6359,      9.50,        0, 56.55      , 0.00       , 5.19       , 1.45       , 41.65
+vespa-engine                , vespa                          ,   6347,      9.25,      239, 52.16      , 0.00       , 6.04       , 1.62       , 37.92
+sshahine                    , JFoenix                        ,   6344,     10.00,        0, 57.76      , 0.00       , 6.92       , 1.62       , 22.08
+joelittlejohn               , jsonschema2pojo                ,   6333,     12.25,       63, 52.75      , 0.00       , 6.70       , 1.14       , 77.69
+wasabeef                    , richeditor-android             ,   6331,     10.50,        0, 18.70      , 0.00       , 2.42       , 1.14       , 46.95
+micronaut-projects          , micronaut-core                 ,   6295,      7.50,      311, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+amitshekhariitbhu           , from-java-to-kotlin            ,   6292,      8.33,        0, 18.50      , 0.00       , 0.50       , 1.00       , 0.00
+koush                       , ion                            ,   6275,     12.33,        0, 32.67      , 0.00       , 4.58       , 1.46       , 23.60
+648540858                   , wvp-GB28181-pro                ,   6261,      4.83,        1, 63.67      , 0.00       , 8.38       , 1.30       , 35.95
+lightbend                   , config                         ,   6259,     13.75,        3, 65.93      , 0.00       , 5.47       , 2.06       , 76.18
+haifengl                    , smile                          ,   6255,     10.83,       34, 75.69      , 0.00       , 5.54       , 1.36       , 103.72
+hibernate                   , hibernate-orm                  ,   6234,     14.92,      108, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+ityouknow                   , spring-cloud-examples          ,   6224,      8.42,        0, 6.50       , 0.00       , 3.83       , 1.02       , 0.47
+apache                      , flink-cdc                      ,   6220,      5.17,       22, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+gephi                       , gephi                          ,   6205,     13.92,       19, 52.57      , 0.00       , 4.48       , 1.67       , 24.68
+graphql-java                , graphql-java                   ,   6196,     10.17,       93, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+DerekYRC                    , mini-spring                    ,   6188,      4.83,        0, 16.59      , 0.00       , 3.41       , 1.22       , 5.08
+Javen205                    , IJPay                          ,   6165,      8.33,       24, 51.78      , 0.00       , 5.59       , 1.37       , 139.40
+logisim-evolution           , logisim-evolution              ,   6164,     11.00,       31, 84.86      , 0.00       , 5.96       , 2.43       , 28.23
+jetlinks                    , jetlinks-community             ,   6151,      5.67,       20, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+google                      , grafika                        ,   6132,     11.75,        1, 97.43      , 0.00       , 6.41       , 1.75       , 6.89
+auth0                       , java-jwt                       ,   6123,     11.50,       45, 103.77     , 0.00       , 5.66       , 1.63       , 142.74
+ikew0ng                     , SwipeBackLayout                ,   6123,     12.08,        0, 90.83      , 0.00       , 5.22       , 1.39       , 61.33
+apache                      , incubator-kie-drools           ,   6115,     14.58,        6, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+nayuki                      , QR-Code-generator              ,   6111,      9.42,        5, 95.95      , 0.00       , 3.95       , 1.42       , 19.58
+daimajia                    , NumberProgressBar              ,   6104,     11.33,        3, 63.33      , 0.00       , 3.17       , 1.33       , 91.83
+rengwuxian                  , MaterialEditText               ,   6100,     10.92,       19, 130.19     , 0.00       , 5.65       , 1.31       , 742.85
+Vedenin                     , useful-java-links              ,   6060,      9.58,        0, 22.69      , 0.00       , 2.30       , 1.02       , 1.83
+alipay                      , SoloPi                         ,   6036,      6.50,        8, 48.14      , 0.00       , 4.62       , 1.21       , 13.14
+google                      , j2objc                         ,   6030,     11.67,        1, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+LandGrey                    , SpringBootVulExploit           ,   6030,      5.33,        0, 18.43      , 0.00       , 3.43       , 1.00       , 3.57
+singwhatiwanna              , dynamic-load-apk               ,   6030,     11.50,        0, 42.26      , 0.00       , 5.81       , 1.45       , 9.42
+pedrovgs                    , EffectiveAndroidUI             ,   6015,     11.17,        0, 26.34      , 0.00       , 4.44       , 1.34       , 11.62
+jd-opensource               , joyagent-jdgenie               ,   6011,      0.17,        0, 37.62      , 0.00       , 4.79       , 1.10       , 4.30
+graphhopper                 , graphhopper                    ,   6000,     13.58,       45, 72.73      , 0.00       , 6.76       , 1.26       , 33.00
+rey5137                     , material                       ,   5989,     10.75,       10, 89.66      , 0.00       , 6.51       , 1.65       , 54.50
+google                      , physical-web                   ,   5982,     11.00,       17, 47.96      , 0.00       , 4.79       , 1.29       , 26.71
+vavr-io                     , vavr                           ,   5971,     11.67,       19, 96.98      , 0.00       , 8.21       , 1.25       , 1070.46
+wyouflf                     , xUtils3                        ,   5968,      9.92,        9, 57.62      , 0.00       , 5.22       , 1.41       , 27.45
+robolectric                 , robolectric                    ,   5967,     15.08,      110, 56.28      , 0.00       , 5.93       , 1.37       , 72.49
+obsidiandynamics            , kafdrop                        ,   5965,      6.33,       50, 42.15      , 0.00       , 5.52       , 1.32       , 28.21
+liyifeng1994                , ssm                            ,   5958,      9.25,        0, 19.42      , 0.00       , 4.16       , 1.68       , 2.05
+btraceio                    , btrace                         ,   5954,     11.08,       33, 53.37      , 0.00       , 4.91       , 1.30       , 92.54
+apache                      , camel                          ,   5950,     16.33,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+javaparser                  , javaparser                     ,   5942,     13.92,       55, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+springfox                   , springfox                      ,   5941,     13.33,       12, 28.27      , 0.00       , 5.70       , 1.12       , 23.25
+apache                      , hudi                           ,   5933,      8.75,       31, 66.66      , 0.00       , 9.19       , 1.58       , 60.00
+prolificinteractive         , material-calendarview          ,   5927,     10.58,       22, 41.57      , 0.00       , 6.45       , 1.53       , 69.01
+antoniolg                   , androidmvp                     ,   5921,     11.42,        0, 19.57      , 0.00       , 3.29       , 1.29       , 3.00
+google                      , google-java-format             ,   5916,     10.33,       35, 77.29      , 0.00       , 5.73       , 1.42       , 66.80
+LaurieWired                 , GhidraMCP                      ,   5904,      0.50,        5, 406.33     , 0.00       , 16.33      , 1.67       , 459.00
+weibocom                    , motan                          ,   5896,      9.42,       27, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+apache                      , pinot                          ,   5895,     11.33,       20, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+journeyapps                 , zxing-android-embedded         ,   5893,     12.83,        9, 53.84      , 0.00       , 5.44       , 1.36       , 21.92
+ZhongFuCheng3y              , austin                         ,   5891,      3.83,        0, 18.79      , 0.00       , 6.23       , 1.12       , 1.45
+WeiYe-Jing                  , datax-web                      ,   5887,      5.83,        5, 43.54      , 0.00       , 5.04       , 1.39       , 13.24
+apache                      , iotdb                          ,   5884,      6.83,       47, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+opengoofy                   , hippo4j                        ,   5880,      4.25,       18, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+lets-blade                  , blade                          ,   5878,     10.25,        9, 49.90      , 0.00       , 4.62       , 1.23       , 42.16
+CeuiLiSA                    , Pixiv-Shaft                    ,   5851,      6.42,      111, 35.04      , 0.00       , 4.81       , 1.45       , 24.99
+amitshekhariitbhu           , Fast-Android-Networking        ,   5843,      9.50,       10, 34.08      , 0.00       , 3.22       , 1.25       , 13.77
+JSQLParser                  , JSqlParser                     ,   5805,     14.25,       37, 56.96      , 0.00       , 6.36       , 1.55       , 515.85
+youtube                     , api-samples                    ,   5804,     11.75,        0, 60.50      , 0.00       , 6.40       , 1.00       , 4.38
+Nightonke                   , BoomMenu                       ,   5803,      9.50,        0, 67.04      , 0.00       , 5.63       , 1.57       , 227.67
+ffay                        , lanproxy                       ,   5802,      8.83,        1, 42.35      , 0.00       , 4.24       , 1.19       , 8.21
+changmingxie                , tcc-transaction                ,   5797,      9.75,        8, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+alibaba                     , spring-ai-alibaba              ,   5787,      1.00,       10, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+yarolegovich                , DiscreteScrollView             ,   5787,      8.50,        2, 35.22      , 0.00       , 4.23       , 1.25       , 19.11
+apache                      , hive                           ,   5786,     16.33,        0, 98.54      , 0.00       , 6.90       , 1.41       , 94.15
+JakeWharton                 , DiskLruCache                   ,   5774,     13.67,        0, 161.42     , 0.00       , 3.25       , 1.33       , 11.00
+dmytrodanylyk               , circular-progress-button       ,   5772,     11.25,        3, 36.64      , 0.00       , 3.97       , 1.28       , 25.33
+TeamAmaze                   , AmazeFileManager               ,   5759,     11.17,       66, 71.90      , 0.00       , 7.30       , 1.45       , 28.84
+Nepxion                     , Discovery                      ,   5744,      7.25,      132, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+k0shk0sh                    , FastHub                        ,   5729,      8.58,       63, 43.17      , 0.00       , 8.07       , 1.44       , 34.76
+Devlight                    , InfiniteCycleViewPager         ,   5724,      9.08,        2, 86.93      , 0.00       , 5.05       , 1.63       , 102.54
+jeequan                     , jeepay                         ,   5722,      8.08,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+jpush                       , aurora-imui                    ,   5715,      8.75,       42, 52.01      , 0.00       , 4.81       , 1.53       , 50.27
+yanzhenjie                  , SwipeRecyclerView              ,   5706,      9.08,        0, 40.33      , 0.00       , 4.85       , 1.39       , 26.94
+dromara                     , lamp-cloud                     ,   5686,      7.67,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+springside                  , springside4                    ,   5685,     13.58,        3, 40.77      , 0.00       , 3.17       , 1.28       , 24.78
+apache                      , nifi                           ,   5665,     10.75,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+jagrosh                     , MusicBot                       ,   5663,      9.08,       38, 44.05      , 0.00       , 6.74       , 2.51       , 10.59
+wasabeef                    , Blurry                         ,   5661,     10.17,        0, 45.43      , 0.00       , 5.14       , 1.00       , 0.64
+JakeWharton                 , u2020                          ,   5660,     11.83,        0, 35.87      , 0.00       , 6.22       , 1.43       , 23.62
+crazycodeboy                , react-native-splash-screen     ,   5660,      9.00,       12, 20.50      , 0.00       , 3.42       , 1.25       , 2.00
+hanks-zyh                   , HTextView                      ,   5649,      9.75,        0, 33.80      , 0.00       , 4.20       , 1.56       , 3.48
+redis                       , lettuce                        ,   5634,     11.33,      135, 54.12      , 0.00       , 6.31       , 1.39       , 166.46
+ZHENFENG13                  , spring-boot-projects           ,   5631,      8.42,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+daimajia                    , AndroidImageSlider             ,   5616,     11.25,        5, 60.52      , 0.00       , 4.06       , 1.57       , 59.10
+JanusGraph                  , janusgraph                     ,   5610,      8.75,       28, 54.99      , 0.00       , 7.02       , 1.44       , 43.90
+ElderDrivers                , EdXposed                       ,   5605,      6.67,       27, 78.04      , 0.00       , 6.07       , 1.60       , 191.08
+meefik                      , linuxdeploy                    ,   5604,     13.08,       37, 72.78      , 0.00       , 7.16       , 1.65       , 35.89
+TommyLemon                  , Android-ZBLibrary              ,   5598,     10.08,       25, 46.31      , 0.00       , 5.38       , 1.56       , 26.67
+hongyangAndroid             , FlowLayout                     ,   5595,     10.08,        0, 23.82      , 0.00       , 4.32       , 1.41       , 5.00
+Suwayomi                    , Suwayomi-Server                ,   5595,      4.75,       58, 100.48     , 0.00       , 5.55       , 1.62       , 1509.54
+amlcurran                   , ShowcaseView                   ,   5581,     13.08,       13, 32.09      , 0.00       , 5.38       , 1.40       , 17.82
+baidu                       , uid-generator                  ,   5561,      8.50,        0, 34.92      , 0.00       , 2.88       , 1.28       , 11.72
+knightliao                  , disconf                        ,   5554,     11.33,       12, 32.96      , 0.00       , 4.44       , 1.36       , 12.62
+nhaarman                    , ListViewAnimations             ,   5546,     12.50,       14, 41.58      , 0.00       , 6.47       , 2.06       , 10.46
+00-Evan                     , shattered-pixel-dungeon        ,   5497,     11.17,       52, 59.01      , 0.00       , 6.34       , 2.85       , 13.90
+danikula                    , AndroidVideoCache              ,   5495,     10.42,       20, 41.78      , 0.00       , 4.83       , 1.49       , 14.32
+emilsjolander               , StickyListHeaders              ,   5495,     13.50,       16, 49.12      , 0.00       , 4.81       , 1.40       , 3.98
+wuhaoyu1990                 , MagicCamera                    ,   5491,      9.67,        0, 41.32      , 0.00       , 3.54       , 1.47       , 7.63
+sockeqwe                    , mosby                          ,   5476,     10.50,       15, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+alibaba                     , jetcache                       ,   5473,      8.42,       67, 40.41      , 0.00       , 6.03       , 1.64       , 15.91
+scribejava                  , scribejava                     ,   5466,     15.00,        9, 25.65      , 0.00       , 4.21       , 1.40       , 10.94
+alibaba                     , freeline                       ,   5459,      9.08,       22, 39.68      , 0.00       , 3.80       , 1.61       , 13.87
+KeepSafe                    , TapTargetView                  ,   5455,      9.00,       24, 50.38      , 0.00       , 4.51       , 1.15       , 49.90
+dm77                        , barcodescanner                 ,   5448,     11.58,        6, 38.30      , 0.00       , 5.29       , 1.64       , 11.82
+201206030                   , novel                          ,   5448,      5.83,       12, 22.50      , 0.00       , 4.42       , 1.07       , 20.49
+Jasonchenlijian             , FastBle                        ,   5443,      9.08,        9, 44.89      , 0.00       , 4.38       , 1.30       , 26.07
+motianhuo                   , wechat                         ,   5436,     10.33,        0, 54.21      , 0.00       , 5.23       , 1.25       , 15.45
+ddd-by-examples             , library                        ,   5429,      6.67,        0, 14.39      , 0.00       , 6.79       , 1.04       , 5.43
+facebookarchive             , rebound                        ,   5416,     11.92,       10, 47.07      , 0.00       , 4.38       , 1.32       , 34.93
+apache                      , dubbo-spring-boot-project      ,   5404,      7.67,       13, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+socketio                    , socket.io-client-java          ,   5404,     12.42,        7, 24.62      , 0.00       , 1.92       , 1.10       , 4.25
+apache                      , hbase                          ,   5386,     11.33,       47, 82.07      , 0.00       , 8.17       , 1.50       , 69.38
+houbb                       , sensitive-word                 ,   5374,      5.67,        2, 18.42      , 0.00       , 3.04       , 1.17       , 20.79
+microsoft                   , typespec                       ,   5374,      4.25,      285, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+mik3y                       , usb-serial-for-android         ,   5372,     12.25,       33, 123.82     , 0.00       , 6.20       , 1.32       , 38.97
+Evernote                    , android-job                    ,   5371,     10.08,       31, 56.58      , 0.00       , 6.99       , 1.77       , 32.01
+strimzi                     , strimzi-kafka-operator         ,   5367,      9.33,      155, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+facebookarchive             , shimmer-android                ,   5365,     10.58,        5, 126.43     , 0.00       , 8.57       , 1.86       , 18.00
+apache                      , groovy                         ,   5360,     10.42,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+spring-projects             , spring-data-examples           ,   5355,     11.67,        0, 7.69       , 0.00       , 2.62       , 1.01       , 0.46
+jgilfelt                    , SystemBarTint                  ,   5355,     11.83,        3, 89.67      , 0.00       , 8.00       , 1.78       , 22.56
+commonsguy                  , cw-omnibus                     ,   5351,     13.50,       36, 36.58      , 0.00       , 5.27       , 1.69       , 20.08
+ikarus23                    , MifareClassicTool              ,   5343,     12.58,        8, 201.00     , 0.00       , 11.09      , 2.27       , 106.03
+h6ah4i                      , android-advancedrecyclerview   ,   5336,     10.67,        1, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+coobird                     , thumbnailator                  ,   5327,     10.17,        0, 87.71      , 0.00       , 4.06       , 1.24       , 93.55
+XRecyclerView               , XRecyclerView                  ,   5319,      9.83,        0, 31.03      , 0.00       , 3.91       , 1.42       , 9.04
+mybatis                     , generator                      ,   5311,     12.58,       11, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+google                      , google-authenticator           ,   5304,     10.92,        0, 64.51      , 0.00       , 3.89       , 1.69       , 29.66
+LFDT-web3j                  , web3j                          ,   5301,      9.00,      119, 34.16      , 0.00       , 4.27       , 1.74       , 35.27
+osmandapp                   , OsmAnd                         ,   5300,     14.67,        1, 113.26     , 0.00       , 8.74       , 1.61       , 106.29
+evant                       , gradle-retrolambda             ,   5291,     12.08,       37, 24.92      , 0.00       , 4.60       , 1.04       , 2.16
+xxv                         , android-lifecycle              ,   5272,     11.42,        0, 80.17      , 0.00       , 7.00       , 1.67       , 151.67
+yixia                       , VitamioBundle                  ,   5269,     12.92,        0, 64.37      , 0.00       , 4.95       , 1.32       , 75.07
+CaffeineMC                  , sodium                         ,   5259,      5.58,       40, 39.41      , 0.00       , 6.13       , 1.44       , 13.58
+CodingDocs                  , springboot-guide               ,   5252,      6.83,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+lingochamp                  , okdownload                     ,   5246,      7.75,        8, 55.35      , 0.00       , 6.44       , 1.27       , 35.26
+zfdang                      , Android-Touch-Helper           ,   5243,      4.92,      112, 41.04      , 0.00       , 4.13       , 1.18       , 1.95
+thinkaurelius               , titan                          ,   5242,     13.58,        0, 44.64      , 0.00       , 5.86       , 1.37       , 20.51
+Yalantis                    , Side-Menu.Android              ,   5240,     10.67,        2, 24.94      , 0.00       , 3.89       , 1.22       , 4.11
+alibaba                     , QLExpress                      ,   5237,      8.50,       17, 37.20      , 0.00       , 5.85       , 1.40       , 39.29
+razerdp                     , BasePopup                      ,   5232,      9.67,       15, 49.80      , 0.00       , 5.89       , 1.70       , 34.29
+cinit                       , QAuxiliary                     ,   5232,      3.67,       48, 80.17      , 0.00       , 7.67       , 1.33       , 42.31
+Doikki                      , DKVideoPlayer                  ,   5230,      8.42,       32, 48.93      , 0.00       , 5.33       , 1.59       , 46.75
+lucasr                      , twoway-view                    ,   5225,     12.67,        0, 72.31      , 0.00       , 6.08       , 1.82       , 86.59
+rubenlagus                  , TelegramBots                   ,   5224,      9.67,      108, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+huangyanbin                 , smartTable                     ,   5221,      7.83,       44, 38.91      , 0.00       , 5.13       , 1.19       , 25.93
+Karumi                      , Dexter                         ,   5216,      9.83,       33, 27.46      , 0.00       , 4.42       , 1.20       , 4.15
+liquibase                   , liquibase                      ,   5216,     14.17,      103, 56.77      , 0.00       , 6.83       , 1.80       , 65.45
+GeyserMC                    , Geyser                         ,   5213,      6.17,        0, 49.42      , 0.00       , 8.24       , 1.97       , 34.57
+pmd                         , pmd                            ,   5207,     13.17,      108, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+Clans                       , FloatingActionButton           ,   5205,     10.50,       14, 59.68      , 0.00       , 4.64       , 1.38       , 139.68
+dunwu                       , db-tutorial                    ,   5199,      8.08,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+citerus                     , dddsample-core                 ,   5198,     10.67,        0, 29.55      , 0.00       , 7.09       , 1.13       , 7.03
+remkop                      , picocli                        ,   5193,      8.58,       86, 32.66      , 0.00       , 3.00       , 1.11       , 58.91
+hustcc                      , JS-Sorting-Algorithm           ,   5184,      8.67,        0, 32.42      , 0.00       , 3.58       , 1.00       , 2.83
+tonikelope                  , megabasterd                    ,   5184,      9.00,      208, 102.85     , 0.00       , 2.76       , 1.49       , 85.72
+android                     , views-widgets-samples          ,   5155,      6.00,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+j-easy                      , easy-rules                     ,   5153,     12.50,       10, 29.98      , 0.00       , 5.09       , 1.31       , 7.63
+careercup                   , ctci                           ,   5147,     12.50,        0, 36.15      , 0.00       , 1.96       , 1.12       , 5.10
+square                      , otto                           ,   5146,     13.25,        0, 23.38      , 0.00       , 2.44       , 1.39       , 3.55
+novicezk                    , midjourney-proxy               ,   5145,      2.42,        0, 30.97      , 0.00       , 5.90       , 1.24       , 5.81
+Fuzion24                    , JustTrustMe                    ,   5143,     11.17,        1, 22.15      , 0.00       , 2.56       , 1.19       , 2.70
+reactor                     , reactor-core                   ,   5139,      9.83,      212, 90.14      , 0.00       , 7.07       , 1.68       , 121.55
+brianfrankcooper            , YCSB                           ,   5133,     15.42,       55, 94.89      , 0.00       , 7.05       , 1.64       , 7.85
+bitcoinj                    , bitcoinj                       ,   5133,     11.83,       14, 73.88      , 0.00       , 7.16       , 1.73       , 89.24
+LWJGL                       , lwjgl3                         ,   5124,     12.75,       21, 109.43     , 0.00       , 6.76       , 2.38       , 970.64
+runelite                    , runelite                       ,   5111,      9.42,        0, 125.61     , 0.00       , 3.61       , 1.22       , 25.83
+CellularPrivacy             , Android-IMSI-Catcher-Detector  ,   5096,     11.83,       48, 48.49      , 0.00       , 5.06       , 1.33       , 4.96
+hneemann                    , Digital                        ,   5095,      9.25,       35, 41.87      , 0.00       , 5.05       , 1.68       , 13.25
+zhanglei-workspace          , shopping-management-system     ,   5094,      9.83,        0, 55.19      , 0.00       , 3.52       , 1.36       , 76.33
+fast-excel                  , fastexcel                      ,   5090,      0.92,        5, 35.53      , 0.00       , 6.45       , 1.35       , 29.58
+natario1                    , CameraView                     ,   5084,      8.17,       42, 39.62      , 0.00       , 5.60       , 1.37       , 34.76
+deathmarine                 , Luyten                         ,   5083,     12.17,       17, 52.33      , 0.00       , 2.35       , 1.54       , 15.45
+jindrapetrik                , jpexs-decompiler               ,   5079,     11.33,      172, 85.26      , 0.00       , 5.87       , 1.92       , 57.63
+diffplug                    , spotless                       ,   5075,     10.42,       35, 40.66      , 0.00       , 4.99       , 1.75       , 13.79
+oshi                        , oshi                           ,   5071,     13.58,      165, 54.10      , 0.00       , 5.52       , 1.59       , 31.75
+sofastack                   , sofa-boot                      ,   5063,      7.42,       82, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+OpenTSDB                    , opentsdb                       ,   5061,     15.08,       27, 109.22     , 0.00       , 7.14       , 1.28       , 64.88
+wequick                     , Small                          ,   5049,      9.83,       25, 41.76      , 0.00       , 3.81       , 1.48       , 20.17
+baomidou                    , dynamic-datasource             ,   5043,      7.42,       18, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+spring-projects             , spring-authorization-server    ,   5042,      5.50,       80, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+xuexiangjys                 , XUI                            ,   5037,      6.67,       23, 54.96      , 0.00       , 5.73       , 1.66       , 52.71
+Exrick                      , xpay                           ,   5034,      7.75,        0, 69.00      , 0.00       , 6.43       , 1.00       , 93.43
+killbill                    , killbill                       ,   5023,     12.92,      150, 61.79      , 0.00       , 8.66       , 1.79       , 28.25
+youlookwhat                 , DesignPattern                  ,   5019,      8.92,        0, 13.21      , 0.00       , 2.54       , 1.28       , 1.43
+jankotek                    , mapdb                          ,   5015,     13.08,        0, 76.80      , 0.00       , 3.24       , 2.02       , 81.85
+yipianfengye                , android-zxingLibrary           ,   5014,      9.17,        0, 38.81      , 0.00       , 4.71       , 1.33       , 5.63
+Trinea                      , android-common                 ,   5012,     13.25,        1, 60.97      , 0.00       , 4.44       , 1.25       , 43.06
+tianshiyeben                , wgcloud                        ,   5010,      6.67,       29, 51.74      , 0.00       , 6.04       , 1.19       , 34.54
+rubensousa                  , GravitySnapHelper              ,   5002,      9.08,       14, 76.25      , 0.00       , 6.38       , 1.75       , 57.88
+2227324689                  , gpmall                         ,   5000,      6.17,        0, 20.91      , 0.00       , 4.98       , 1.36       , 8.17
+line                        , armeria                        ,   4997,      9.83,      260, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+youlookwhat                 , CloudReader                    ,   4995,      8.83,       26, 39.42      , 0.00       , 4.75       , 1.46       , 19.41
+DingMouRen                  , LayoutManagerGroup             ,   4992,      7.42,        0, 36.27      , 0.00       , 4.95       , 1.57       , 9.14
+orhanobut                   , dialogplus                     ,   4988,     10.75,        9, 36.10      , 0.00       , 5.24       , 1.03       , 57.86
+spring-attic                , spring-mvc-showcase            ,   4987,     14.25,        0, 22.09      , 0.00       , 5.17       , 1.21       , 9.45
+apache                      , ignite                         ,   4983,     10.58,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+JodaOrg                     , joda-time                      ,   4978,     14.33,       50, 164.48     , 0.00       , 8.58       , 2.28       , 295.29
+alibaba                     , UltraViewPager                 ,   4977,      8.50,       10, 63.25      , 0.00       , 5.21       , 1.38       , 58.38
+killme2008                  , aviatorscript                  ,   4974,     14.50,       52, 71.30      , 0.00       , 4.64       , 1.50       , 60.98
+frogermcs                   , InstaMaterial                  ,   4969,     10.83,        1, 27.79      , 0.00       , 4.79       , 1.54       , 9.94
+Devlight                    , NavigationTabBar               ,   4947,      9.50,       13, 43.76      , 0.00       , 4.02       , 1.31       , 57.50
+bisq-network                , bisq                           ,   4947,     11.50,      142, 48.28      , 0.00       , 7.51       , 1.77       , 30.24
+react-native-linear-gradient, react-native-linear-gradient   ,   4940,     10.50,       18, 25.68      , 0.00       , 5.16       , 1.63       , 10.68
+amitshekhariitbhu           , RxJava2-Android-Samples        ,   4940,      9.08,        0, 21.58      , 0.00       , 3.66       , 1.25       , 6.29
+apache                      , calcite                        ,   4936,     11.25,        0, 65.01      , 0.00       , 7.66       , 1.70       , 383.77
+spring-cloud                , spring-cloud-netflix           ,   4933,     11.17,       24, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+lugg                        , react-native-config            ,   4920,      9.58,       30, 18.61      , 0.00       , 4.57       , 1.39       , 1.96
+roncoo                      , roncoo-pay                     ,   4920,      9.17,        0, 50.53      , 0.00       , 5.21       , 1.28       , 62.94
+traex                       , RippleEffect                   ,   4916,     10.92,        0, 26.53      , 0.00       , 3.42       , 1.37       , 23.16
+PBH-BTN                     , PeerBanHelper                  ,   4910,      1.58,      143, 42.97      , 0.00       , 6.72       , 1.34       , 15.53
+querydsl                    , querydsl                       ,   4908,     14.08,       35, 30.52      , 0.00       , 5.20       , 1.99       , 42.90
+javastacks                  , spring-boot-best-practice      ,   4907,      6.83,        0, 11.18      , 0.00       , 4.74       , 1.09       , 3.12
+Docile-Alligator            , Infinity-For-Reddit            ,   4902,      7.17,      182, 59.97      , 0.00       , 6.93       , 1.55       , 30.85
+Ramotion                    , folding-cell-android           ,   4900,      9.42,        0, 38.67      , 0.00       , 4.14       , 1.33       , 13.38
+DiUS                        , java-faker                     ,   4897,     14.25,        0, 29.82      , 0.00       , 4.12       , 1.45       , 40.75
+cglib                       , cglib                          ,   4875,     11.50,       15, 35.48      , 0.00       , 3.22       , 1.53       , 261.80
+orientechnologies           , orientdb                       ,   4873,     12.75,      225, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+rstudio                     , rstudio                        ,   4864,     14.75,        0, 32.55      , 0.00       , 4.89       , 1.28       , 351.50
+react-native-webrtc         , react-native-webrtc            ,   4860,     10.00,       81, 60.99      , 0.00       , 6.12       , 1.15       , 8.72
+reactive-streams            , reactive-streams-jvm           ,   4860,     11.58,        0, 34.29      , 0.00       , 3.12       , 1.28       , 20.34
+Sayi                        , poi-tl                         ,   4855,     10.50,       14, 43.43      , 0.00       , 6.49       , 1.21       , 89.66
+allure-framework            , allure2                        ,   4852,      9.33,       80, 29.97      , 0.00       , 6.06       , 1.30       , 11.60
+fuzhengwei                  , small-spring                   ,   4850,      4.33,        0, 27.68      , 0.00       , 3.47       , 1.25       , 12.70
+nextcloud                   , android                        ,   4839,      9.25,      262, 92.31      , 0.00       , 9.29       , 1.69       , 114.50
+mcxiaoke                    , packer-ng-plugin               ,   4825,      9.83,        1, 57.29      , 0.00       , 2.81       , 1.39       , 18.65
+andkulikov                  , Transitions-Everywhere         ,   4806,     10.92,       23, 49.15      , 0.00       , 6.87       , 1.68       , 25.72
+claritylab                  , lucida                         ,   4800,     11.33,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+mock-server                 , mockserver                     ,   4794,     12.58,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+TheoKanning                 , openai-java                    ,   4787,      5.00,       22, 16.87      , 0.00       , 5.39       , 1.08       , 15.55
+saiwu-bigkoo                , Android-ConvenientBanner       ,   4771,     10.75,        0, 29.24      , 0.00       , 4.83       , 1.45       , 7.79
+ronmamo                     , reflections                    ,   4767,     12.42,        3, 24.27      , 0.00       , 2.77       , 1.15       , 13.66
+tuguangquan                 , mybatis                        ,   4765,     10.83,        0, 37.65      , 0.00       , 3.73       , 1.30       , 21.47
+apache                      , maven                          ,   4764,     16.33,       26, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+etsy                        , AndroidStaggeredGrid           ,   4750,     11.75,        7, 111.39     , 0.00       , 5.86       , 1.86       , 155.89
+nisrulz                     , android-tips-tricks            ,   4747,      9.08,        0, 22.00      , 0.00       , 1.00       , 1.00       , 0.00
+kyleduo                     , SwitchButton                   ,   4745,     11.00,        0, 57.15      , 0.00       , 4.37       , 1.41       , 82.48
+spring-cloud                , spring-cloud-gateway           ,   4740,      8.83,       36, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+firebase                    , FirebaseUI-Android             ,   4733,     10.17,       66, 46.74      , 0.00       , 9.79       , 1.96       , 12.34
+hongyangAndroid             , baseAdapter                    ,   4721,     10.08,        0, 31.26      , 0.00       , 4.88       , 1.32       , 18.28
+google                      , cameraview                     ,   4719,      9.08,        0, 39.62      , 0.00       , 5.60       , 1.37       , 34.76
+zq2599                      , blog_demos                     ,   4716,      8.42,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+hansonwang99                , Spring-Boot-In-Action          ,   4714,      6.67,        0, 20.25      , 0.00       , 3.87       , 1.12       , 6.01
+micrometer-metrics          , micrometer                     ,   4706,      8.42,      273, 41.73      , 0.00       , 5.71       , 1.29       , 19.85
+zlt2000                     , microservices-platform         ,   4702,      6.50,       30, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+spring-attic                , spring-security-oauth          ,   4702,     14.17,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+jgilfelt                    , chuck                          ,   4700,      8.58,        5, 40.43      , 0.00       , 5.83       , 1.38       , 55.74
+pardom-zz                   , ActiveAndroid                  ,   4678,     12.83,        0, 50.94      , 0.00       , 5.44       , 1.74       , 22.08
+SPLWare                     , esProc                         ,   4670,      3.83,        0, 161.06     , 0.00       , 6.68       , 2.17       , 97.74
+saysky                      , ForestBlog                     ,   4667,      7.92,        0, 28.34      , 0.00       , 5.10       , 1.07       , 12.69
+gsantner                    , markor                         ,   4661,      8.08,       76, 88.02      , 0.00       , 6.91       , 1.50       , 132.82
+cjlin1                      , libsvm                         ,   4659,     12.00,        0, 92.71      , 0.00       , 3.26       , 1.35       , 19.62
+wdullaer                    , MaterialDateTimePicker         ,   4659,     10.67,       54, 103.23     , 0.00       , 6.59       , 1.47       , 127.63
+stleary                     , JSON-java                      ,   4659,     14.75,       24, 134.37     , 0.00       , 3.19       , 1.22       , 361.08
+Heeexy                      , SpringBoot-Shiro-Vue           ,   4645,      7.83,        0, 23.44      , 0.00       , 5.78       , 1.41       , 9.44
+gabrielemariotti            , cardslib                       ,   4645,     12.00,       27, 39.77      , 0.00       , 5.90       , 2.18       , 18.62
+deepjavalibrary             , djl                            ,   4641,      5.92,       35, 57.87      , 0.00       , 6.52       , 1.47       , 132.77
+TGX-Android                 , Telegram-X                     ,   4640,      4.08,        5, 145.76     , 0.00       , 9.47       , 1.42       , 544.43
+romandanylyk                , PageIndicatorView              ,   4639,      9.08,       14, 49.06      , 0.00       , 5.51       , 1.50       , 22.81
+bytedeco                    , javacpp                        ,   4638,     11.42,       13, 125.70     , 0.00       , 5.91       , 2.01       , 151.14
+oracle                      , opengrok                       ,   4631,     12.67,      293, 62.61      , 0.00       , 5.35       , 1.64       , 78.88
+bepass-org                  , oblivion                       ,   4619,      1.58,       12, 45.53      , 0.00       , 5.64       , 1.48       , 11.62
+Netflix                     , ribbon                         ,   4618,     12.67,       41, 30.69      , 0.00       , 4.39       , 1.27       , 13.38
+981011512                   , --                             ,   4614,      5.25,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+apache                      , rocketmq-externals             ,   4606,      8.50,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+SplashCodes                 , JAViewer                       ,   4605,      9.33,       10, 35.25      , 0.00       , 5.79       , 1.60       , 11.65
+yasserg                     , crawler4j                      ,   4604,     13.75,        3, 57.06      , 0.00       , 5.28       , 1.31       , 55.89
+SuperMonster003             , AutoJs6                        ,   4592,      3.75,       20, 63.02      , 0.00       , 5.15       , 1.46       , 37.23
+chewiebug                   , GCViewer                       ,   4586,     13.92,        5, 70.29      , 0.00       , 5.27       , 2.16       , 49.04
+CalebFenton                 , simplify                       ,   4584,     11.67,        9, 68.01      , 0.00       , 8.99       , 1.37       , 20.74
+RedSpider1                  , concurrent                     ,   4583,      6.83,        0, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+angryip                     , ipscan                         ,   4583,     14.25,       31, 32.89      , 0.00       , 4.99       , 1.67       , 4.15
+puniverse                   , quasar                         ,   4577,     12.50,       18, 39.12      , 0.00       , 3.39       , 1.50       , 36.00
+rememberber                 , WePush                         ,   4573,      8.25,       58, 82.58      , 0.00       , 6.83       , 1.58       , 25.15
+dromara                     , dynamic-tp                     ,   4573,      3.67,       19, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+chentao0707                 , SimplifyReader                 ,   4567,     10.08,        0, 54.92      , 0.00       , 4.56       , 1.39       , 60.29
+javagrowing                 , JGrowing                       ,   4565,      6.58,        0, 17.32      , 0.00       , 1.53       , 1.00       , 1.95
+zhanghai                    , Douya                          ,   4560,      9.58,       11, 35.89      , 0.00       , 5.60       , 1.63       , 28.40
+objectbox                   , objectbox-java                 ,   4555,      8.67,       48, 62.23      , 0.00       , 5.13       , 1.76       , 103.66
+discord-jda                 , JDA                            ,   4554,      9.75,      110, 46.45      , 0.00       , 8.85       , 1.82       , 127.23
+charles2gan                 , GDA-android-reversing-Tool     ,   4550,      7.92,       40, 35.44      , 0.00       , 2.56       , 1.00       , 57.38
+go-lang-plugin-org          , go-lang-idea-plugin            ,   4550,     15.08,       21, 40.07      , 0.00       , 8.12       , 2.07       , 110.03
+square                      , sqlbrite                       ,   4545,     10.58,        9, 31.41      , 0.00       , 4.70       , 1.36       , 4.30
+danielzeller                , Depth-LIB-Android-             ,   4543,      9.42,        0, 34.92      , 0.00       , 3.79       , 1.21       , 13.35
+jdamcd                      , android-crop                   ,   4536,     11.50,        6, 54.06      , 0.00       , 4.29       , 1.39       , 26.48
+JZ-Darkal                   , AndroidHttpCapture             ,   4531,      8.92,        1, 50.16      , 0.00       , 4.71       , 1.42       , 37.00
+alibaba                     , dexposed                       ,   4530,     10.25,        0, 67.06      , 0.00       , 2.92       , 1.69       , 82.83
+hussien89aa                 , AndroidTutorialForBeginners    ,   4530,      9.00,        0, 30.67      , 0.00       , 4.51       , 1.50       , 2.74
+zhkl0228                    , unidbg                         ,   4529,      6.58,       15, 52.60      , 0.00       , 5.25       , 1.61       , 26.62
+castorflex                  , SmoothProgressBar              ,   4520,     11.83,        9, 46.00      , 0.00       , 4.85       , 1.23       , 26.31
+azkaban                     , azkaban                        ,   4516,     12.92,       48, 73.14      , 0.00       , 6.47       , 1.35       , 35.84
+ant-media                   , Ant-Media-Server               ,   4515,      8.50,       64, 90.36      , 0.00       , 5.72       , 1.33       , 183.49
+Flipboard                   , bottomsheet                    ,   4515,     10.42,       10, 37.91      , 0.00       , 4.90       , 1.37       , 27.66
+tiann                       , epic                           ,   4515,      8.33,        5, 34.41      , 0.00       , 3.23       , 1.62       , 30.40
+phishman3579                , java-algorithms-implementation ,   4510,     11.83,        0, 72.34      , 0.00       , 3.71       , 1.58       , 7.05
+HotBitmapGG                 , bilibili-android-client        ,   4492,      9.25,        1, 69.57      , 0.00       , 4.92       , 1.82       , 42.79
+zongzibinbin                , MallChat                       ,   4486,      2.50,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+JakeWharton                 , NineOldAndroids                ,   4477,     13.75,        0, 54.96      , 0.00       , 4.29       , 1.43       , 30.14
+booklore-app                , booklore                       ,   4468,      0.75,       89, 37.93      , 0.00       , 7.94       , 1.04       , 10.86
+Meituan-Dianping            , Robust                         ,   4457,      8.50,       13, 70.31      , 0.00       , 3.52       , 1.26       , 17.36
+janishar                    , android-mvp-architecture       ,   4446,      8.67,        0, 27.73      , 0.00       , 5.82       , 1.38       , 14.11
+h2database                  , h2database                     ,   4444,     10.42,       23, 138.07     , 0.00       , 6.02       , 2.06       , 176.35
+linhaojun857                , aurora                         ,   4444,      3.08,        0, 16.58      , 0.00       , 7.29       , 1.12       , 7.26
+square                      , android-times-square           ,   4439,     12.67,        0, 48.64      , 0.00       , 4.55       , 1.23       , 25.87
+dreamhead                   , moco                           ,   4427,     12.92,        1, 30.40      , 0.00       , 5.82       , 1.54       , 34.66
+water8394                   , flink-recommandSystem-demo     ,   4421,      6.33,        0, 23.83      , 0.00       , 3.73       , 1.08       , 6.40
+Tencent                     , GT                             ,   4414,      9.67,        3, 53.01      , 0.00       , 3.90       , 1.30       , 13.67
+jacoco                      , jacoco                         ,   4405,     13.17,       49, 39.19      , 0.00       , 4.26       , 1.43       , 12.64
+airbnb                      , DeepLinkDispatch               ,   4405,     10.25,       24, 341.96     , 0.00       , 6.28       , 1.48       , 88.64
+IoT-Technology              , IoT-Technical-Guide            ,   4404,      6.42,        0, 17.81      , 0.00       , 4.09       , 1.25       , 3.16
+apache                      , shiro                          ,   4402,     16.08,       14, 35.86      , 0.00       , 5.02       , 1.79       , 19.72
+Freeyourgadget              , Gadgetbridge                   ,   4400,     10.67,        0, 55.28      , 0.00       , 5.38       , 1.83       , 38.69
+robinhood                   , ticker                         ,   4389,      9.17,        9, 51.00      , 0.00       , 4.61       , 1.32       , 27.61
+flutter-webrtc              , flutter-webrtc                 ,   4372,      7.50,      132, 91.36      , 0.00       , 6.60       , 1.22       , 37.08
+Ashok-Varma                 , BottomNavigation               ,   4364,      9.50,       16, 69.70      , 0.00       , 7.53       , 1.43       , 69.27
+awangdev                    , leet-code                      ,   4358,     10.42,        0, 26.04      , 0.00       , 2.02       , 1.00       , 1.09
+pytorch                     , serve                          ,   4347,      5.92,       24, 74.69      , 0.00       , 5.80       , 1.47       , 63.92
+eirslett                    , frontend-maven-plugin          ,   4322,     12.08,        0, 37.55      , 0.00       , 5.60       , 1.73       , 7.05
+jeasonlzy                   , ImagePicker                    ,   4312,      9.67,        5, 48.49      , 0.00       , 5.83       , 1.49       , 23.08
+kermitt2                    , grobid                         ,   4312,     13.00,       22, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+mywalkb                     , LSPosed_mod                    ,   4309,      3.50,       10, 53.98      , 0.00       , 5.57       , 1.62       , 50.20
+bingoogolapple              , BGARefreshLayout-Android       ,   4309,     10.33,        4, 33.64      , 0.00       , 5.15       , 1.41       , 9.80
+crate                       , crate                          ,   4295,     12.42,      139, 57.93      , 0.00       , 7.57       , 1.64       , 48.49
+dragonwell-project          , dragonwell8                    ,   4286,      6.50,       41, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+ThirtyDegreesRay            , OpenHub                        ,   4282,      8.17,       31, 37.42      , 0.00       , 6.76       , 1.63       , 32.93
+Snailclimb                  , guide-rpc-framework            ,   4281,      5.33,        0, 24.27      , 0.00       , 4.62       , 1.21       , 1.19
+mcxiaoke                    , android-volley                 ,   4279,     12.33,        0, 37.61      , 0.00       , 5.09       , 1.89       , 15.82
+brianway                    , java-learning                  ,   4273,      9.58,        0, 14.59      , 0.00       , 1.08       , 1.29       , 0.60
+failsafe-lib                , failsafe                       ,   4273,     10.25,        0, 42.13      , 0.00       , 6.39       , 2.06       , 19.18
+bjmashibing                 , InternetArchitect              ,   4273,      5.92,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+ongakuer                    , CircleIndicator                ,   4269,     11.17,        7, 38.04      , 0.00       , 6.51       , 1.62       , 8.51
+aporter                     , coursera-android               ,   4263,     11.67,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+grantland                   , android-autofittextview        ,   4261,     14.58,        1, 58.75      , 0.00       , 5.38       , 1.38       , 40.75
+201206030                   , novel-plus                     ,   4257,      5.33,       34, 37.42      , 0.00       , 6.48       , 1.21       , 46.63
+jitsi                       , jitsi                          ,   4256,     12.42,        7, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+google                      , open-location-code             ,   4248,     11.00,        5, 34.25      , 0.00       , 4.96       , 1.18       , 4.55
+camunda                     , camunda-bpm-platform           ,   4240,     12.67,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+jlegewie                    , zotfile                        ,   4233,     13.75,       33, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+s4kibs4mi                   , java-developer-roadmap         ,   4225,      6.42,        0, 5.00       , 0.00       , 0.00       , 1.00       , 0.00
+mybatis                     , spring-boot-starter            ,   4217,     10.00,       32, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+ChadCSong                   , ShineButton                    ,   4216,      9.17,        2, 41.17      , 0.00       , 4.83       , 1.62       , 23.62
+ReVanced                    , revanced-patches               ,   4216,      1.75,      649, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+jboss-javassist             , javassist                      ,   4215,     12.33,       24, 74.98      , 0.00       , 3.39       , 1.55       , 43.91
+nining377                   , dolby_beta                     ,   4210,      5.33,       37, 39.47      , 0.00       , 4.15       , 1.45       , 7.95
+microsoft                   , malmo                          ,   4201,      9.33,       21, 68.81      , 0.00       , 7.05       , 2.14       , 12.85
+apache                      , streampark                     ,   4200,      6.33,       15, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+hugeterry                   , CoordinatorTabLayout           ,   4199,      8.67,        0, 27.82      , 0.00       , 5.29       , 1.41       , 9.41
+yhaolpz                     , FloatWindow                    ,   4198,      7.83,        9, 33.48      , 0.00       , 3.77       , 1.27       , 9.73
+codingapi                   , tx-lcn                         ,   4197,      7.83,       14, 35.01      , 0.00       , 4.95       , 1.21       , 6.34
+powermock                   , powermock                      ,   4191,     11.33,       16, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+Jacksgong                   , JKeyboardPanelSwitch           ,   4190,     10.17,       14, 34.72      , 0.00       , 5.20       , 1.30       , 7.38
+zendesk                     , maxwell                        ,   4184,     10.58,      214, 56.91      , 0.00       , 6.11       , 1.62       , 32.14
+bingoogolapple              , BGABanner-Android              ,   4178,     10.92,        0, 40.06      , 0.00       , 5.00       , 1.58       , 26.28
+aws                         , aws-sdk-java                   ,   4177,     15.50,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+tencentmusic                , supersonic                     ,   4169,      2.25,       15, 40.82      , 0.00       , 6.28       , 1.29       , 46.08
+oddfar                      , campus-imaotai                 ,   4161,      2.17,       11, 35.45      , 0.00       , 6.34       , 1.41       , 20.38
+alibaba                     , fastjson2                      ,   4149,      3.42,       58, 43.44      , 0.00       , 2.64       , 1.19       , 284.13
+pedrovgs                    , AndroidWiFiADB                 ,   4148,      9.92,        8, 36.53      , 0.00       , 2.87       , 1.50       , 12.13
+dromara                     , hmily                          ,   4143,      8.00,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+geoserver                   , geoserver                      ,   4135,     13.83,       62, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+karma9874                   , AndroRAT                       ,   4120,      5.50,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+dinuscxj                    , LoadingDrawable                ,   4115,      9.42,        0, 68.12      , 0.00       , 6.51       , 1.45       , 15.83
+alibaba                     , Tangram-Android                ,   4107,      8.50,       38, 42.40      , 0.00       , 5.26       , 1.68       , 23.21
+pqpo                        , SmartCropper                   ,   4092,      8.08,       13, 85.08      , 0.00       , 6.25       , 1.33       , 122.50
+Manabu-GT                   , ExpandableTextView             ,   4086,     11.33,        4, 36.80      , 0.00       , 5.13       , 1.73       , 11.80
+DTStack                     , chunjun                        ,   4082,      7.42,       30, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+code4craft                  , tiny-spring                    ,   4081,     11.67,        0, 14.56      , 0.00       , 3.08       , 1.15       , 2.37
+qunarcorp                   , bistoury                       ,   4080,      6.08,        8, 54.11      , 0.00       , 4.84       , 1.28       , 21.42
+rubensousa                  , ViewPagerCards                 ,   4073,      9.08,        0, 26.67      , 0.00       , 5.33       , 1.56       , 2.22
+oblac                       , jodd                           ,   4072,     13.00,       37, 36.93      , 0.00       , 3.99       , 1.44       , 12.95
+luckybilly                  , CC                             ,   4045,      7.83,        0, 38.33      , 0.00       , 4.97       , 1.26       , 16.32
+freeok                      , so-novel                       ,   4040,      3.33,       46, 35.44      , 0.00       , 6.01       , 1.17       , 2.64
+oldmanpushcart              , greys-anatomy                  ,   4025,     12.83,        0, 44.89      , 0.00       , 4.07       , 1.15       , 6.77
+jMonkeyEngine               , jmonkeyengine                  ,   4021,     11.50,       76, 63.55      , 0.00       , 6.69       , 1.62       , 53.89
+xcltapestry                 , XCL-Charts                     ,   4020,     11.25,        0, 71.55      , 0.00       , 7.74       , 2.18       , 49.04
+JabRef                      , jabref                         ,   4013,     11.50,       45, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+BoltsFramework              , Bolts-Android                  ,   4010,     11.67,       11, 32.56      , 0.00       , 3.00       , 1.09       , 19.01
+lcodecorex                  , TwinklingRefreshLayout         ,   4003,      9.50,        0, 41.54      , 0.00       , 4.28       , 1.37       , 36.27
+knowm                       , XChange                        ,   4000,     13.58,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+Yalantis                    , Phoenix                        ,   3999,     10.67,        1, 40.67      , 0.00       , 4.33       , 1.67       , 7.54
+LibrePDF                    , OpenPDF                        ,   3998,      9.17,       83, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+jetty                       , jetty.project                  ,   3998,     14.17,      132, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+jbloch                      , effective-java-3e-source-code  ,   3996,      7.08,        0, 14.94      , 0.00       , 1.13       , 1.19       , 1.33
+makovkastar                 , FloatingActionButton           ,   3994,     11.17,        0, 59.68      , 0.00       , 4.64       , 1.38       , 139.68
+Piasy                       , BigImageViewer                 ,   3987,      8.83,        0, 29.92      , 0.00       , 4.61       , 1.29       , 12.81
+bitcoin-wallet              , bitcoin-wallet                 ,   3984,     13.50,        0, 47.49      , 0.00       , 7.53       , 1.71       , 5.41
+orhanobut                   , hawk                           ,   3980,     10.58,       22, 32.08      , 0.00       , 3.62       , 1.04       , 12.96
+mercyblitz                  , tech-weekly                    ,   3980,      6.75,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+qstumn                      , BadgeView                      ,   3978,      8.58,        5, 50.26      , 0.00       , 4.34       , 1.31       , 49.89
+torakiki                    , pdfsam                         ,   3969,     12.00,       66, 30.26      , 0.00       , 6.96       , 1.40       , 4.83
+lukas-krecan                , ShedLock                       ,   3967,      8.75,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+JeremyLiao                  , LiveEventBus                   ,   3965,      7.17,        0, 25.27      , 0.00       , 3.23       , 1.11       , 4.04
+lilishop                    , lilishop                       ,   3964,      4.33,        3, 27.60      , 0.00       , 7.61       , 1.32       , 13.32
+awaitility                  , awaitility                     ,   3959,     15.67,        0, 32.19      , 0.00       , 3.18       , 1.19       , 18.58
+RipMeApp                    , ripme                          ,   3959,      8.67,      143, 62.15      , 0.00       , 5.01       , 2.54       , 28.17
+NotFound9                   , interviewGuide                 ,   3958,      9.42,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+zzhoujay                    , RichText                       ,   3957,     10.17,        0, 39.28      , 0.00       , 4.27       , 1.45       , 10.55
+rovo89                      , XposedInstaller                ,   3957,     13.42,        0, 44.24      , 0.00       , 4.90       , 1.42       , 8.52
+fishercoder1534             , Leetcode                       ,   3956,      9.17,        0, 26.88      , 0.00       , 2.55       , 1.01       , 0.34
+syncthing                   , syncthing-android              ,   3956,     11.58,      332, 59.32      , 0.00       , 6.51       , 1.69       , 9.05
+binIoter                    , GuideView                      ,   3953,      9.25,        0, 35.60      , 0.00       , 3.74       , 1.37       , 8.23
+googlesamples               , mlkit                          ,   3947,      5.33,        1, 52.03      , 0.00       , 7.67       , 1.53       , 8.12
+tronprotocol                , java-tron                      ,   3946,      7.75,       80, 91.20      , 0.00       , 8.86       , 1.76       , 80.76
+JoanZapata                  , android-iconify                ,   3943,     12.25,        0, 21.14      , 0.00       , 3.51       , 1.23       , 5.19
+Querz                       , mcaselector                    ,   3936,      7.42,       72, 68.50      , 0.00       , 6.85       , 2.44       , 22.18
+linyiqun                    , DataMiningAlgorithm            ,   3928,     10.67,        0, 92.56      , 0.00       , 2.29       , 1.09       , 9.96
+rengwuxian                  , RxJavaSamples                  ,   3927,      9.50,        3, 18.89      , 0.00       , 4.55       , 1.40       , 1.60
+pingfangushi                , screw                          ,   3922,      5.25,        0, 28.98      , 0.00       , 4.99       , 1.35       , 5.24
+promeG                      , TinyPinyin                     ,   3916,     10.00,        2, 21.55      , 0.00       , 2.06       , 1.09       , 8.75
+iterate-ch                  , cyberduck                      ,   3912,      8.67,        0, 39.63      , 0.00       , 6.46       , 1.35       , 65.49
+JFormDesigner               , FlatLaf                        ,   3909,      6.08,       87, 86.91      , 0.00       , 3.82       , 3.68       , 64.83
+bluelinelabs                , Conductor                      ,   3908,      9.50,       36, 76.13      , 0.00       , 7.79       , 1.27       , 90.39
+shuzijun                    , leetcode-editor                ,   3897,      6.50,       55, 44.59      , 0.00       , 6.33       , 1.74       , 20.14
+sofastack                   , sofa-rpc                       ,   3895,      7.42,       63, 47.35      , 0.00       , 5.22       , 1.32       , 24.51
+databricks                  , learning-spark                 ,   3893,     11.25,        0, 17.26      , 0.00       , 2.83       , 1.02       , 1.80
+ReChronoRain                , HyperCeiler                    ,   3893,      1.92,        7, CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR   , CK_ERROR
+alibaba                     , jstorm                         ,   3891,     12.00,       22, 74.90      , 0.00       , 5.54       , 1.55       , 42.37
+JavaNoober                  , BackgroundLibrary              ,   3891,      7.00,       13, 67.47      , 0.00       , 4.79       , 1.21       , 34.18
+Exrick                      , xboot                          ,   3888,      7.42,        6, 29.41      , 0.00       , 7.42       , 1.21       , 2.66
+amirzaidi                   , Launcher3                      ,   3887,      8.33,       22, 60.74      , 0.00       , 7.24       , 1.47       , 63.68
+VaughnVernon                , IDDD_Samples                   ,   3886,     12.42,        0, 43.74      , 0.00       , 4.74       , 1.66       , 27.33
+vipulasri                   , Timeline-View                  ,   3884,      9.75,       15, 209.00     , 0.00       , 9.00       , 1.50       , 453.50
+M66B                        , FairEmail                      ,   3867,      7.08,     1000, 57.29      , 0.00       , 4.73       , 1.27       , 33.45
+wendux                      , DSBridge-Android               ,   3856,      8.67,        2, 39.17      , 0.00       , 2.98       , 1.11       , 15.98
+uber                        , NullAway                       ,   3845,      8.00,       30, 40.73      , 0.00       , 4.54       , 1.22       , 51.57
+kubernetes-client           , java                           ,   3831,      8.33,       55, 38.31      , 0.00       , 2.06       , 1.04       , 7.96
+aurelhubert                 , ahbottomnavigation             ,   3829,      9.50,       14, 50.85      , 0.00       , 5.11       , 1.17       , 57.48
+MiguelCatalan               , MaterialSearchView             ,   3825,     10.00,        6, 33.20      , 0.00       , 4.05       , 1.32       , 22.66
+google                      , bundletool                     ,   3823,      7.33,       63, 62.22      , 0.00       , 9.70       , 1.27       , 82.60
+react-native-share          , react-native-share             ,   3820,     10.00,      139, 43.71      , 0.00       , 5.59       , 2.07       , 8.61
+yanzhenjie                  , AndServer                      ,   3818,      9.25,        1, 56.21      , 0.00       , 5.02       , 1.54       , 48.05
+uknownothingsnow            , CircleProgress                 ,   3814,     10.92,        0, 58.04      , 0.00       , 5.76       , 1.68       , 85.76
+ZHENFENG13                  , My-Blog                        ,   3812,      6.50,        0, 41.57      , 0.00       , 4.76       , 1.05       , 29.55
+jishenghua                  , jshERP                         ,   3804,      9.00,        6, 197.30     , 0.00       , 5.83       , 1.33       , 1673.71
+Helium314                   , HeliBoard                      ,   3797,      3.50,       50, 97.86      , 0.00       , 6.67       , 1.47       , 71.06
+camunda                     , camunda                        ,   3796,      9.50,      468, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+Dimezis                     , BlurView                       ,   3796,      9.42,       31, 31.00      , 0.00       , 5.90       , 1.50       , 7.00
+gh0stkey                    , HaE                            ,   3794,      5.50,       77, 59.22      , 0.00       , 4.15       , 1.66       , 11.91
+shopizer-ecommerce          , shopizer                       ,   3794,     12.83,       18, 43.38      , 0.00       , 7.94       , 1.68       , 34.15
+sunfusheng                  , MarqueeView                    ,   3792,      9.25,        0, 36.55      , 0.00       , 5.41       , 1.36       , 5.45
+fesh0r                      , fernflower                     ,   3783,     10.92,        0, 79.06      , 0.00       , 4.42       , 1.23       , 37.57
+mpusher                     , mpush                          ,   3780,      9.42,        9, 37.77      , 0.00       , 4.73       , 1.34       , 24.57
+watabou                     , pixel-dungeon                  ,   3776,     11.17,        0, 46.03      , 0.00       , 5.72       , 2.54       , 12.42
+mcxtzhang                   , SwipeDelMenuLayout             ,   3774,      9.08,        2, 27.12      , 0.00       , 3.10       , 1.25       , 5.20
+lygttpod                    , SuperTextView                  ,   3773,      8.92,       39, 46.53      , 0.00       , 3.05       , 1.16       , 141.67
+ageerle                     , ruoyi-ai                       ,   3770,      1.67,        6, 31.64      , 0.00       , 6.38       , 1.28       , 13.33
+CameraKit                   , blurkit-android                ,   3767,      8.83,        3, 49.70      , 0.00       , 6.10       , 1.50       , 30.30
+MovingBlocks                , Terasology                     ,   3756,     14.50,       70, 39.71      , 0.00       , 6.10       , 1.45       , 25.03
+Ereza                       , CustomActivityOnCrash          ,   3753,     11.17,       12, 59.53      , 0.00       , 5.40       , 1.33       , 32.33
+roboguice                   , roboguice                      ,   3752,     13.08,        0, 22.20      , 0.00       , 4.50       , 1.22       , 7.13
+apache                      , kylin                          ,   3749,     10.67,        2, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+timehop                     , sticky-headers-recyclerview    ,   3749,     10.92,        0, 27.86      , 0.00       , 4.62       , 1.28       , 3.24
+zhpanvip                    , BannerViewPager                ,   3748,      8.50,       59, 43.21      , 0.00       , 5.41       , 1.41       , 47.82
+sofastack                   , sofa-jraft                     ,   3743,      6.50,       32, 95.68      , 0.00       , 6.23       , 1.46       , 76.50
+AsamK                       , signal-cli                     ,   3743,     10.33,      102, 54.53      , 0.00       , 6.96       , 1.58       , 47.75
+andOTP                      , andOTP                         ,   3741,      8.17,       38, 50.86      , 0.00       , 6.11       , 1.50       , 41.42
+RoaringBitmap               , RoaringBitmap                  ,   3737,     12.25,       39, 122.91     , 0.00       , 5.59       , 1.14       , 259.59
+spotbugs                    , spotbugs                       ,   3733,      8.83,       69, 41.16      , 0.00       , 4.08       , 1.37       , 25.72
+JCTools                     , JCTools                        ,   3729,     11.83,       18, 47.06      , 0.00       , 4.60       , 3.91       , 19.97
+ethanhua                    , Skeleton                       ,   3725,      8.17,        0, 22.79      , 0.00       , 3.73       , 1.24       , 4.61
+Atmosphere                  , atmosphere                     ,   3720,     15.25,        0, 49.47      , 0.00       , 5.50       , 1.31       , 55.03
+willowtreeapps              , spruce-android                 ,   3718,      8.58,        3, 34.99      , 0.00       , 4.86       , 1.37       , 5.35
+stfalcon-studio             , ChatKit                        ,   3716,      8.58,        1, 43.33      , 0.00       , 5.77       , 2.90       , 35.48
+ByteLegend                  , ByteLegend                     ,   3715,      4.58,        0, 352.65     , 0.00       , 6.98       , 1.00       , 727.84
+ryanhoo                     , StylishMusicPlayer             ,   3707,      9.00,        0, 29.78      , 0.00       , 5.03       , 1.31       , 13.22
+liuyubobobo                 , Play-with-Algorithms           ,   3706,      9.17,        0, 39.75      , 0.00       , 2.89       , 1.01       , 5.20
+yanzhenjie                  , NoHttp                         ,   3703,     10.17,        0, 36.96      , 0.00       , 4.46       , 1.50       , 45.65
+rbmonster                   , learning-note                  ,   3702,      5.25,        0, 20.32      , 0.00       , 2.19       , 1.17       , 2.89
+undertow-io                 , undertow                       ,   3693,     13.17,        9, 52.24      , 0.00       , 5.20       , 1.24       , 36.65
+javahuang                   , SurveyKing                     ,   3690,      4.00,        3, 23.09      , 0.00       , 5.17       , 1.23       , 7.83
+nICEnnnnnnnLee              , BilibiliDown                   ,   3690,      6.67,       80, 75.72      , 0.00       , 4.21       , 1.72       , 42.02
+jtablesaw                   , tablesaw                       ,   3689,      9.67,       79, 63.36      , 0.00       , 6.27       , 1.28       , 108.53
+Creators-of-Create          , Create                         ,   3682,      6.17,        0, 59.46      , 0.00       , 10.76      , 1.82       , 27.79
+lihangleo2                  , ShadowLayout                   ,   3678,      6.17,       28, 52.88      , 0.00       , 4.00       , 1.14       , 21.62
+helidon-io                  , helidon                        ,   3675,      7.08,      131, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+yangfuhai                   , ASimpleCache                   ,   3675,     12.17,        0, 68.72      , 0.00       , 4.45       , 1.45       , 38.52
+networknt                   , light-4j                       ,   3672,      9.00,      192, 55.69      , 0.00       , 4.57       , 1.17       , 23.31
+lisawray                    , groupie                        ,   3672,      9.00,       28, 41.91      , 0.00       , 5.10       , 1.83       , 29.90
+dingjikerbo                 , Android-BluetoothKit           ,   3671,      9.92,        0, 34.63      , 0.00       , 4.07       , 1.24       , 18.70
+yacy                        , yacy_search_server             ,   3670,     10.50,        0, 108.86     , 0.00       , 5.59       , 1.39       , 43.30
+grpc-ecosystem              , grpc-spring                    ,   3670,      8.75,       34, 25.72      , 0.00       , 6.61       , 1.48       , 5.37
+google                      , rejoiner                       ,   3670,      7.75,        3, 27.22      , 0.00       , 6.62       , 1.57       , 4.92
+KunMinX                     , Linkage-RecyclerView           ,   3667,      6.42,        0, 34.03      , 0.00       , 6.40       , 1.55       , 10.39
+linkedin                    , databus                        ,   3667,     12.75,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+coderbruis                  , JavaSourceCodeLearning         ,   3664,      5.25,        0, 19.07      , 0.00       , 2.85       , 1.26       , 3.14
+tchiotludo                  , akhq                           ,   3651,      7.00,       42, 56.96      , 0.00       , 8.20       , 1.29       , 29.01
+PlexPt                      , chatgpt-java                   ,   3647,      2.75,       24, 29.13      , 0.00       , 5.28       , 1.28       , 14.59
+litesuits                   , android-common                 ,   3641,     11.33,        0, 60.97      , 0.00       , 4.44       , 1.25       , 43.06
+microservices-patterns      , ftgo-application               ,   3626,      7.92,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+apache                      , incubator-heron                ,   3621,     10.00,       56, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+huburt-Hu                   , NewbieGuide                    ,   3621,      8.17,       20, 24.31      , 0.00       , 4.31       , 1.18       , 10.44
+FasterXML                   , jackson-databind               ,   3620,     13.75,        0, 30.97      , 0.00       , 3.77       , 1.71       , 24.21
+rockerhieu                  , emojicon                       ,   3613,     11.67,        2, 76.18      , 0.00       , 5.15       , 1.56       , 6.77
+blossom-editor              , blossom                        ,   3612,      2.08,       19, 30.72      , 0.00       , 5.72       , 1.34       , 6.98
+alibaba                     , Alink                          ,   3609,      7.00,       22, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+spockframework              , spock                          ,   3608,     14.75,       26, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+uncle-novel                 , uncle-novel                    ,   3606,      6.75,        1, 63.16      , 0.00       , 7.29       , 1.66       , 10.42
+Mojang                      , brigadier                      ,   3599,     11.00,        3, 50.73      , 0.00       , 6.64       , 1.15       , 44.55
+spring-io                   , initializr                     ,   3596,     12.25,       17, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+tyrantgit                   , ExplosionField                 ,   3593,     10.00,        0, 34.30      , 0.00       , 4.90       , 1.50       , 4.30
+mbechler                    , marshalsec                     ,   3592,      8.33,        0, 30.75      , 0.00       , 7.29       , 1.82       , 14.58
+kikoso                      , android-stackblur              ,   3592,     12.08,        0, 22.76      , 0.00       , 1.76       , 1.10       , 0.59
+dtinit                      , data-transfer-project          ,   3590,      7.67,       61, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+dongjunkun                  , DropDownMenu                   ,   3582,     10.25,        2, 27.00      , 0.00       , 4.53       , 1.37       , 2.16
+vert-x3                     , vertx-examples                 ,   3582,     10.58,        0, 20.08      , 0.00       , 5.34       , 1.82       , 1.02
+WVector                     , AppUpdate                      ,   3577,      8.25,        3, 45.70      , 0.00       , 4.44       , 1.16       , 37.14
+hmkcode                     , Android                        ,   3577,     12.00,        0, 92.31      , 0.00       , 9.29       , 1.69       , 114.50
+googlemaps                  , android-maps-utils             ,   3575,     12.33,       55, 63.56      , 0.00       , 7.11       , 1.67       , 37.37
+OpenHFT                     , Chronicle-Queue                ,   3572,     12.25,      534, 55.23      , 0.00       , 5.49       , 1.59       , 177.40
+JakeWharton                 , ThreeTenABP                    ,   3571,     10.17,        0, 16.71      , 0.00       , 4.29       , 1.43       , 1.43
+davideas                    , FlexibleAdapter                ,   3570,     10.33,       30, 48.63      , 0.00       , 6.02       , 2.11       , 102.31
+IrisShaders                 , Iris                           ,   3569,      4.92,      140, 41.55      , 0.00       , 6.25       , 1.32       , 22.64
+fabric8io                   , kubernetes-client              ,   3564,     10.17,      124, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+code4craft                  , netty-learning                 ,   3559,     12.00,        0, 59.07      , 0.00       , 5.06       , 1.65       , 39.25
+dropbox                     , hackpad                        ,   3556,     10.08,        0, 141.73     , 0.00       , 5.09       , 1.81       , 152.30
+DataLinkDC                  , dinky                          ,   3555,      4.25,       31, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+bilibili                    , MagicaSakura                   ,   3553,      9.25,        3, 63.89      , 0.00       , 8.30       , 1.68       , 25.44
+johncarl81                  , parceler                       ,   3544,     12.17,        0, 23.08      , 0.00       , 4.69       , 1.35       , 16.59
+springdoc                   , springdoc-openapi              ,   3537,      6.17,       96, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+fyhertz                     , libstreaming                   ,   3535,     12.67,        0, 76.38      , 0.00       , 3.57       , 1.42       , 23.29
+arimorty                    , floatingsearchview             ,   3535,      9.83,        0, 30.89      , 0.00       , 3.57       , 1.18       , 26.28
+anggrayudi                  , android-hidden-api             ,   3534,     10.00,        2, 119.50     , 0.00       , 8.00       , 1.00       , 56.50
+LinShunKang                 , MyPerf4J                       ,   3534,      7.50,       23, 33.65      , 0.00       , 4.10       , 1.17       , 10.61
+HelloWorld521               , Java                           ,   3532,      8.75,        0, 38.31      , 0.00       , 2.06       , 1.04       , 7.96
+luontola                    , retrolambda                    ,   3530,     12.17,        0, 20.20      , 0.00       , 2.48       , 1.41       , 9.00
+andremion                   , Music-Player                   ,   3522,      9.33,        2, 28.94      , 0.00       , 4.41       , 1.75       , 5.03
+spring-cloud                , spring-cloud-kubernetes        ,   3521,      8.75,       32, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+apache                      , logging-log4j2                 ,   3521,     12.25,       15, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+dariuszseweryn              , RxAndroidBle                   ,   3517,      9.58,       60, 32.45      , 0.00       , 5.37       , 1.31       , 53.48
+Netflix                     , maestro                        ,   3516,      1.42,        0, 51.76      , 0.00       , 8.36       , 1.62       , 28.97
+immutables                  , immutables                     ,   3516,     12.17,       15, 25.96      , 0.00       , 4.68       , 1.28       , 30.61
+lsjwzh                      , RecyclerViewPager              ,   3515,     10.67,       10, 38.52      , 0.00       , 4.31       , 1.49       , 9.97
+1024-lab                    , smart-admin                    ,   3511,      5.83,       22, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+nytimes                     , Store                          ,   3511,      8.83,        0, 38.92      , 0.00       , 6.20       , 1.56       , 17.06
+codeestX                    , GeekNews                       ,   3506,      9.08,        0, 27.20      , 0.00       , 4.63       , 1.45       , 10.01
+cSploit                     , android                        ,   3504,     10.92,       33, 92.31      , 0.00       , 9.29       , 1.69       , 114.50
+baoyongzhang                , SwipeMenuListView              ,   3503,     11.08,        2, 40.82      , 0.00       , 4.39       , 1.45       , 15.24
+lenve                       , JavaEETest                     ,   3497,      8.75,        0, 13.85      , 0.00       , 3.52       , 1.10       , 3.27
+dromara                     , liteflow                       ,   3494,      5.50,        0, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+KingJA                      , LoadSir                        ,   3491,      8.00,        6, 20.01      , 0.00       , 5.19       , 1.55       , 4.01
+TNG                         , ArchUnit                       ,   3489,      8.42,       43, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR
+AxonFramework               , AxonFramework                  ,   3488,     13.75,      136, 37.41      , 0.00       , 6.39       , 1.27       , 16.28
+ittianyu                    , BottomNavigationViewEx         ,   3476,      8.83,       19, 47.28      , 0.00       , 4.90       , 1.59       , 50.14
+phodal                      , migration                      ,   3464,      5.67,        0, 8.42       , 0.00       , 1.42       , 1.00       , 0.08
+rubensousa                  , PreviewSeekBar                 ,   3461,      8.67,       10, 50.70      , 0.00       , 5.65       , 1.17       , 28.17
+ferredoxin                  , QNotified                      ,   3459,      6.50,       28, 69.47      , 0.00       , 6.01       , 1.63       , 47.77
+Grt1228                     , chatgpt-java                   ,   3459,      2.58,       10, 29.13      , 0.00       , 5.28       , 1.28       , 14.59
+eclipse-openj9              , openj9                         ,   3459,      8.08,       53, 90.48      , 0.00       , 3.35       , 1.54       , 110.87
+Netflix                     , concurrency-limits             ,   3456,      7.75,      102, 40.09      , 0.00       , 4.61       , 1.28       , 8.28
+RikkaApps                   , Sui                            ,   3451,      4.67,       21, 50.72      , 0.00       , 4.93       , 1.18       , 14.55
+alamkanak                   , Android-Week-View              ,   3449,     11.00,        4, 74.19      , 0.00       , 3.63       , 1.26       , 238.33
+freeplane                   , freeplane                      ,   3446,     13.00,       11, 46.50      , 0.00       , 4.55       , 1.57       , 48.25
+crossoverJie                , SSM                            ,   3441,      9.25,       10, 19.42      , 0.00       , 4.16       , 1.68       , 2.05
+apache                      , fory                           ,   3437,      2.42,       49, 54.56      , 0.00       , 5.30       , 2.19       , 38.14
+rom1v                       , sndcpy                         ,   3436,      5.25,        2, 53.50      , 0.00       , 7.75       , 2.00       , 20.25
+sherxon                     , AlgoDS                         ,   3433,      8.75,        0, 29.88      , 0.00       , 1.34       , 1.00       , 1.41
+guolindev                   , giffun                         ,   3431,      6.67,        0, 46.86      , 0.00       , 5.38       , 1.28       , 25.34
+WinterChenS                 , my-site                        ,   3427,      7.33,        0, 38.84      , 0.00       , 6.19       , 1.19       , 35.02
+xcc3641                     , SeeWeather                     ,   3426,      9.58,        2, 29.25      , 0.00       , 4.92       , 1.54       , 6.12
+GitLqr                      , LQRWeChat                      ,   3421,      8.58,        0, 45.63      , 0.00       , 5.01       , 1.42       , 18.94
+woxingxiao                  , BubbleSeekBar                  ,   3418,      8.83,       12, 65.27      , 0.00       , 4.90       , 1.30       , 91.70
+getActivity                 , Toaster                        ,   3415,      7.00,       36, 40.94      , 0.00       , 4.57       , 1.34       , 39.51
+google                      , volley                         ,   3414,      8.67,        9, 40.24      , 0.00       , 5.19       , 1.70       , 12.29
+openhab                     , openhab1-addons                ,   3413,     12.00,       14, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR, CLONE_ERROR

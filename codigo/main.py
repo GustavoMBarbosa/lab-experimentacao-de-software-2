@@ -5,6 +5,7 @@ import time
 import os
 import subprocess
 import sys
+import glob
 
 # ==============================
 # Configurações
@@ -125,20 +126,16 @@ def clone_repository(repo_url, repo_name):
 # ==============================
 def run_ck(repo_path):
     """
-    Executa o CK e retorna métricas resumidas (LOC, Comentários, CBO, DIT, LCOM).
-    Retorna tupla de floats (loc_mean, comments_mean, cbo_mean, dit_mean, lcom_mean)
-    ou None em caso de erro.
+    Executa o CK e retorna métricas resumidas (LOC, Comentarios, CBO, DIT, LCOM).
     """
     try:
-        # Verifica se o JAR do CK existe
         if not os.path.exists(CK_JAR):
-            print(f"Arquivo {CK_JAR} não encontrado. Coloque o jar na pasta do script.")
+            print(f"Arquivo {CK_JAR} não encontrado.")
             return None
 
-        output_dir = os.path.join(repo_path, "ck_results")
-        os.makedirs(output_dir, exist_ok=True)
+        output_dir = repo_path  # CK já salva no próprio repo
 
-        # roda o CK (suprime saída para não poluir)
+        # roda o CK
         subprocess.run(
             ["java", "-jar", CK_JAR, repo_path, "true", "0", "false", output_dir],
             check=True,
@@ -146,48 +143,50 @@ def run_ck(repo_path):
             stderr=subprocess.DEVNULL
         )
 
-        ck_file = os.path.join(output_dir, "class.csv")
-        if not os.path.exists(ck_file):
-            print(f"Nenhum resultado CK encontrado (class.csv) para {repo_path}")
+        # Tenta achar o arquivo *class.csv dentro da pasta
+        class_files = glob.glob(os.path.join(output_dir, "*class.csv"))
+
+        # Se não achou, tenta o formato "repositorios/<nome>class.csv"
+        if not class_files:
+            repo_name = os.path.basename(repo_path)
+            alt_path = os.path.join(CLONE_DIR, repo_name + "class.csv")
+            if os.path.exists(alt_path):
+                class_files = [alt_path]
+
+        if not class_files:
+            print(f"Nenhum arquivo *class.csv encontrado para {repo_path}")
             return None
 
-        # lê de forma tolerante
-        with open(ck_file, newline="", encoding="utf-8") as f:
+        ck_class_file = class_files[0]
+
+        # lê o class.csv
+        with open(ck_class_file, newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             headers = reader.fieldnames
             if not headers:
-                print(f"class.csv sem cabeçalho em {repo_path}")
+                print(f"{ck_class_file} sem cabeçalho")
                 return None
 
-            # tenta encontrar as colunas mais prováveis
             loc_col = _find_column(headers, ["loc", "lines", "nloc"])
-            comments_col = _find_column(headers, ["loccomment", "comment", "comments", "commentlines"])
+            comments_col = _find_column(headers, ["comment", "comments", "loccomment"])
             cbo_col = _find_column(headers, ["cbo"])
             dit_col = _find_column(headers, ["dit"])
             lcom_col = _find_column(headers, ["lcom"])
-
-            # se nenhuma coluna crítica encontrada, avisa
-            if not loc_col and not cbo_col and not dit_col and not lcom_col:
-                print(f"Colunas esperadas não encontradas em class.csv. Cabeçalhos: {headers}")
-                return None
 
             loc_total = comments_total = cbo_total = dit_total = lcom_total = 0.0
             count = 0
 
             for row in reader:
-                # parse seguro por coluna (se coluna inexistente, retorna 0)
-                loc_total += _to_float_safe(row.get(loc_col)) if loc_col else 0.0
-                comments_total += _to_float_safe(row.get(comments_col)) if comments_col else 0.0
-                cbo_total += _to_float_safe(row.get(cbo_col)) if cbo_col else 0.0
-                dit_total += _to_float_safe(row.get(dit_col)) if dit_col else 0.0
-                lcom_total += _to_float_safe(row.get(lcom_col)) if lcom_col else 0.0
+                loc_total += _to_float_safe(row.get(loc_col))
+                comments_total += _to_float_safe(row.get(comments_col))
+                cbo_total += _to_float_safe(row.get(cbo_col))
+                dit_total += _to_float_safe(row.get(dit_col))
+                lcom_total += _to_float_safe(row.get(lcom_col))
                 count += 1
 
             if count == 0:
-                print(f"class.csv não contém linhas válidas em {repo_path}")
                 return None
 
-            # retorna médias
             return (
                 loc_total / count,
                 comments_total / count,
@@ -196,12 +195,10 @@ def run_ck(repo_path):
                 lcom_total / count,
             )
 
-    except subprocess.CalledProcessError as e:
-        print(f"Erro ao executar o CK (java) em {repo_path}: {e}")
-        return None
     except Exception as e:
         print(f"Erro ao executar CK em {repo_path}: {e}")
         return None
+
 
 # ==============================
 # Salvar em CSV
@@ -224,18 +221,16 @@ def save_to_csv(repos, filename=CSV_OUTPUT):
             idade_meses = (now.year - created_at.year) * 12 + (now.month - created_at.month)
             idade_anos = idade_meses / 12
 
-            # Clone e análise CK somente no primeiro repo
-            loc = comments = cbo = dit = lcom = None
-            if i == 0:
-                repo_path = clone_repository(r["url"], r["name"])
-                if not repo_path:
-                    loc = comments = cbo = dit = lcom = "CLONE_ERROR"
+            # Agora roda o clone e CK em TODOS os repositórios
+            repo_path = clone_repository(r["url"], r["name"])
+            if not repo_path:
+                loc = comments = cbo = dit = lcom = "CLONE_ERROR"
+            else:
+                metrics = run_ck(repo_path)
+                if metrics:
+                    loc, comments, cbo, dit, lcom = metrics
                 else:
-                    metrics = run_ck(repo_path)
-                    if metrics:
-                        loc, comments, cbo, dit, lcom = metrics
-                    else:
-                        loc = comments = cbo = dit = lcom = "CK_ERROR"
+                    loc = comments = cbo = dit = lcom = "CK_ERROR"
 
             # formata valores para escrita
             def _fmt(x):
@@ -258,17 +253,50 @@ def save_to_csv(repos, filename=CSV_OUTPUT):
                 _fmt(lcom)
             ])
 
+def extrair_metricas_ck(repo_path):
+    class_files = glob.glob(os.path.join(repo_path + "*class.csv"))
+    method_files = glob.glob(os.path.join(repo_path + "*method.csv"))
+    if not class_files:
+        return "CK_ERROR", "CK_ERROR", "CK_ERROR", "CK_ERROR"
+
+    class_csv = class_files[0]
+
+    locs, cbos, dits, lcoms = [], [], [], []
+    with open(class_csv, newline='', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            try:
+                locs.append(int(row.get("loc", 0)))
+                cbos.append(int(row.get("cbo", 0)))
+                dits.append(int(row.get("dit", 0)))
+                lcoms.append(float(row.get("lcom", 0)))
+            except Exception:
+                continue
+
+    if not locs:  
+        return "CK_ERROR", "CK_ERROR", "CK_ERROR", "CK_ERROR"
+
+    return (
+        sum(locs),                              # LOC total
+        round(sum(cbos) / len(cbos), 2),        # CBO médio
+        round(sum(dits) / len(dits), 2),        # DIT médio
+        round(sum(lcoms) / len(lcoms), 2)       # LCOM médio
+    )
+
+
+
+
 # ==============================
 # Main
 # ==============================
 def main():
     # checagens iniciais
     if not TOKEN:
-        print("⚠️ Atenção: você precisa preencher o TOKEN do GitHub para rodar a coleta.")
+        print(" Atenção: você precisa preencher o TOKEN do GitHub para rodar a coleta.")
         return
 
     if not os.path.exists(CK_JAR):
-        print(f"⚠️ O arquivo JAR do CK não foi encontrado: {CK_JAR}")
+        print(f" O arquivo JAR do CK não foi encontrado: {CK_JAR}")
         print("Coloque o jar do CK no mesmo diretório do script ou ajuste a variável CK_JAR.")
         return
 

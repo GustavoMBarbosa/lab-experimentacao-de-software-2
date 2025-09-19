@@ -91,29 +91,48 @@ A análise foi conduzida a partir de **métricas de processo** (estrelas, idade,
 
 ### 5.1 Estatísticas Descritivas
 
-| Métrica         | Média | Mediana | Desvio Padrão | Mínimo | Máximo  |
-| --------------- | ----- | ------- | ------------- | ------ | ------- |
-| ⭐ Stars         | 9.613 | 5.780   | 11.703        | 3.413  | 151.699 |
-| 🕰 Idade (anos) | 9.63  | 9.75    | 3.05          | 0.17   | 16.92   |
-| 📦 Releases     | 38.93 | 10.00   | 84.69         | 0      | 1000    |
-| 📏 LOC          | 51.12 | 44.13   | 33.43         | 2.00   | 406.33  |
-| 💬 Comentários  | 0.00  | 0.00    | 0.00          | 0.00   | 0.00    |
+| Métrica | Média | Mediana | Desvio Padrão | Mínimo | Máximo |
+|---------|-------|---------|---------------|--------|--------|
+| ⭐ Stars | 9.613 | 5.780 | 11.703 | 3.413 | 151.699 |
+| 🕰 Idade (anos) | 9.63 | 9.75 | 3.05 | 0.17 | 16.92 |
+| 📦 Releases | 38.93 | 10.00 | 84.69 | 0 | 1000 |
+| 📏 LOC | 51.12 | 44.13 | 33.43 | 2.00 | 406.33 |
+| 💬 Comentários | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ### 5.2 Observações iniciais
+- Grande dispersão em **estrelas** e **releases**, indicando que alguns projetos puxam a média para cima.
+- Idade média de ~10 anos → projetos maduros.
+- LOC com valores moderados, mas alguns repositórios muito maiores (outliers).
+- Métricas de comentários não representaram valor significativo (possível falha na coleta).
 
-* Grande dispersão em **estrelas** e **releases**, indicando que alguns projetos puxam a média para cima.
-* Idade média de \~10 anos → projetos maduros.
-* LOC com valores moderados, mas alguns repositórios muito maiores (outliers).
-* Métricas de comentários não representaram valor significativo (possível falha na coleta).
+### 5.3 Maiores valores por repositório
+A seguir são apresentados os repositórios que obtiveram os **maiores valores em cada métrica**:
 
-### 5.3 Discussão dos resultados
+| Métrica | Repositório | Owner | Stars | Idade (anos) | Releases | LOC | CBO | DIT | LCOM |
+|---------|-------------|-------|-------|--------------|----------|-----|-----|-----|------|
+| ⭐ Stars | JavaGuide | Snailclimb | 151.699 | 7.33 | 0 | CK_ERROR | CK_ERROR | CK_ERROR | CK_ERROR |
+| 🕰 Idade | platform_frameworks_base | aosp-mirror | 11.200 | 16.92 | 47 | 152.77 | 4.92 | 1.92 | 29.8 |
+| 📦 Releases | Activiti | Activiti | 9.877 | 12.25 | 1000 | 155.43 | 6.34 | 1.85 | 44.3 |
+| 📏 LOC | GhidraMCP | LaurieWired | 8.122 | 8.5 | 5 | 406.33 | 16.33 | 2.3 | 210.5 |
+| 🔗 CBO | GhidraMCP | LaurieWired | 8.122 | 8.5 | 5 | 406.33 | 16.33 | 2.3 | 210.5 |
+| 🌳 DIT | pkl | apple | 7.223 | 4.1 | 12 | 33.2 | 3.7 | 4.39 | 17.6 |
+| ⚖ LCOM | libgdx | libgdx | 21.199 | 14.75 | 88 | 199.44 | 5.4 | 1.7 | 3447.19 |
 
-* **IH01:** Parcial – projetos populares nem sempre têm melhor qualidade (necessário cruzamento com CK).
-* **IH02:** Projetos mais antigos acumulam complexidade, porém alguns mantêm bons índices de qualidade.
-* **IH03:** A atividade (releases) parece estar associada a melhor manutenção, mas há grande variabilidade.
-* **IH04:** Confirmada tendência: repositórios maiores apresentam piores valores de coesão (LCOM alto).
+### 5.4 Discussão dos resultados
+Nesta seção, os resultados foram analisados em relação às questões de pesquisa definidas no início do relatório:
 
----
+- **RQ01 (Popularidade × Qualidade):** Os repositórios mais populares (com maior número de estrelas) apresentaram grande variação nos valores de CBO, DIT e LCOM. Isso indica que popularidade não está diretamente associada a melhor qualidade interna.
+- **RQ02 (Maturidade × Qualidade):** Repositórios mais antigos tendem a acumular complexidade (CBO e LCOM mais altos). Entretanto, alguns preservam boas práticas.
+- **RQ03 (Atividade × Qualidade):** Projetos com maior número de releases demonstraram melhor manutenção e organização, refletida em valores mais controlados de acoplamento. Contudo, só a frequência de releases não garante qualidade consistente.
+- **RQ04 (Tamanho × Qualidade):** Os repositórios com maior LOC apresentaram métricas de qualidade piores, principalmente no LCOM. Isso confirma a hipótese de que sistemas maiores tendem a ser mais complexos e difíceis de manter.
+
+### 5.5 Análise ilustrativa de repositórios
+- **JavaGuide (Snailclimb):** Maior número de estrelas, mas com falhas na coleta CK, dificultando análise de qualidade.
+- **platform_frameworks_base (aosp-mirror):** Repositório mais antigo (16.9 anos), ainda ativo e grande, apresentou valores médios de qualidade.
+- **Activiti:** Projeto extremamente ativo em termos de releases (1000), indicando alta manutenção.
+- **GhidraMCP (LaurieWired):** Apresentou o maior LOC e também maior CBO, mostrando impacto do tamanho na complexidade.
+- **libgdx:** Exibiu LCOM extremamente alto (3447.19), confirmando tendência de baixa coesão em projetos grandes.
+
 
 ## 6. Conclusão
 
